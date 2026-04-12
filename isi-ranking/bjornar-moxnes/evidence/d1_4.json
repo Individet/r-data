@@ -1,0 +1,40 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d1_4",
+  "subdimensionName": "Selvbestemmelse ved livets slutt",
+  "harvestedAt": "2026-04-12",
+  "summary": "Oppfølgingssøk avdekket én viktig sekundærkilde: Fagbladet.no rapporterer at Rødt «stemte nylig ned forslag om aktiv dødshjelp» på partiets landsmøte (2025). Dette er en sentral og dokumenterbar indikasjon på at partiet, inkludert Moxnes som partiets daværende leder, aktivt har gått mot legalisering av assistert dødshjelp. Ingen primærkilder i form av uttalelser direkte fra Moxnes personlig er funnet. Partiets posisjon er imidlertid dokumentert som negativ til legalisering. Datagapet er delvis lukket på partinivå, men Moxnes' personlige eksplisitte posisjon er fortsatt udokumentert.",
+  "stance": "negative",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt stemte ned forslag om aktiv dødshjelp på landsmøtet i 2025, i motsetning til f.eks. FrP som er eneste stortingsparti som programfester støtte til legalisering.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "2025, enkeltvedtak på landsmøtet",
+      "inconsistency": "Ingen personlige uttalelser fra Moxnes funnet – posisjonen er partiets, ikke hans eksplisitt dokumenterte",
+      "note": "Kilde: Fagbladet.no (mars 2025). Moxnes var leder av Rødt på tidspunktet og presumptivt ansvarlig for partiets standpunkt, men det er ikke dokumentert at han selv uttalte seg om saken."
+    },
+    {
+      "claim": "Kun FrP er blant Stortingets partier som eksplisitt programfester støtte til legalisering av aktiv dødshjelp; Rødt er blant partiene som stemmer mot.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Per mars 2025",
+      "inconsistency": "Ingen eksplisitt uttalelse fra Moxnes personlig",
+      "note": "Fagbladet.no bekrefter at Rødt nylig stemte ned forslaget, i kontrast til FrPs ja-posisjon. Impliserer at Moxnes som partileder sluttet seg til denne linjen."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Bjørnar Moxnes personlig uttalt seg om eutanasi eller assistert dødshjelp i intervjuer, kronikker eller stortingsdebatter?",
+    "Hva var begrunnelsen Rødt/Moxnes ga for å stemme ned forslaget på landsmøtet 2025?",
+    "Er Rødts nei begrunnet i klassisk venstreargumentasjon (vern av sårbare grupper, systemkritikk) eller i prinsippiell motstand mot selvbestemmelse?"
+  ],
+  "citations": []
+}
