@@ -1,0 +1,69 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d5_3",
+  "subdimensionName": "Sivilsamfunn vs. statlig substitusjon",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes og Rødt har en konsekvent og eksplisitt posisjon om at velferdstjenester primært skal drives av det offentlige (kommunalt/statlig) eller av ideelle aktører. Moxnes har gjentatte ganger tatt til orde for å fjerne kommersielle aktører fra barnehage, barnevern, eldreomsorg og sykehus, og erstatte dem med offentlig eller ideell drift. Han aksepterer ideelle organisasjoner som supplement til det offentlige, men den overordnede retningen er sterk statlig/kommunal styring og utvidelse av offentlig sektor. I Rødts partiprogram og i Moxnes' egne uttalelser er statlig og kommunal løsning normen, mens frivillig sivilsamfunn sees som et supplement – ikke som et selvstendig alternativ som bør prioriteres fremfor statlige løsninger. Rødt Bergen-programmet eksplisitterer direkte at «oppgaver som tilhører det offentlige i økende grad er lagt til frivillighet og sivilsamfunn» som et problem, noe som indikerer preferanse for å tilbakeføre slike oppgaver til staten. Samlet er Moxnes' posisjon en av de sterkeste eksemplene på statlig substitusjon fremfor sivilsamfunnets frie rolle.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Moxnes erklærte at alle velferdstjenester bør drives av kommunen, og at 'alle velferdstjenester bør drives av kommunen' fordi fellesløsningene er mest effektive – primær preferanse for offentlig drift over sivilsamfunn.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra minst 2019 til 2023, dokumentert i debattinnlegg i Dagsavisen (sitert av Civita) og gjentatte offentlige uttalelser.",
+      "inconsistency": "",
+      "note": "Civita-artikkelen siterer Moxnes direkte på at alle velferdstjenester bør drives av kommunen."
+    },
+    {
+      "claim": "Rødt under Moxnes' ledelse lanserte en plan for 'profittfri velferd' der skattefinansierte helse- og omsorgstjenester skal drives av offentlige og ideelle aktører – kommersielle aktører skal fases ut og tjenester tas tilbake i kommunal eller ideell regi.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Lansert august 2021, konsistent partiposisjon i hele Moxnes' lederperiode (2012–2023).",
+      "inconsistency": "",
+      "note": "Rødt skiller mellom ideelle (aksepterte) og kommersielle (avviste), men primærpreferansen er alltid offentlig/kommunal drift. Ideelle ses som supplement, ikke selvstendig alternativ."
+    },
+    {
+      "claim": "Moxnes støtter ideelle organisasjoner som velferdsaktører og skiller eksplisitt mellom ideelle (akseptert) og kommersielle (avvist) – noe som innebærer en viss anerkjennelse av sivilsamfunnets rolle.",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjennomgående i alle Rødts velferdsdokumenter og Moxnes' egne debattinnlegg (2017–2023).",
+      "inconsistency": "Anerkjennelsen av ideelle er instrumentell – de aksepteres fordi de ikke tar profitt, ikke fordi sivilsamfunnet har egenverdi som selvstendig sfære utenfor statlig kontroll.",
+      "note": "Rødt.no: 'Det går et viktig skille mellom de private ideelle aktørene og de kommersielle. Private, ideelle aktører har stått for velferdstjenester i Norge siden før velferdsstaten ble påtenkt. Rødt støtter disse aktørene.'"
+    },
+    {
+      "claim": "Rødt Bergen-programmet (som gjenspeiler partiets linje) fastslår at 'oppgaver som tilhører det offentlige i økende grad har blitt lagt til frivillighet og sivilsamfunn' som et negativt fenomen som bør reverseres.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Kommunevalgprogram, representerer partiets retning under Moxnes' ledertid.",
+      "inconsistency": "",
+      "note": "Dette er en direkte partiposisjon om at statens oppgaver ikke bør overlates til sivilsamfunnet."
+    },
+    {
+      "claim": "Moxnes har konsekvent fremmet statlig utvidelse av velferdsstaten – inkludert å inkludere tannhelse i offentlig velferd, ta tilbake luftambulansetjenesten i offentlig drift, og innføre offentlig kontroll over kraft og jernbane.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjennomgående tema 2017–2023.",
+      "inconsistency": "",
+      "note": "Mønsteret er at Moxnes konsekvent foretrekker statlig løsning der frivillig eller privat sektor historisk har fylt behovet, i tråd med ISI-dimensjonens kjernespørsmål."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes uttalt seg spesifikt om frivillige organisasjoners autonomi og egenverdi utenfor velferdsstatens rammer (f.eks. idrett, kultur, sivile bevegelser)?",
+    "Skiller Moxnes mellom velferdsstatlig substitusjon (der han klart er negativ) og frivillig sivilsamfunn på andre arenaer som kultur og demokrati?"
+  ],
+  "citations": []
+}
