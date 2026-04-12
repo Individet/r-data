@@ -1,0 +1,69 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d3_1",
+  "subdimensionName": "Eiendomsvern, skatt og ekspropriering",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har gjennom hele sin politiske karriere – fra leder av Rødt (2012–2023) og frem til i dag som stortingsrepresentant – ført en konsekvent og eksplisitt politikk der skatt primært er et omfordelingsverktøy og statlig/kollektivt eierskap sees som et overordnet politisk mål. Han har aktivt fremmet kraftige økte formueskatter med progressiv sats opp til 1,6% over 100 mill. kr, innføring av ny dynastiskatt/arveskatt, økt utbytteskatt (til 43–46%), økt selskapsskatt, økt skatt på sekundærboliger og «boligspekulasjon», samt reell verdsetting i formuesskatten uten rabatter (unntatt primærbolig). På eiendomssiden har Rødt under Moxnes' ledelse gått inn for at fellesskapet skal eie eller ha demokratisk kontroll over «all infrastruktur av betydning» – inkludert kraft, banker, datasentre og jernbane – noe som innebærer overføring av privat eiendom til kollektivt eierskap. Representantforslag om statlig eierskap er levert direkte av Moxnes til Stortinget. Posisjonen er konsistent over tid og fremstår som partiets grunnleggende ideologi, ikke som enkeltstående utspill. Sett fra ISI-perspektivet innebærer dette en aktiv fremming av politikk som systematisk krenker eiendomsretten og bruker skatt langt utover finansiering av nødvendige fellesgoder.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Moxnes lanserte Rødts skattereform (2023) som eksplisitt ville øke formuesskatten progressivt opp til 1,6% for formuer over 100 mill. kr, fjerne alle verdsettingsrabatter unntatt primærbolig, øke utbytteskatt til 46%, og innføre ny arveskatt – alt begrunnet med omfordeling og reduksjon av klasseskiller, ikke finansiering av statens grunnoppgaver.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra minst 2019 til 2023 og videreført i Rødts program 2025–2029.",
+      "inconsistency": "",
+      "note": "Primærkilder: Altinget (2023), rodt.no/skatt, Nettavisen (2021). Moxnes representerte og frontet disse forslagene personlig som partileder."
+    },
+    {
+      "claim": "Rødt under Moxnes' ledelse fremmet representantforslag (Dokument 8, 2017–18) om statlig eierskap, og partiets arbeidsprogram 2025–2029 fastslår at 'fellesskapet bør eie eller ha demokratisk kontroll over all infrastruktur av betydning' – inkludert banker, kraft, datasentre og jernbane – som overordnet ideologisk mål.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon fra 2017 og videreført i 2025-programmet.",
+      "inconsistency": "",
+      "note": "Kilde: stortinget.no (Dok 8, 2017–18), Rødts arbeidsprogram 2025–2029 (roedt.no). Moxnes' navn er direkte knyttet til Dok 8-forslaget om statlig eierskap."
+    },
+    {
+      "claim": "Moxnes vil øke skattene på sekundærboliger og 'boligspekulasjon', og innføre et 'mer rettferdig boligskattesystem', samt bygge en tredje boligsektor uten profittmotiv med prisregulerte boliger og kommunal tomtepolitikk – noe som effektivt begrenser privates eiendoms- og disposisjonsrett over boligeiendom.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Fremmet gjennom Dok 8-forslag om tredje boligsektor (2020) og videreført i valgprogrammet 2025.",
+      "inconsistency": "",
+      "note": "Kilde: Eiendom Norge (2020), eiendomnorge.no boligpolitikk 2025."
+    },
+    {
+      "claim": "Rødt under Moxnes ønsket å bruke oljefondet til å ta selskaper av børs og underlegge dem 'demokratisk kontroll', noe som ville innebære statlig tvangsovertakelse av privat næringsvirksomhet.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Omtalt i valgkampen 2021.",
+      "inconsistency": "",
+      "note": "Kilde: Nettavisen (kommentar, sept. 2021). Sekundærkilde, men omtaler en konkret politisk posisjon knyttet til Rødt i valgkamp 2021."
+    },
+    {
+      "claim": "Moxnes' eksplisitte retorikk framer skatt som et instrument for å 'ta kontrollen over forskjellsutviklingen' og at 'skatter og avgifter kan brukes til å hindre maktkonsentrasjon' – en ideologisk posisjon der skatt er et aktivt omfordelingsverktøy, ikke et nødvendig onde med strenge grenser.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjentakende retorikk fra 2019 til 2025.",
+      "inconsistency": "",
+      "note": "Kilde: Altinget (2023), Rødts arbeidsprogram 2025–2029 (roedt.no/fil/...)."
+    }
+  ],
+  "unresolvedQuestions": [
+    "I hvilken grad vil Moxnes støtte direkte ekspropriering av privat næringseiendom utover bruk av oljefondet til å kjøpe selskaper av børs – dette er ikke fullt ut dokumentert i primærkilder.",
+    "Rødt 2025-program er vedtatt etter Moxnes trådte ned som leder (2023); i hvilken grad han personlig vs. partiet representerer disse posisjonene fremover bør vurderes, selv om han forblir stortingsrepresentant."
+  ],
+  "citations": []
+}
