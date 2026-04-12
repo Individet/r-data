@@ -1,0 +1,69 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d6_1",
+  "subdimensionName": "Overvåkning og personvern",
+  "harvestedAt": "2026-04-12T00:00:00Z",
+  "summary": "Bjørnar Moxnes har over lang tid inntatt en konsekvent og eksplisitt motstand mot statlig masseovervåkning og datalagring. Han stemte mot datalagringsdirektivet (DLD) i 2011 som del av Rødts nei-posisjon, motarbeidet aktivt etterretningstjenestelovens kapittel 7 og 8 om tilrettelagt innhenting i 2020 ved å fremme utsettelsesforslag og støtte krav om domstolskontroll, kritiserte kraftig finansieringen av E-tjenestens masseovervåkningssystem i 2020/2021, og stilte Stortingsspørsmål om amerikansk spionasje mot norske toppolitikere og om lovligheten av E-tjenestens satelittbase-operasjoner. Hans posisjon er konsekvent negativ til masseovervåkning, og han har argumentert for at slike tiltak er 'dyre, upresise og ineffektive' og utgjør 'den mest omfattende overvåkningen av befolkningen noensinne'. På ISI-skalaen er Moxnes' profil på overvåkning og personvern tydelig frihetsorientert — han har aktivt motarbeidet statlig masseovervåkning i ulike former gjennom hele sin stortingsperiode.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt stemte mot datalagringsdirektivet (DLD) i 2011. Kun Ap og Høyre støttet det. Moxnes var på dette tidspunkt aktiv i partiet (nestleder), og Rødts posisjon var klar motstand mot masselagring av trafikkdata.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2011 — tidlig og konsekvent motstand.",
+      "inconsistency": "",
+      "note": "Moxnes var nestleder i Rødt i 2011 og ble leder i 2012. Rødts partistilling er primærkilden, ikke en personlig Stortingsstemme fra Moxnes siden han ikke var representant da."
+    },
+    {
+      "claim": "Under behandlingen av ny etterretningstjenestelov i juni 2020 fremmet Moxnes forslag om å utsette lovbehandlingen, og argumenterte fra Stortingets talerstol mot tilrettelagt innhenting som 'den mest omfattende overvåkningen av befolkningen noensinne'. Han ga støtte til SVs forslag om domstolskontroll og foreslo at kap. 7 og 8 ikke måtte tre i kraft før kildevern og ytringsfrihet var styrket.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Juni 2020 — aktiv parlamentarisk motstand mot masseovervåkningsloven.",
+      "inconsistency": "",
+      "note": "Kilde: digi.no, referat fra Stortingets behandling av ny E-lov, juni 2020."
+    },
+    {
+      "claim": "Moxnes kritiserte i 2020/2021 kraftig regjeringens budsjettøkninger til E-tjenestens overvåkingssystem. Han uttalte at 'Denne økningen skal brukes til å masseovervåke norske innbyggere. Dette er et dyrt, upresist og ineffektivt verktøy for å ivareta vår sikkerhet' og at 'Vi kan ikke overvåke oss til et risikofritt samfunn'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2020–2021 — konsistent kritikk av budsjettposter til masseovervåkning.",
+      "inconsistency": "",
+      "note": "Kilde: NRK, artikkel om budsjettvekst for Etterretningstjenesten."
+    },
+    {
+      "claim": "Moxnes stilte i 2018 Stortingsspørsmål om E-tjenestens hemmelige satellittbase utenfor Hønefoss og krevde at informasjon om nordmenn som var fanget opp, måtte slettes. Han karakteriserte det som 'et svik' at norske regjeringer hadde innført 'et amerikansk spionasje- og overvåkingsprogram på norsk jord, og holdt det skjult for norske borgere'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2018 — aktiv oppfølging av E-tjenestens ulovlige overvåkning av nordmenn.",
+      "inconsistency": "",
+      "note": "Kilde: NRK, mars 2018."
+    },
+    {
+      "claim": "Moxnes stilte i 2021/2022 Stortingsspørsmål til forsvarsministeren om status for EMK-analysen av etterretningstjenestelovens § 7-3 om tilrettelagt innhenting, og fulgte aktivt opp den rettslige usikkerheten ved masseovervåkningsparagrafen.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2022 — aktiv parlamentarisk oppfølging av personvernproblematikken i E-loven.",
+      "inconsistency": "",
+      "note": "Kilde: stortinget.no, skriftlig spørsmål fra Bjørnar Moxnes (R) til forsvarsministeren."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes tatt eksplisitt stilling til PST-loven av 2023 (utvidede fullmakter til innsamling av åpent tilgjengelig informasjon fra internett), eller er dette kun dokumentert som en Rødt-partiposisjon?",
+    "Er det noen saker der Moxnes har støttet utvidede overvåkingshjemler, f.eks. i forbindelse med nasjonal sikkerhet etter Ukraina-krigen?"
+  ],
+  "citations": []
+}
