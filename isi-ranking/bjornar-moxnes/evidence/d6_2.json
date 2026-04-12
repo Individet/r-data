@@ -1,0 +1,18 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d6_2",
+  "subdimensionName": "Digital identitet og kontroll",
+  "summary": "Ingen av søkene returnerte primærkilder som dokumenterer Bjørnar Moxnes' spesifikke posisjoner om obligatorisk digital ID, CBDC eller sosiale kredittmekanismer. Rødts partiprogram beskriver sterk motstand mot overvåkning og støtter personvern generelt, men uten å adressere digital ID-wallet, CBDC eller sosiale kredittmekanismer eksplisitt.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [],
+  "unresolvedQuestions": [
+    "Har Moxnes eller Rødt tatt eksplisitt stilling til obligatorisk digital ID-wallet (f.eks. EU Digital Identity Wallet / eIDAS 2.0)?",
+    "Har Moxnes eller Rødt uttalt seg spesifikt om CBDC / digitale sentralbankpenger og kontrolldimensjonen?",
+    "Har Moxnes uttalt seg om sosiale kredittmekanismer i norsk eller europeisk sammenheng?"
+  ],
+  "citations": []
+}
