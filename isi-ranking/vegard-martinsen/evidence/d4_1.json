@@ -1,0 +1,59 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d4_1",
+  "subdimensionName": "Lik anvendelse av loven",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen er grunnlegger og redaktør av Gullstandard.no og var leder av Det Liberale Folkepartiet (DLF) 2002–2017. På gullstandard.no fremgår det en konsistent og eksplisitt motstand mot statlig kvotering og positiv særbehandling. Artikler publisert under Martinsens redaktørskap og forfatterskap argumenterer for at kvotering er 'urettferdig og blir raskt absurd', at det privilegerer gruppeidentitet på bekostning av individuelle kvalifikasjoner, og at det representerer kollektivistisk tankegods. Posisjonen er tydelig: statlig kvotering avvises prinsipielt, mens private aktørers rett til å ansette hvem de vil – inkludert å kvotere – forsvares. Dette er konsistent med ISIs likebehandlingsprinsipp i den forstand at Martinsen avviser gruppebasert særbehandling fra statens side, og støtter en individualistisk tolkning av likebehandling.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Gullstandard.no – redigert og skrevet av Martinsen – konkluderer eksplisitt at kvotering er 'urettferdig og blir raskt absurd', og at systemet privilegerer gruppeidentitet fremfor individuelle kvalifikasjoner.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra 2018 og frem til i dag på gullstandard.no; samme linje ble holdt i DLF-perioden 2002–2017.",
+      "inconsistency": "",
+      "note": "Artikkelen 'Humor og kvotering' (jan. 2019) er signifikant fordi den ikke bare er polemisk, men gir en prinsipielt fundert kritikk: kvotering setter kvalitet til side, er urettferdig og leder til absurditet."
+    },
+    {
+      "claim": "Martinsen skriver på gullstandard.no at statlig kvotering prinsipielt avvises – 'staten bør ikke kvotere i det hele tatt' – mens private aktørers fulle frihet til å kvotere (eller ikke) forsvares.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjentatt posisjon over flere artikler (2019, 2021, 2023).",
+      "inconsistency": "",
+      "note": "Skillet mellom statlig og privat kvotering er konsistent: Martinsen er ikke for absolutt forbud mot all kvotering, men mot statlig/lovpålagt kvotering som bryter med likebehandlingsprinsippet overfor individet."
+    },
+    {
+      "claim": "I artikkelen om kjønnsinkongruens (2021) formulerer Martinsen posisjonen eksplisitt: 'At vi er imot all statlig kvotering, bortsett fra på områder hvor det er relevant – visse oppgaver innen politiet og det militære bør forbeholdes menn.'",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Enkeltuttalelse i 2021-artikkel.",
+      "inconsistency": "Forbeholdet om at visse militære/politistillinger kan reserveres for menn introduserer et unntak som bryter med et rent likebehandlingsprinsipp. Dette svekker konsistensen noe.",
+      "note": "Unntaket er begrunnet i funksjonelle/fysiske krav, ikke i identitetspolitikk, men det er likevel en form for kjønnsbasert særbehandling i lov/statlig kontekst."
+    },
+    {
+      "claim": "Martinsen beskriver kvotering som uttrykk for 'kollektivisme' – der individets kvaliteter tillegges mindre vekt enn gruppemedlemskap – og knytter dette til en bredere ideologikritikk av identitetspolitikk og venstresiden.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjentagende tema over mange artikler på gullstandard.no fra 2018 og fremover.",
+      "inconsistency": "",
+      "note": "Posisjonen er tydelig forankret i Martinsens objektivistiske/liberalistiske filosofi og ikke bare reaktiv politikk."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen noen gang eksplisitt støttet statlige tiltak for å bekjempe diskriminering som kan tolkes som form for særbehandling?",
+    "Hva er Martinsens eksakte posisjon på kjønnsbasert særbehandling i det militære – er dette formelt vedtatt standpunkt eller personlig fotnote?"
+  ],
+  "citations": []
+}
