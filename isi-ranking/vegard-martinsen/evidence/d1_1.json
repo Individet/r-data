@@ -1,0 +1,58 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d1_1",
+  "subdimensionName": "Medisinsk selvbestemmelse",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen, tidligere leder av Det Liberale Folkepartiet (DLF) og aktiv skribent på Gullstandard.no, har en gjennomgående og eksplisitt positiv posisjon for medisinsk selvbestemmelse. Hans filosofiske grunnlag — selveierskapsaksiomet og NAP — anvendes konsekvent på medisinske spørsmål: kroppen er individets eiendom, og ethvert statlig inngrep i den uten samtykke er en krenkelse. I artikler fra Gullstandard.no (2021) kritiserer han tydelig tvangsvaksinering som et grovere overgrep enn selv skattlegging, og karakteriserer «nærmest obligatoriske vaksinasjonsprogrammer» under korona som frihetskrenkende. Han omtaler vaksinepass som indirekte tvang når disse stilles som vilkår for samfunnsdeltakelse. Posisjonen er konsistent fra DLF-perioden (2002–2017) og videre gjennom Gullstandard-engasjementet (2018–). Det finnes ingen motsigende uttalelser. Dokumentasjonen er primær (egne artikler og kommentarer) og konsis.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen karakteriserer tvangsvaksinering som et enda grovere overgrep enn skattlegging, fordi det krenker selve kroppen: «tvangspålegging av skatter og avgifter er langt mindre krenkende enn å foreta inngrep i en persons kropp» og slår fast at «alle individer burde ha full frihet, dvs. retten til å bestemme over sin kropp».",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert desember 2021 på Gullstandard.no; konsistent med hans ideologiske grunnposisjon gjennom hele karrieren.",
+      "inconsistency": "",
+      "note": "Primærkilde: gullstandard.no/2021/12/20/vaksinerte-versus-uvaksinerte/"
+    },
+    {
+      "claim": "Martinsen omtaler koronaepidemiens «nærmest obligatoriske vaksinasjonsprogrammer» som eksempel på statens bruk av forskning for å legitimere inngrep i individuell frihet, og fremstiller dette kritisk innenfor en NAP-basert frihetsdiskurs.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gullstandard.no, publisert i perioden 2021–2022. Konsistent med hans bredere kritikk av statlig tvang.",
+      "inconsistency": "",
+      "note": "Primærkilde: gullstandard.no/author/vegard-martinsen/page/2/"
+    },
+    {
+      "claim": "På Gullstandard.no (april 2021) diskuterer Martinsen vaksinepass og slår fast at statlig vaksinepass er en form for tvang når det brukes til å begrense samfunnsdeltakelse, mens private aktørers valg om å kreve vaksinepass er legitim utøvelse av eiendomsretten.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "April 2021. Nyansert posisjon: statlig tvang avvises, privat differensiering aksepteres som frivillig.",
+      "inconsistency": "",
+      "note": "Primærkilde: gullstandard.no/2021/04/19/vaksiner-vaksinepasset-kommer-mm/. Skillet mellom statlig og privat tvang er konsistent med Martinsens libertarianske filosofi og utgjør ingen inkonsistens."
+    },
+    {
+      "claim": "Martinsens filosofiske grunnprinsipp, gjentatt i en rekke tekster på vegmar.wordpress.com og gullstandard.no, er at «å benytte eller krenke andres kropp ... er det samme som å initiere tvang mot dem» og at «individer har rett til å disponere sin kropp». Dette er det eksplisitte normative grunnlaget for hans motstand mot alle former for medisinsk tvang.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent over hele perioden 2001–2026, fra DLF via Gullstandard til bøker.",
+      "inconsistency": "",
+      "note": "Primærkilde: vegmar.wordpress.com (hjemmeside) og gullstandard.no/author/vegard-martinsen/"
+    }
+  ],
+  "unresolvedQuestions": [
+    "Martinsen har ikke tatt eksplisitt stilling til mer spesifikke spørsmål som legeassistert selvhjelp, retten til eksperimentell behandling, eller pasientrettighetsloven utover vaksine-konteksten — men hans generelle NAP-baserte prinsipp gjør hans posisjon på disse spørsmålene lett å utlede."
+  ],
+  "citations": []
+}
