@@ -1,0 +1,79 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d3_2",
+  "subdimensionName": "Næringsfrihet og regulering",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har gjennom sin stortingskarriere ført en konsistent og eksplisitt politikk for å øke statlig og fagforeningsbasert regulering av arbeidslivet, innleie og næringsvirksomhet. Han har fremmet en rekke representantforslag om forbud mot bemanningsbransjen, økt bøtelegging av arbeidsgivere som bryter arbeidsmiljøloven, og lovforbud mot profittuttak fra velferdssektoren. Han omtaler bemanningsbransjen som 'gift for den norske modellen' og har programfestet at den bør forbys. Disse posisjonene innebærer betydelige begrensninger på kontraktsfrihet mellom arbeidsgiver og arbeidstaker, og øker byrden for å drive og organisere virksomhet. Posisjonen er konsistent, eksplisitt og godt dokumentert over lang tid.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Moxnes fremmet representantforslag (Dok.8:91 S 2018–2019) om forbud mot innleie av arbeidskraft fra alle virksomheter som ikke er produksjonsbedrifter – et generelt forbud mot bemanningsbransjen.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra minst 2012 og gjennom hele stortingsperioden fra 2017. Samme type forslag gjentatt i 2017–2018, 2018–2019 og 2024–2025.",
+      "inconsistency": "",
+      "note": "Stortinget avviste forslagene. Moxnes uttalte eksplisitt: 'Bemanningsbransjen er useriøs, den er basert på løsarbeid og det trenger vi ikke.'"
+    },
+    {
+      "claim": "Moxnes og Rødt programfestet forbud mot bemanningsbransjen og støttet ytterligere innstramminger i innleieregelverket, inkludert representantforslag om å tette smutthull ved å presisere begrepet 'tillitsvalgt' i arbeidsmiljøloven (Dok.8:251 S 2022–2023).",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Løpende sak 2017–2025, konsistent mønster.",
+      "inconsistency": "",
+      "note": "Rødt fikk delvis gjennomslag: Stortinget vedtok en oppfordring til grundig gjennomgang av begrepene 'tillitsvalgt' og 'tariffavtale' i arbeidsmiljøloven."
+    },
+    {
+      "claim": "Moxnes fremmet representantforslag (2022–2023) om at Arbeidstilsynet skal kunne bøtelegge enkeltpersoner med ledende rolle i virksomheter som har begått grove brudd på arbeidsmiljøloven – en utvidelse av reguleringsregimet overfor næringslivet.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2022–2023, del av konsistent mønster om styrket statlig kontroll.",
+      "inconsistency": "",
+      "note": "Forslaget rettet seg mot arbeidsgivere som utnytter ansatte, men innebærer samtidig økt offentlig kontroll og personlig regulering av virksomhetsdrift."
+    },
+    {
+      "claim": "Moxnes og Rødt arbeider aktivt for profittforbud i velferden – et lovforbud mot at private selskaper tar ut profitt fra barnehager, barnevern, eldreomsorg og sykehus. Dette vil i praksis forby kommersielle aktører fra disse sektorene.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon fra minst 2017 og fremover, gjentatt i multiple intervjuer og partiprogram.",
+      "inconsistency": "",
+      "note": "Moxnes uttalte: 'Vi vil ha en ny lovgivning som gjør det ulovlig å ta ut profitt fra velferdstjenester.'"
+    },
+    {
+      "claim": "Rødt under Moxnes' ledelse fremmet forslag om å forby foretaksformen NUF (Norskregistrert Utenlandsk Foretak), som brukes av mange virksomheter – et direkte inngrep i valg av selskapsform.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Inngår i Rødts arbeidsprogram for 2021–2025.",
+      "inconsistency": "",
+      "note": "Forbudet er begrunnet med bekjempelse av sosial dumping, men innebærer at virksomheter fratas muligheten til å velge denne organisasjonsformen."
+    },
+    {
+      "claim": "Moxnes støttet økt bøtelegging og næringsforbud for ledere ved gjentatte grove brudd på arbeidsmiljøloven, og ønsker at Arbeidstilsynets øvre gebyrgrense oppheves (representantforslag 2022, vedtatt av Stortinget).",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2022–2023.",
+      "inconsistency": "",
+      "note": "Stortinget vedtok å heve den øvre grensen for overtredelsesgebyr. Dette er en utvidelse av statlig håndhevelse overfor arbeidsgivere."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes tatt eksplisitte posisjoner om generelle bedriftsetableringshindringer (utover arbeidslivsregulering), f.eks. konsesjonskrav, rapporteringsbyrder eller etableringsbarrierer for SMB?",
+    "I hvilken grad skiller Moxnes mellom regulering av store kommersielle aktører og små privateide bedrifter i sin næringslivspolitikk?"
+  ],
+  "citations": []
+}
