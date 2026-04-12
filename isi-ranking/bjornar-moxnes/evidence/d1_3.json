@@ -1,0 +1,60 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d1_3",
+  "subdimensionName": "Bevegelsesfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Moxnes og Rødt viser en sammensatt profil på bevegelsesfrihet. På den ene siden støtter de fri bevegelse for flyktninger og asylsøkere, motarbeider internering av utlendinger og vil ikke legge hindringer for at mennesker kan komme til Norge og søke asyl – holdninger som styrker bevegelsesfrihet for ikke-borgere. Rødt vil øke kvoteflyktninger og stoppe tvangstiltak ved utsendelse. På den annen side ønsker Rødt å trekke Norge ut av Schengen-avtalen og Dublinkonvensjonen – et tiltak som i ISI-rammen ville redusere den passfrie sonen og øke statlig grensekontroll. Moxnes er også eksplisitt for å regulere arbeidsinnvandring fra EØS med krav om tariffavtale for oppholdstillatelse, noe som betinger statlig kontroll over retten til å bosette seg og arbeide i Norge. Disse to sidene trekker i motsatt retning: solidaritet med flyktninger og asylsøkere peker mot positiv bevegelsesfrihet, mens Schengen-utmelding og regulering av arbeidsinnvandring innebærer økt statlig kontroll over fri bevegelse. Samlet profil er klart blandet.",
+  "stance": "mixed",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt (under Moxnes' ledelse) vil trekke Norge ut av Schengen-avtalen og Dublinkonvensjonen. Dette ville fjerne passfri sone og gjeninnføre grensekontroll mot Schengen-land, noe som begrenser fri bevegelse for alle som reiser til/fra Norge.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent partipolitisk posisjon fra minst 2017 til dags dato, dokumentert i Rødts partiprogram og NRKs partiguide 2021.",
+      "inconsistency": "",
+      "note": "Begrunnelsen er solidaritet med flyktninger og motstand mot EUs 'festning Europa', ikke ønsket om nasjonal lukking. ISI-rammeverket vurderer likevel effekten (økt grensekontroll), ikke intensjonen."
+    },
+    {
+      "claim": "Rødt krever at EØS-borgere må ha arbeidskontrakt med norsk tariffavtale for å få oppholdstillatelse i Norge. Moxnes har gjentatte ganger forsvart dette som tiltak mot sosial dumping, men det innebærer statlig vilkårssetting for retten til å bosette seg og arbeide.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon fra Rødts landsmøteuttalelse 2017, gjentatt i Moxnes' kronikk i VG og partiprogrammet.",
+      "inconsistency": "Moxnes understreker at Rødt ikke er mot arbeidsinnvandring som sådan, kun mot uregulert arbeidsinnvandring som fører til sosial dumping.",
+      "note": "Grensen mellom regulering av arbeidsvilkår og regulering av bevegelsesfrihet er flytende. ISI vurderer dette som en statlig betingelse på retten til å bosette seg og arbeide."
+    },
+    {
+      "claim": "Rødt vil ikke legge hindringer for at mennesker kan komme til Norge og søke asyl, ønsker økt antall kvoteflyktninger og vil stanse rutinemessig internering og tvangstiltak overfor utlendinger som skal sendes ut av landet.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Dokumentert i Rødts asylpolitikkside (rodt.no) og partiprogrammet 2017–2021.",
+      "inconsistency": "",
+      "note": "Dette gjelder primært flyktninger og asylsøkere, ikke fri bevegelse for alle. Det positive bidraget til bevegelsesfrihet gjelder en bestemt gruppe."
+    },
+    {
+      "claim": "Moxnes er EU- og EØS-motstander og har argumentert for nasjonal kontroll over arbeidsmarkedsregler, men har eksplisitt avvist at dette er motstand mot arbeidsinnvandring per se.",
+      "stance": "mixed",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gjennomgående posisjon i hele Moxnes' politiske karriere.",
+      "inconsistency": "Ønsket om nasjonal kontroll over arbeidsinnvandring kan i praksis innebære økt statlig regulering av bevegelsesfriheten, selv om retorikken avviser dette.",
+      "note": ""
+    }
+  ],
+  "unresolvedQuestions": [
+    "Hva er Moxnes' og Rødts konkrete posisjon til fri bevegelse innen Norden (nordisk passunion), og vil Schengen-utmeldingen berøre denne?",
+    "Støtter Moxnes individets rett til å forlate Norge uten statlige restriksjoner, og har han tatt eksplisitt stilling til dette?",
+    "Hvordan forholder Moxnes seg til bevegelsesfriheten for norske statsborgere som ønsker å bosette seg i utlandet?"
+  ],
+  "citations": []
+}
