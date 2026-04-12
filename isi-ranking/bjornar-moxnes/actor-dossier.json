@@ -1,0 +1,35 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actor": {
+    "name": "Bjørnar Moxnes",
+    "type": "person",
+    "parti": "Rødt",
+    "jurisdiksjon": "Norge",
+    "beskrivelse": "Tidligere leder av Rødt, tidligere aktiv i fagbevegelsen, kjent for sitt engasjement for sosial rettferdighet og likestilling.",
+    "periode": "Siste 3-5 år"
+  },
+  "searchAliases": [
+    "Bjørnar Moxnes",
+    "Moxnes",
+    "Bjørnar Moxnes Rødt"
+  ],
+  "likelyPublishingChannels": [
+    "stortinget.no",
+    "partiprogram",
+    "intervjuer",
+    "debatter",
+    "kronikker",
+    "podkast",
+    "sosiale medier",
+    "partiets nettsider"
+  ],
+  "likelyDomains": [
+    "stortinget.no",
+    "regjeringen.no",
+    "nrk.no",
+    "rodt.no"
+  ],
+  "period": "Siste 3-5 år",
+  "jurisdiction": "Norge",
+  "generatedAt": "2026-04-12T18:01:22.543Z"
+}
