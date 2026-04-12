@@ -1,0 +1,40 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d3_4",
+  "subdimensionName": "Monetær frihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Søk etter Bjørnar Moxnes sine spesifikke posisjoner på monetær frihet – prisregulering, CBDC/digitale sentralbankpenger og statlig pengepolitikk – ga ingen direkte treff på Moxnes egne uttalelser eller stemmegivning om disse temaene. Rødt er et sosialistisk parti med bred støtte til statlig regulering av priser og markedet generelt (f.eks. strømpristak, husleieregulering), noe som impliserer en negativ profil på monetær frihet. Det finnes imidlertid ingen dokumenterte eksplisitte uttalelser fra Moxnes om CBDC, kryptovaluta eller Norges Banks pengepolitiske uavhengighet. Partiprogrammet og Moxnes retorikk er konsekvent pro-regulering og anti-markedsmekanisme, men spesifikke posisjoner på monetære instrumenter (CBDC, sentralbankpenger, valutafrihet) er ikke funnet gjennom søk.",
+  "stance": "negative",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt og Moxnes har konsekvent støttet statlig prisregulering, inkludert strømpristak og husleieregulering, som er sentrale eksempler på monetær/prisintervensjonsvilje fra statens side.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent posisjon over flere stortingsperioder (2017–2025).",
+      "inconsistency": "",
+      "note": "Gjelder partipolitisk profil generelt, ikke spesifikt monetær frihet i smal forstand (CBDC, sentralbankpenger)."
+    },
+    {
+      "claim": "Ingen dokumenterte uttalelser fra Moxnes om CBDC, digitale sentralbankpenger, kryptovaluta eller Norges Banks uavhengighet er funnet i søk.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Datagap for perioden 2021–2026.",
+      "inconsistency": "",
+      "note": "Manglende posisjon på CBDC/digitale penger kan skyldes at temaet ikke har vært prioritert av Rødt/Moxnes i offentlig debatt."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes eller Rødt tatt eksplisitt stilling til CBDC eller digitale sentralbankpenger?",
+    "Har Moxnes uttalt seg om Norges Banks uavhengighet eller renteregulering?",
+    "Støtter Moxnes eller Rødt kryptovaluta eller alternative pengesystemer?"
+  ],
+  "citations": []
+}
