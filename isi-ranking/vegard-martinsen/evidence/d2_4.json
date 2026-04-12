@@ -1,0 +1,93 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d2_4",
+  "subdimensionName": "Ytringsfrihet på digitale plattformer",
+  "harvestedAt": "2026-04-12",
+  "summary": "Oppfølgingssøket avdekker to relevante primærkilder fra gullstandard.no som bringer underdimensjonen nærmere en dokumentert posisjon. For det første publiserte Martinsen i mai 2022 artikkelen 'Sannhetsministeriet kommer – men hvorfor?' der han eksplisitt avviser statlig regulering av desinformasjon på nett og karakteriserer statlige faktasjekk- og sannhetsorganer som et 'første steg i retning av et statlig sannhetsministerium'. Artikkelen kobler direkte til internettregulering og plattformers formidlingsrolle. For det andre fremgår det fra gullstandard.no side 6 (udatert, men innholdsmessig knyttet til den norske regjeringens desinformasjonsstrategi ca. 2024) at Martinsen definerer regulering som 'et statlig inngrep i/begrensning på den private eiendomsretten' og argumenterer mot at slike reguleringer kan løse problemet med feilinformasjon. Han fremhever at opposisjonelle røster tvinges til 'plattformer utenfor mainstream' når mainstream-media og statens politikk er sammenflettet. Dette er ikke en eksplisitt omtale av DSA ved navn, men argumentasjonen er direkte relevant for 2.4: Martinsen avviser at staten bør regulere formidlingskanalene, inkludert digitale plattformer, og mener markedet/troverdighet er riktig løsningsmekanisme. Ingen primærkilde er funnet der Martinsen eksplisitt nevner DSA, avplattforming av konkrete aktører, eller plattformers private innholdsmoderering som et selvstendig tema. Gapet er snevret, men ikke helt lukket. Den implisitte posisjonen er imidlertid nå styrket av primærkilder som er mer direkte relevante for underdimensjonen enn det som forelå i runde én.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Vegard Martinsen og Foreningen Gullstandard bygger på laissez-faire-kapitalisme der statens oppgave utelukkende er å beskytte individets frihet, og alle andre oppgaver overlates til private – noe som impliserer at statlig regulering av private plattformers innholdsmoderering er i strid med Martinsens grunnprinsipper.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent ideologisk posisjon siden 2002 (DLF) og fra 2018 (Gullstandard).",
+      "inconsistency": "",
+      "note": "Dette er en ideologisk inferens, ikke en direkte uttalelse om plattformregulering. Gullstandard-nettsiden ekspliserer laissez-faire som fundament, men knytter det ikke direkte til spørsmålet om digital plattformregulering."
+    },
+    {
+      "claim": "Martinsen forsvarer ytringsfrihet som en absolutt bærebjelke, og skriver på gullstandard.no at 'restriksjoner på ytringsfrihet er intet annet enn restriksjoner på tenkning' – noe som taler for at han vil avvise statlig inngripen i ytringer på digitale plattformer.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Artikkelen 'Islam og ytringsfrihet' (2020) er representativ for et vedvarende mønster i Martinsens forfatterskap.",
+      "inconsistency": "Uttalelsen handler om ytringsfrihet generelt og Islam-kritikk spesifikt – ikke om plattformregulering.",
+      "note": "Ytringsfrihetsprinsippet er sterkt og konsistent, men er ikke spesifikt applicert på digital plattformregulering i de kildene som er funnet."
+    },
+    {
+      "claim": "Ingen primærkilder er funnet der Martinsen eksplisitt tar stilling til statlig regulering av private plattformers innholdsmoderering, DSA, avplattforming eller lignende digitalpolitiske spørsmål.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "",
+      "inconsistency": "",
+      "note": "Søk på gullstandard.no, vegmar.wordpress.com og bredere nett gir ingen treff som direkte adresserer underdimensjon 2.4."
+    },
+    {
+      "claim": "I artikkelen 'Sannhetsministeriet kommer – men hvorfor?' (Gullstandard, mai 2022) avviser Martinsen eksplisitt statlige organer for bekjempelse av desinformasjon og advarer mot at statlig definisjonsmakt over 'sannhet' vil brukes til å stemple opposisjon som 'desinformasjon'. Konklusjonen er at markedsmekanismen – aktørers troverdighet og lesertall – er riktig løsning, ikke statlig regulering.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Enkeltartikkel, mai 2022, men konsistent med Martinsens samlede ideologiske forfatterskap siden 2001.",
+      "inconsistency": "Artikkelen handler primært om statlige desinformasjonsorganer og presseetikk, ikke om privat plattformregulering (DSA, innholdsmoderering). Implikasjonen for plattformregulering er sterk men ikke eksplisitt.",
+      "note": "Dette er den sterkeste enkeltkilden som er relevant for underdimensjon 2.4, men den treffer sidefeltet av temaet snarere enn kjernen (statlig regulering av private plattformers innholdsmoderering)."
+    },
+    {
+      "claim": "Fra gullstandard.no (ca. 2024) skriver Martinsen at 'en regulering er et statlig inngrep i/begrensning på den private eiendomsretten' og argumenterer mot at regulering av formidlingsaktører (presseorganer, tenketanker, skribenter) kan bekjempe desinformasjon. Han peker på at opposisjonelle stemmer henvises til 'plattformer utenfor mainstream' – noe som forutsetter at disse plattformene skal forbli frie fra statlig inngripen.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Artikkel fra ca. 2024, knyttet til norsk regjeringens desinformasjonsstrategi og Lubna Jafferys arbeid.",
+      "inconsistency": "Ingen direkte omtale av DSA, YouTube-moderering eller konkrete avplattforming-saker.",
+      "note": "Argumentasjonslinjen impliserer klart at Martinsen vil anse DSA og tilsvarende regulering av digitale plattformers innholdsmoderering som uønsket statlig inngrep, men dette er en inferens."
+    },
+    {
+      "claim": "På gullstandard.no side 4 nevnes Elon Musks rolle og Starlink i Ukraine-konteksten positivt, men Musk-referansene handler om internettfrihet globalt (Kina, Russland), ikke om Twitters/Xs innholdsmoderering eller plattformfrihet i vestlig kontekst. Ron DeSantis' ønske om å forby TikTok omtales uten eksplisitt stillingtaken fra Martinsens side.",
+      "stance": "unknown",
+      "evidenceType": "primary",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Artiklene dateres til 2022–2024.",
+      "inconsistency": "Martinsen kommenterer Musk og Kinas sensur, men tar ikke eksplisitt stilling til om private plattformer selv skal moderere innhold eller om staten skal regulere dem i vestlig kontekst.",
+      "note": "Ingen av Musk-referansene på Gullstandard berører kjernespørsmålet i underdimensjon 2.4 direkte."
+    },
+    {
+      "claim": "Ingen primærkilder er funnet der Martinsen eksplisitt nevner DSA, avplattforming av konkrete aktører (f.eks. fjernede konservative stemmer), eller tar stilling til om private plattformer som YouTube og Facebook legitimt kan moderere innhold på egne vilkår.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "",
+      "inconsistency": "",
+      "note": "Datagapet er ikke fullstendig lukket. Martinsens laissez-faire-prinsipp innebærer at private plattformer har rett til selv å moderere, men dette er aldri sagt eksplisitt i de kildene som er funnet."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen kommentert Elon Musks kjøp av Twitter/X og den påfølgende debatten om plattformfrihet vs. moderering?",
+    "Har Martinsen tatt eksplisitt stilling til EUs Digital Services Act (DSA) eller tilsvarende reguleringsinitiativer?",
+    "Har Martinsen kommentert avplattforming av konkrete aktører (f.eks. fjernede konservative stemmer) i norsk eller internasjonal kontekst?",
+    "Har Martinsen eksplisitt tatt stilling til om private plattformer (YouTube, Facebook, X) har rett til å avplattforme brukere på egne vilkår, eller om dette bør reguleres?",
+    "Har Martinsen kommentert EUs DSA ved navn, eller den norske implementeringen av DSA?",
+    "Vil Martinsen fra et laissez-faire-standpunkt akseptere privat plattformmoderering som legitim privatrett – eller ser han dette som en form for 'monopolistisk sensur' som bør møtes med tiltak?"
+  ],
+  "citations": []
+}
