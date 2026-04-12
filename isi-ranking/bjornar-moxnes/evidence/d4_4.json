@@ -1,0 +1,70 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d4_4",
+  "subdimensionName": "Begrenset statsmakt",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har vist en tydelig og konsistent posisjon mot vide regjeringsfullmakter og til fordel for Stortingets lovgivende rolle. Under koronakrisen i mars 2020 var han den første og lenge den eneste politikeren som uttrykte offentlig motstand mot det opprinnelige koronalovforslaget, karakteriserte det som å ha 'autoritære trekk' og advarte mot at Stortinget abdiserte fra sin rolle. Han krevde utsatt behandling og fikk gjennomslag for vesentlige begrensninger i loven – kortere varighet, innsnevret fullmaktsomfang og mindretallsveto. Han stemte mot forlengelse av koronaloven i april 2020. I 2025 inntok Rødt (ved sin representant i debatten) en tilsvarende posisjon mot endringer i sivilbeskyttelsesloven, med argument om at loven gir for vide fullmakter uten tilstrekkelig parlamentarisk kontroll. Moxnes' motstand er gjennomgående begrunnet i demokratiske og rettsstatlige hensyn – beskyttelse av Stortingets kontrollfunksjon – ikke i en libertariansk ISI-forankret skepsis til statsmakt som sådan. Moxnes og Rødt støtter generelt et aktivt velferdssystem og sterk statlig styring av økonomi, noe som skaper en strukturell inkonsistens: motstand mot fullmaktslover kombineres med bred støtte til statlig ekspansjon på andre felt. Innen den snevre dimensjonen 4.4 (begrensning av statsmakten mot fullmaktslovgivning og nødrett) er holdningen imidlertid entydig positiv.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Moxnes var i mars 2020 den første og lenge eneste politikeren som offentlig motsatte seg koronalovens opprinnelige fullmaktshjemler, og karakteriserte loven som å ha 'autoritære trekk' og sammenlignet den potensielle makten med eneveldig styre siden 1814.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Mars 2020 – enkelthendelse med stor tyngde som førsteuttaler.",
+      "inconsistency": "",
+      "note": "Kilde: VG 19. mars 2020 og ABC Nyheter 20. mars 2020. Rødt krevde utsatt behandling for å muliggjøre offentlig debatt."
+    },
+    {
+      "claim": "Moxnes krevde og fikk gjennomslag for vesentlige begrensninger i koronaloven: kortere varighet (1 måned i stedet for 6), innsnevring av fullmaktsomfanget til 62 lover og mindretallsveto (1/3 av Stortinget kan stoppe forskrifter). Han uttalte om den endelige loven at 'dette bryter ikke med rettssikkerheten eller maktfordelingsprinsippet'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Mars 2020 – enstemmig vedtak etter Rødts krav om endringer.",
+      "inconsistency": "Moxnes støttet til slutt den reviderte loven, som fremdeles innebar en midlertidig maktoverføring til regjeringen.",
+      "note": "Kilde: Oppland Arbeiderblad/OA.no 21. mars 2020 og stortinget.no."
+    },
+    {
+      "claim": "Moxnes sa nei til forlengelse av koronaloven i april 2020 med begrunnelsen: 'Stortinget skal ikke abdisere i en krisetid, men holde fast ved demokratiske prinsipper. Bruken av koronaloven og tilsidesetting av Stortinget øker risikoen for ugjennomtenkte og dårlige beslutninger.'",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "April 2020 – konsistent forlengelse av posisjonen fra mars 2020.",
+      "inconsistency": "",
+      "note": "Kilde: Dagsavisen 14. april 2020. Han var alene blant store partier om å si nei til forlengelse."
+    },
+    {
+      "claim": "I stortingsdebatten april 2025 inntok Rødt en tilsvarende posisjon mot endringer i sivilbeskyttelsesloven: partiet mente forslaget 'går for langt i å gi vide fullmakter til regjeringen, uten at disse er underlagt tilstrekkelig parlamentarisk og demokratisk kontroll'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "April 2025 – konsistent med 2020-posisjonen.",
+      "inconsistency": "Innlegget er fra Rødts representant i justiskomiteen, ikke fra Moxnes personlig. Moxnes sitter i utenriks- og forsvarskomiteen i denne perioden.",
+      "note": "Kilde: Stortingets referat 8. april 2025. Rødt stemte mot sivilbeskyttelseslovendringen."
+    },
+    {
+      "claim": "Moxnes og Rødt generelt støtter utvidet statsmakt på velferds- og næringsområdet – kraftprisregulering, sterkere statlig styring av arbeidsmarkedet, nasjonalisering av ressurser mv. Dette er strukturelt inkonsistent med en gjennomgående ISI-positiv profil på begrenset statsmakt.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent over hele Moxnes' karriere.",
+      "inconsistency": "Motstanden mot fullmaktslover er forankret i parlamentarisk demokratiprinsipp (Stortingets rolle), ikke i en prinsippiell skepsis til statsmakt. Moxnes ønsker sterkere, ikke svakere stat – men gjennom Stortinget, ikke via regjeringsfullmakter.",
+      "note": "Dette begrenser ISI-scoren: posisjonen er selektivt positiv, ikke prinsipielt liberalistisk."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Stemte Moxnes personlig mot sivilbeskyttelseslovendringen i 2025, eller overlot han det til andre Rødt-representanter? Innlegget i debatten er fra en annen representant.",
+    "Har Moxnes uttalt seg eksplisitt om beredskapsloven av 1950 eller andre permanente fullmaktshjemler utover koronaloven og sivilbeskyttelsesloven?",
+    "I hvilken grad er Moxnes' demokratibegrunnelse (Stortingets rolle) vs. en individrettighetsbegrunnelse (borgeres vern mot statstvang) – skillet er relevant for ISI-vekting."
+  ],
+  "citations": []
+}
