@@ -1,0 +1,50 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d3_4",
+  "subdimensionName": "Monetær frihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Oppfølgingssøk avdekker ingen direkte, eksplisitte uttalelser fra Vegard Martinsen om prisregulering, CBDC eller statlig pengemonopol. Imidlertid fremkommer to indirekte signaler av relevans: (1) Hans bok 'Saysiansk økonomi' (2017) behandler gullstandard som tema – noe som indikerer at han er orientert mot hard-money-tradisjonen og skeptisk til fiat-pengemonopol. (2) Hans hjemmeside fremhever 'stabile penger' som en forutsetning for velstand, i en kontekst der han applauderer Ludwig Erhards deregulering. (3) Han er tilknyttet foreningen 'Gullstandard', som eksplisitt arbeider for individuell frihet. Disse funnene er implisitte og sekundære – ingen primærkilde dokumenterer en eksplisitt posisjon på prisregulering, CBDC eller sentralbankmonopol direkte. Datagrunnlaget er fortsatt utilstrekkelig for en sikker score, men de indirekte signalene peker konsistent i pro-monetær-frihet-retning. Gap er delvis lukket men ikke fullt ut.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Martinsen er medforfatter og tilknyttet foreningen 'Gullstandard', som arbeider for individuell frihet og kritiserer statlig politikk – noe som impliserer motstand mot statlig pengekontroll.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Pågående (podcastaktivitet dokumentert t.o.m. 2025–2026)",
+      "inconsistency": "Ingen direkte uttalelse om CBDC, prisregulering eller pengemonopol er dokumentert.",
+      "note": "Foreningsnavn og formålsparagraf er eneste kilde – svak evidens."
+    },
+    {
+      "claim": "I boken 'Saysiansk økonomi' (2017) behandles gullstandard som tema, noe som signaliserer sympati for hard-money-tradisjonen og kritikk av fiat-pengepolitikk.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "2017",
+      "inconsistency": "Bokbeskrivelsen nevner gullstandard som et av mange temaer – det er uklart hvilken posisjon Martinsen faktisk inntar.",
+      "note": "Sekundærkilde (bokbeskrivelse). Primærinnholdet er ikke tilgjengelig for verifisering."
+    },
+    {
+      "claim": "På sin hjemmeside fremhever Martinsen 'stabile penger' som en av de sentrale forutsetningene for velstand, i en liberalistisk kontekst der han hyllet Erhards dereguleringspolitikk i 1948.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Ukjent publiseringsdato – hjemmeside",
+      "inconsistency": "Uttalelsen er generell og ikke rettet spesifikt mot dagens pengepolitikk, CBDC eller sentralbank.",
+      "note": "Indikerer preferanse for monetær stabilitet over statlig manipulasjon, men ikke eksplisitt posisjon på underdimensjonens kjernespørsmål."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen eksplisitt kommentert CBDC eller digitale sentralbankpenger?",
+    "Inntar han en eksplisitt posisjon for gullstandard eller fri bankvirksomhet i 'Saysiansk økonomi'?",
+    "Har han uttalt seg om prisregulering som politisk virkemiddel?"
+  ],
+  "citations": []
+}
