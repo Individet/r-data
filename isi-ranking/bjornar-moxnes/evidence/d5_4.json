@@ -1,0 +1,60 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d5_4",
+  "subdimensionName": "Forsamlingsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har en konsistent og uttalt positiv profil på forsamlingsfrihet og demonstrasjonsrett. Han har gjennom Stortinget stilt spørsmål som implisitt forsvarer retten til å demonstrere, samtidig som han tar avstand fra voldelige aktørers bruk av forsamlingsfriheten som skjold. Rødt-bloggen fra 2020 (skrevet av Moxnes og Seher Aydar) fremhever at 'Politiet gjør jobben sin når de beskytter den grunnlovsfestede retten til ytringsfrihet', og at ytrings- og forsamlingsfriheten er 'hardt tilkjempet' og 'spesielt viktig for enkeltmennesker og grupper i opposisjon til makthavere'. Moxnes har i Dagbladet-intervju (2017) uttrykt bekymring for statlig overvåking av opposisjonelle og aktivister, og pekt på at myndighetene etter terrorhendelser kan gå løs på 'retten til å mene hva du vil og organisere deg'. Stortingsspørsmål fra 2019 om nazistmarsjer er rettet mot politisk vold, ikke mot retten til å demonstrere generelt. Det finnes ingen dokumenterte tilfeller der Moxnes har støttet tiltak som begrenser forsamlingsfriheten. Den eneste relevante spenningen er at han fra et ISI-perspektiv opererer med en innholdsbasert tilnærming til demonstrasjonsrett: han utfordrer politisk voldsorganisasjoners tilgang til offentlig rom, noe som kan tolkes som en indirekte aksept for innholdsbegrenset forsamlingsfrihet. Dette er imidlertid en implisitt, ikke eksplisitt posisjon og er konsistent med norsk rettspraksis snarere enn en aktiv innskrenkning av friheten.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "I et blogginnlegg på rodt.no (2020), skrevet av Moxnes og Aydar, fremheves det at 'Politiet gjør jobben sin når de beskytter den grunnlovsfestede retten til ytringsfrihet', og at ytrings- og forsamlingsfriheten er 'spesielt viktig for enkeltmennesker og grupper i opposisjon til makthavere'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Enkelttilfelle, men representativt for Rødts og Moxnes' generelle linje.",
+      "inconsistency": "",
+      "note": "Uttalelsen er rettet mot en konkret hendelse med uroskaper, ikke som generell prinsipperklæring, men det normative innholdet er tydelig."
+    },
+    {
+      "claim": "I Dagbladet-intervju (2017) uttrykker Moxnes bekymring for statlig overvåking av opposisjonelle og advarer mot at myndighetene 'går løs på viktige personlige frihetsverdier, som retten til å mene hva du vil og organisere deg' i kjølvannet av terror.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Enkelttilfelle fra 2017.",
+      "inconsistency": "",
+      "note": "Uttalelsen kobler forsamlings- og organisasjonsfrihet til overvåkingsbekymringer, noe som styrker det overordnede bildet av en aktør som forsvarer politisk aktivisme mot statlig inngrep."
+    },
+    {
+      "claim": "Stortingsspørsmål fra 2019 (qnid=48365) stiller spørsmål om regjeringen støtter at 'voldelige organisasjoner' (nazister) får marsjere med politibeskyttelse, og antyder at politiet bør hindre slike miljøers fremmarsj. Dette kan leses som en aksept for innholdsbegrenset begrensning av demonstrasjonsretten for voldelige grupper.",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Enkelttilfelle 2019.",
+      "inconsistency": "Fra et ISI-perspektiv er det en spenning mellom å forsvare demonstrasjonsretten generelt og samtidig antyde at voldelig-kategoriserte gruppers marsjer bør begrenses. Moxnes gjør ingen prinsippiell distinksjon mellom forsamlingsfrihet og demonstrasjonenes innhold.",
+      "note": "Spørsmålet er rettet mot voldelige høyreekstreme organisasjoner, ikke mot politisk opposisjon generelt. Rettssystemets tolkning er at lovlig ytring har vern uavhengig av innhold, men Moxnes utfordrer dette indirekte."
+    },
+    {
+      "claim": "Rødt og Moxnes har historisk kritisert PSTs overvåking av venstreaktivister og demonstranter (omtalt i Dagsavisen 2013 og bekreftet av Moxnes' egne utsagn), noe som viser at de aktivt forsvarer retten til politisk organisering og forsamling mot statlig kontrollapparat.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent linje over tid (2013–2017).",
+      "inconsistency": "",
+      "note": "Referansen er til Rødts institusjonelle holdning; Moxnes' personlige rol her er delvis implisitt gjennom partiets posisjon og hans egne uttalelser om overvåking."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes tatt stilling til konkrete lovforslag om regulering av demonstrasjoner eller forsamlingsrett i Stortinget?",
+    "Har Moxnes kommentert politiets håndtering av konkrete demonstrasjonsforbud eller oppløsning av forsamlinger?",
+    "Finnes det en mer detaljert prinsippiell uttalelse fra Moxnes om universell forsamlingsfrihet, inkludert for grupper han er politisk uenig med?"
+  ],
+  "citations": []
+}
