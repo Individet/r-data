@@ -1,0 +1,258 @@
+# Evidence matrix: Bjørnar Moxnes
+
+Bjørnar Moxnes framstår som en konsistent venstreradikal politiker med en blandet ISI-profil: sterkt frihetsorientert på overvåkning, forsamlingsfrihet og enkelte autonomirettigeter, men tydelig restriktiv på eiendomsrett, næringsfrihet, handelsfrihet og statlig substitusjon av sivilsamfunn. Han kombinerer sterk motstand mot statlig masseovervåkning med aktiv fremming av statlig økonomisk kontroll, noe som skaper en iøynefallende inkonsistens fra et ISI-perspektiv. Hans posisjon på kroppslig autonomi er blandet: han forsvarer reproduktiv selvbestemmelse sterkt, men krenker legers samvittighet og paternalisme på surrogati-området. Moxnes' politikk gjenspeiler en klassisk venstreradikal verdenssyn der staten skal kontrollere økonomien sterkt, men ikke individets private sfære – en posisjon som er fundamentalt inkonsistent med ISI-rammeverkets ikke-aggresjonsprinsipp.
+
+## Cross-dimension notes
+- Intern inkonsistens: Moxnes er frihetsorientert på overvåkning (d6_1) og opposisjonell politisk frihet (d5_2, d5_4), men fremmer samtidig sterk statlig kontroll over økonomi, næringsliv og eiendom (d3_1, d3_2, d3_3). Dette gjenspeiler en ideologi som skiller mellom 'privat sfære' (som skal beskyttes) og 'økonomisk makt' (som skal kontrolleres statlig).
+- Moxnes er positiv til kvinners reproduktive autonomi (d1_1 abort) men negativ til individers generelle økonomiske autonomi (d3_1-d3_4). Han forsvarer de sterkes rett til å bli begrenset, men ikke de svakes rett til å kontrollere eget liv økonomisk.
+- Kryssdimensjonalt: Moxnes' motstand mot masseovervåkning (d6_1) kombineres med indirekte aksept for innholdsbasert regulering av ytringer (d2_1, d2_2). Han ønsker ikke statlig sensur formelt, men støtter partipolitiske løsninger som innebærer innholdsregulering.
+- Moxnes fremhever demokratiprinsippet (opposisjon mot fullmaktslover d4_4) kombinert med anti-majoritetsretorikk (kritikk av 'kapitalistisk diktatur'). Fra et ISI-perspektiv er begge disse konsistente med beskyttelse av minoriteter, men hans løsning (klassebasert statlig kontroll) gjenspeiler kollektivistisk snarere enn individualistisk filosofi.
+
+## Subdimensions
+### d1_1 - Medisinsk selvbestemmelse
+Moxnes viser en blandet profil: sterk forsvarere av kvinners reproduktive selvbestemmelse og selv- bestemt abort til uke 22 uten nemnder, men paternalistisk på surrogati (totalt forbud, kriminalisering av nordmenn som bruker det) og krenker legers samvittighet ved å nekte reservasjonsrett. Hans kritikk av koronaloven var basert på demokratiske kontrollhensyn, ikke på prinsippiell forsvar for medisinsk selvbestemmelse.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Moxnes og Rødt har konsekvent støttet selvbestemt abort til uke 22 uten abortnemnd – Norges mest liberale abortpolitikk | Moxnes kritiserte koronaloven (mars 2020) for å gi regjeringen for vide fullmakter på bekostning av demokratisk kontroll og krevde utsatt behandling
+- Discarded claims: Moxnes har tatt personlig stilling til vaksineplikt eller obligatoriske medisinske inngrep (ingen dokumentasjon funnet) | Moxnes har uttalt seg direkte om eutanasi eller aktiv dødshjelp (kun partiposisjon funnet: Rødt stemte ned forslag om aktiv dødshjelp på landsmøtet 2025)
+- Follow-up queries: Moxnes medisinsk selvbestemmelse vaksineplikt | Moxnes surrogati etikk argumentation | Moxnes partiets surrogatiforhold kvinners autonomi
+- Citation: [Rødts abortpolitikk](https://www.rodt.no/abort)
+- Citation: [VG: Moxnes angriper regjeringens koronafullmakter](https://www.vg.no/nyheter/norge/i/RRA9Xd/moxnes-angriper-regjeringens-koronafull-makter)
+- Citation: [ABC Nyheter: Rødt stoppes koronaloven](https://www.abcnyheter.no/nyheter/politikk/2020/03/20/128563960/ropet-fra-rodt-stopp-koronaloven-na)
+- Citation: [Fagbladet: Rødt stemte ned forslag om aktiv dødshjelp](https://www.fagbladet.no/2025/03/rodt-stemte-ned-forslag-om-aktiv-dodshjelp/)
+
+### d1_2 - Sosial frihet/Livsstilsautonomi
+Moxnes har en eksplisitt og konsistent pro-avkriminaliseringsposisjon på rusmidler. Han var medforslagsstiller på stortingsrusreformforslaget (2021–2022) og Rødt vedtok i 2025 å legalisere og regulere cannabis. Han er positiv til LHBT-rettigheter og individets rett til å velge livsstil fritt. Imidlertid støtter Rødt under hans ledelse restriktiv alkoholpolitikk (Vinmonopol, taxfree-overføring) – en kollektivistisk mekanisme som begrenser individers tilgang til lovlige rusmidler.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes var medforslagsstiller på Stortingets rusreformforslag (2021–2022) og uttrykte skuffelse da det ble nedstemt | Rødt under Moxnes vedtok legalisering og regulering av cannabis etter Vinmonopol-modell samt avkriminalisering av besittelse av øvrige rusmidler til eget bruk (mars 2025) | Moxnes har eksplisitt støttet LHBT-rettigheter og individets frihet til å leve ut sin seksuelle orientering | Rødt vil ikke legge hindringer for mennesker som søker asyl i Norge
+- Discarded claims: Moxnes og Rødt er imot all regulering av rusmidler (galt: de støtter statlig regulert monopol på cannabis og alkohol)
+- Follow-up queries: 
+- Citation: [Nettavisen: Rødt legaliserer cannabis](https://www.nettavisen.no/nyheter/rodt-legaliserer-cannabis-og-vil-avkriminalisere-bruk-av-andre-narkotika/s/12-95-3424241241)
+- Citation: [Rødts legalisieringsresultat](https://www.roedt.no/legalisering)
+- Citation: [Blikk: Moxnes om Rødts skeiv politikk](https://www.blikk.no/skeiv-politikk-alle-skal-kunne-leve-hele-seg)
+
+### d1_3 - Bevegelsesfrihet
+Moxnes viser en tydelig blandet profil. Han støtter fri bevegelse for flyktninger og asylsøkere og vil øke kvoteflyktninger, men Rødt ønsker å trekke Norge ut av Schengen-avtalen og Dublinkonvensjonen – tiltak som ville økt statlig grensekontroll. Han regulerer arbeidsinnvandring fra EØS med krav om tariffavtale som betingelse for oppholdstillatelse. Disse tiltakene trekker i motsatt retning på bevegelsesfrihet.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Rødt vil ikke legge hindringer for mennesker som kommer til Norge og søker asyl, ønsker økt antall kvoteflyktninger, og vil stanse internering og tvangstiltak mot utlendinger som skal sendes ut | Moxnes kritiserer EØS og ønsker nasjonal kontroll over arbeidsmarkedsregler
+- Discarded claims: Moxnes er motiv mot all arbeidsinnvandring (galt: han ønsker regulert arbeidsinnvandring med tariffavtalekrav, ikke totalt forbud)
+- Follow-up queries: Moxnes fri bevegelse Schengen konsekvenser | Moxnes bevegelsesfrihet nordisk passunion
+- Citation: [Rødts asylpolitikk](https://www.rodt.no/asylpolitikk)
+- Citation: [Rødts EU/EØS-posisjon](https://www.rodt.no/eu-og-eos)
+
+### d1_4 - Selvbestemmelse ved livets slutt
+Rødt stemte ned forslag om aktiv dødshjelp på landsmøtet i 2025 under Moxnes' tidligere lederskap. Han har ikke selv uttalt seg eksplisitt om eutanasi eller selvbestemmelse ved livets slutt. FrP er eneste stortingsparti som programfester eksplisitt støtte til eutanasi-legalisering. Rødts nei-posisjon indikerer en restriktiv holdning til selvbestemmelse på dette området.
+
+- Confidence: medium
+- Data gap: yes
+- Accepted claims: Rødt stemte ned forslag om aktiv dødshjelp på landsmøtet i 2025
+- Discarded claims: Moxnes har personlig uttalt seg eksplisitt for eller mot eutanasi (kun partiposisjon dokumentert)
+- Follow-up queries: Moxnes eutanasi selvbestemmelse ved livets slutt | Rødt dødshjelp begrunnelse 2025 | Moxnes personlig uttalelse aktiv dødshjelp
+- Citation: [Fagbladet: Rødt stemte ned forslag om aktiv dødshjelp](https://www.fagbladet.no/2025/03/rodt-stemte-ned-forslag-om-aktiv-dodshjelp/)
+
+### d2_1 - Ytringsfrihet - innhold
+Moxnes og Rødt støtter det eksisterende lovverket mot rasistiske ytringer (straffeloven § 185) og oppfordrer til styrking av politiets hatkriminalitetsarbeid. De ønsker ingen nye begrensninger på ytringsfriheten formelt, men representantforslagene fra Rødt indikerer støtte til innholdsbasert regulering utover eksisterende rett. Moxnes har ikke personlig uttalt seg eksplisitt for eller mot ytringsfrihetsbegrensninger.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Rødt støtter eksisterende forbud mot rasistiske ytringer og ønsker styrking av politiets hatkriminalitetsarbeid | Rødt erklærer at de ikke ønsker nye begrensninger på ytringsfriheten
+- Discarded claims: Moxnes har fremmet forslag om ny sensurlovgivning (galt: forslag gjelder presisering av eksisterende rasismeparagrafer, ikke ny innholdsbasert sensur)
+- Follow-up queries: Moxnes desinformasjon lovregulering | Moxnes ytringsfrihet digitale plattformer intern partikonflikst
+- Citation: [Rødts ytringsfrihet-politikk](https://www.rodt.no/ytringsfrihet)
+- Citation: [Stortinget: Representantforslag dok8-202223-134s](https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak-og-debatter/Arkiv/)
+
+### d2_2 - Pressefrihet og redaksjonell uavhengighet
+Moxnes og Rødt støtter konsekvent økt statlig mediefinansiering – både pressestøtte og et sterkt, offentlig finansiert NRK. Rødt vil øke pressestøtten og utvide den til nye medietyper. Fra ISI-perspektivet innebærer dette strukturell medieavhengighet av staten, som objektivt undergraver redaksjonell uavhengighet fra politiske myndigheter. Moxnes har ikke gitt uttrykk for bekymring for denne avhengighetsstrukturen.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Rødt under Moxnes' ledelse ønsker å «gjenopprette NRK som en riksdekkende kultur- og mediebedrift som ikke er markedsstyrt» og vil øke pressestøtten | Rødt ønsker sterkere regulering av medieeierkonsentrasjon
+- Discarded claims: Moxnes er positiv til fri, usubsidiert mediemarked (galt: hans politikk er det motsatte)
+- Follow-up queries: Moxnes redaksjonell uavhengighet statlig mediefinansiering | Moxnes armlengdes avstand prinsipp mediestøtte
+- Citation: [Rødts mediepolitikk](https://www.rodt.no/mediaretning)
+
+### d2_3 - Akademisk og vitenskapelig frihet
+Utilstrekkelige primærkilder. Rødt støtter formelt «fri forskning og autonome utdannings- og forskningsinstitusjoner» men ønsker «demokratisk styrt» forskning, noe som implisitt kan innebære økt politisk styring. Moxnes har ikke personlig gitt uttrykk for standpunkter på akademisk frihet som uavhengig verdi.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: Rødt ønsker økte grunnbevilgninger for forskning for å redusere avhengighet av ekstern markedsfinansiering
+- Discarded claims: 
+- Follow-up queries: Moxnes akademisk frihet universiteter autonomi | Moxnes demokratisk styring forskning vs akademisk uavhengighet | Moxnes grunnlovsvedtak universitetsautonomi 2024
+- Citation: [Rødts forskningspolitikk](https://www.rodt.no/forskning)
+
+### d2_4 - Ytringsfrihet på digitale plattformer
+Datagap. Ingen dokumenterte uttalelser fra Moxnes personlig om statlig regulering av plattformers innholdsmoderering, DSA eller avplattforming av lovlige ytringer er funnet. Rødt har generell reguleringspositiv holdning til teknologiselskaper, men dette kan ikke tilskrives Moxnes personlig uten primærkilde.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: 
+- Discarded claims: 
+- Follow-up queries: Moxnes DSA Digital Services Act implementering | Moxnes plattformregulering innholdsmoderering | Moxnes sosiale medier statlig kontroll | Moxnes avplattforming lovlige ytringer
+
+### d3_1 - Eiendomsvern, skatt og ekspropriering
+Moxnes har en konsekvent og eksplisitt negativ profil på eiendomsvern. Han har aktivt fremmet økte formueskatter (progressivt opp til 1,6% over 100 mill. kr), ny arveskatt, økt utbytteskatt og reduksjon av verdsettingsrabatter. Rødt under hans ledelse har fremmet at «fellesskapet bør eie eller ha demokratisk kontroll over all infrastruktur av betydning». Skatt presenteres eksplisitt som omfordelingsinstrument, ikke som nødvendig finansiering av fellesgoder. Dette innebærer aktiv fremming av politikk som systematisk krenker eiendomsretten.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes lanserte Rødts skattereform (2023) med økt formuesskatt opp til 1,6%, fjern av verdsettingsrabatter og ny arveskatt | Rødt under Moxnes' ledelse fremmet at fellesskapet skal eie eller ha demokratisk kontroll over infrastruktur, banker, kraft og jernbane | Moxnes karakteriserer skatt som verktøy for å «ta kontrollen over forskjellsutviklingen»
+- Discarded claims: Moxnes støtter kun moderate skatteøkninger til finansiering av grunnoppgaver (galt: hans posisjon er ideologisk omfordeling)
+- Follow-up queries: 
+- Citation: [Altinget: Moxnes Rødts skattereform](https://www.altinget.no/artikkel/moxnes-raudts-skattereform)
+- Citation: [Rødts skattepolitikk](https://www.rodt.no/skatt)
+- Citation: [Nettavisen: Moxnes vil øke formuesskatten](https://www.nettavisen.no/nyheter/moxnes-vil-oeke-formueskatten/s/12-95-3413949374)
+
+### d3_2 - Næringsfrihet og regulering
+Moxnes har en konsekvent og eksplisitt negativ profil. Han fremmet representantforslag om forbud mot bemanningsbransjen, økt bøtelegging av arbeidsgivere som bryter arbeidsmiljøloven, og forbud mot profittuttak fra velferden. Han omtaler bemanningsbransjen som «gift for den norske modellen». Disse posisjonene innebærer betydelige begrensninger på kontraktsfrihet og øker byrden for virksomhetsdrift.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes fremmet representantforslag om forbud mot innleie og bemanningsbransjen | Rødt under Moxnes programfestet forbud mot bemanningsbransjen | Moxnes fremmet forslag om økt bøtelegging og personlig ansvar for ledere ved brudd på arbeidsmiljøloven | Rødt under Moxnes arbeider for profittforbud i velferden
+- Discarded claims: Moxnes er motiv mot all arbeidslivsregulering (galt: hans posisjon er for sterkere regulering, ikke mot regulering)
+- Follow-up queries: 
+- Citation: [Stortinget: Representantforslag om bemanningsforbud](https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak-og-debatter/Arkiv/)
+- Citation: [Rødts arbeidspolitikk](https://www.rodt.no/arbeidsmarked)
+
+### d3_3 - Handelsfrihet
+Moxnes har en konsekvent og eksplisitt negativ profil på handelsfrihet. Han kritiserer «dogmatisk frihandel» som sårbarhetsskapende. Rødt under hans ledelse programfestet krav om styrket importvern for landbruk, reduksjon av EUs tollfrie kvoter og at Norge skal si opp EØS-avtalen. Moxnes omtaler «naiv tro på frihandel og markedsliberalisme» som et problem. Dette representerer aktiv motstand mot handelsfrihet som prinsipp.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes skrev at «dogmatisk frihandel» gjør verden sårbar og kritiserte frihandelregimer | Rødt programfestet krav om å si opp EØS-avtalen og erstatte den med «balansert handelsavtale» med nasjonal kontroll | Moxnes uttalte at «naiv tro på frihandel» er et problem og at Norge må styrke selvforsyning fremfor å basere seg på import
+- Discarded claims: Moxnes er frihandelsforkjemper (galt: hans posisjon er gjennomgående proteksjonistisk)
+- Follow-up queries: 
+- Citation: [Dagsavisen: Moxnes om frihandel](https://www.dagsavisen.no/debatt/frihandelen-gjor-verden-syk/)
+- Citation: [Rødts EU/EØS-politikk](https://www.rodt.no/eu-og-eos)
+- Citation: [Nationen: Moxnes om landbruk](https://www.nationen.no/artikkel/moxnes-har-fatt-oynene-opp-for-landbruket/)
+
+### d3_4 - Monetær frihet
+Utilstrekkelig dokumentasjon. Rødt og Moxnes støtter generelt statlig prisregulering (strømpristak, husleieregulering), som indikerer negativ profil på monetær frihet. Ingen dokumenterte eksplisitte uttalelser fra Moxnes om CBDC, kryptovaluta eller sentralbankuavhengighet er funnet.
+
+- Confidence: medium
+- Data gap: yes
+- Accepted claims: Rødt under Moxnes' ledelse støtter statlig prisregulering som strategi
+- Discarded claims: 
+- Follow-up queries: Moxnes CBDC digitale sentralbankpenger | Moxnes Norges Bank pengepolitikk uavhengighet | Moxnes kryptovaluta alternativ pengesystem
+
+### d4_1 - Lik anvendelse av loven
+Implisitt negativ profil basert på Rødts partistruktur og politikk. Rødt innførte kandidatkvotering (annenhver mann/kvinne) på valglistene i 2007. Bergen-programmet inneholder forslag om «radikal kvotering for innvandrere». Moxnes har aldri offentlig kritisert disse ordningene. Ingen direkte personlige uttalelser fra Moxnes om likebehandlingsprinsippet er funnet, men hans partilederstilling de facto gjør ham ansvarlig for den praksis som føres.
+
+- Confidence: medium
+- Data gap: yes
+- Accepted claims: Rødt har kjønnskvotering på valglistene siden 2007 under Moxnes' lederstskap | Rødt Bergen-program foreslår «radikal kvotering for innvandrere» der det er mulig
+- Discarded claims: Moxnes har personlig gitt eksplisitte uttalelser mot likebehandlingsprinsippet (ingen dokumentasjon funnet)
+- Follow-up queries: Moxnes kvotering positiv diskriminering likebehandling | Moxnes klassejustis vs identitetsbasert særbehandling
+- Citation: [Rødt Bergen-program](https://www.rodt.no/bergen)
+
+### d4_2 - Rettslig uavhengighet
+Ingen dokumenterte forsøk på å påvirke konkrete domstolsavgjørelser eller politisere juridiske prosesser fra Moxnes side. Han aksepterte rettsprosessen i Lindeberg-saken (2014–2015) der han ble frifunnet. Rødt slår i prinsipprogrammet fast at uavhengige domstoler er grunnleggende, men bruker ikke begrepet «rettsstat» i valgprogrammet. Moxnes' posisjon er ikke entydig positiv da hans venstreradikale filosofi impliserer en «klassejustis»-orientert rettsforståelse.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: Rødts prinsipprogram (2019) slår fast at uavhengige domstoler som garanterer rettssikkerhet er grunnleggende | Moxnes aksepterte rettsprosessen i Lindeberg-saken uten å underminere domstolene
+- Discarded claims: Moxnes har aktivt forsøkt å påvirke konkrete domstolsavgjørelser (ingen dokumentasjon funnet)
+- Follow-up queries: Moxnes domstolsuavhengighet rettsstat prinsipp | Moxnes klassejustis kritikk domstolenes politisering | Moxnes 2024 grunnlovsvedtak domstolsuavhengighet
+- Citation: [Rødts prinsipprogram 2019](https://www.rodt.no/prinsipprogram2019)
+
+### d4_3 - Rettssikkerhet og uskyldspresumpsjon
+Datagap. Ingen primærkilder som dokumenterer Moxnes' personlige eksplisitte posisjon på administrative sanksjoner, bevisbyrde, eller rettssikkerhetstiltak er funnet. Søk på Stortinget gav ingen relevante forslag knyttet til rettssikkerhet eller uskyldspresumpsjon.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: 
+- Discarded claims: 
+- Follow-up queries: Moxnes rettssikkerhet administrative sanksjoner | Moxnes bevisbyrde uskyldspresumpsjon | Moxnes strafferettsreform prosessgarantier
+
+### d4_4 - Begrenset statsmakt
+Moxnes har en konsistent og eksplisitt positiv profil på dette område – men av demokratiske snarere enn libertarianske hensyn. Han var først til å opposere koronaloven (mars 2020), karakteriserte den som å ha «autoritære trekk» og fikk gjennomslag for vesentlige begrensninger (kortere varighet, innsnevret omfang, mindretallsveto). Han stemte mot forlengelse av koronaloven. I 2025 tok Rødt samme posisjon mot sivilbeskyttelseslovendringen. Imidlertid er Moxnes samtidig tilhenger av bred statlig ekspansjon på velferds- og næringsområdet – en strukturell inkonsistens.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes var i mars 2020 første politiker som offentlig motsatte seg koronaloven og karakteriserte den som «autoritær» | Moxnes fikk gjennomslag for redusert varighet, innsnevret fullmaktsomfang og mindretallsveto | Moxnes sa nei til forlengelse av koronaloven i april 2020 | Rødt opposerte sivilbeskyttelseslovendringen i 2025 med argument om for vide fullmakter uten demokratisk kontroll
+- Discarded claims: Moxnes er prinsippiell motiv av statsmakt generelt (galt: hans motstand gjelder kun fullmaktslover; han er tilhenger av aktiv statsmakt på velferds- og næringsfeltet)
+- Follow-up queries: 
+- Citation: [VG: Moxnes angriper koronafullmaktene](https://www.vg.no/nyheter/norge/i/RRA9Xd/moxnes-angriper-regjeringens-koronafull-makter)
+- Citation: [Dagsavisen: Rødt sier nei til koronaloven](https://www.dagsavisen.no/nyheter/rodt-sier-nei-til-koronaloven/)
+
+### d5_1 - Religionsfrihed
+Moxnes og Rødt programfester at staten skal være tros- og livssynsnøytral og at retten til å velge tro er en grunnleggende demokratisk rett. Rødt ønsker at tros- og livssynssamfunn behandles på lik linje med andre frivillige organisasjoner, noe som motvirker privilegering av Den norske kirke. Rødt nektet imidlertid å behandle forslag om forbud mot rituell omskjæring (2019) – en implisitt ikke-inngripende posisjon overfor religiøs praksis. Samlet profil er overveiende positiv for religionsfrihet, men med en ISI-relevant spenning: likebehandling via statsstøttevilkår innebærer statlig kontroll.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Rødt programfester at retten til å velge tro er en grunnleggende demokratisk rett | Rødt ønsker at tros- og livssynssamfunn behandles på lik linje med andre frivillige organisasjoner | Rødt nektet å behandle forslag om forbud mot rituell omskjæring på landsmøtet 2019
+- Discarded claims: Moxnes ønsker statlig regulering av religiøs praksis (galt: hans posisjon er livssynsnøytral stat uten regulering)
+- Follow-up queries: 
+- Citation: [Rødts religionsfrihet-politikk](https://www.rodt.no/religionsfrihet)
+
+### d5_2 - Politisk foreningsfrihet
+Moxnes har eksplisitt støttet organisasjonsfrihet som demokratisk grunnrettighet. Rødt prinsipprogram (2019) erklærer at «retten til å kritisere myndighetene skal gjelde for alle, også motstandere av sosialisme». Imidlertid inneholder prinsipprogrammet formuleringen om at «nazistiske organisasjoner har ingen plass», og Moxnes stilte kritisk Stortingsspørsmål om at politiet tillot selverklærte nazister å marsjere. Profilen er blandet: sterk formell støtte til organisasjonsfrihet kombinert med anti-nazistisk retorikk som impliserer støtte til innholdsbegrenset organisering.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Moxnes uttalte at Rødt «støtter alle demokratiske rettigheter som ytringsfrihet, organisasjonsfrihet og frie valg» | Rødts prinsipprogram slår fast at retten til å kritisere myndighetene skal gjelde for alle
+- Discarded claims: Moxnes har fremmet lovforbud mot politiske partier (ingen dokumentasjon funnet)
+- Follow-up queries: 
+- Citation: [Idag: Moxnes om Rødts prinsipprogram](https://www.idag.no/moxnes-raudt-skal-bygge-sosialisme-med-demokrati)
+
+### d5_3 - Sivilsamfunn vs. statlig substitusjon
+Moxnes og Rødt har en konsekvent og eksplisitt preferanse for statlig/kommunal løsninger fremfor sivilsamfunnets frie rolle. Moxnes har gjentatte ganger slått fast at alle velferdstjenester bør drives av kommunen. Rødt lanserte «profittfri velferd»-politikk der kommersielle aktører skal fases ut. Bergen-programmet fastslår eksplisitt at «oppgaver som tilhører det offentlige i økende grad er lagt til frivillighet» som et problem. Rødt aksepterer ideelle organisasjoner, men primærpreferansen er alltid offentlig drift. Dette er en av de sterkeste eksemplene på statlig substitusjon fremfor sivilsamfunnets selvstendige rolle.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Moxnes erklærer at alle velferdstjenester bør drives av kommunen | Rødt lanserte «profittfri velferd»-politikk for å fase ut kommersielle velferdsaktører | Rødt Bergen-program erklærer at «oppgaver som tilhører det offentlige i økende grad er lagt til frivillighet» som et negativt fenomen som bør reverseres
+- Discarded claims: Moxnes og Rødt ønsker å fjerne frivillige organisasjoner helt (galt: de aksepterer ideelle aktører som supplement til offentlig drift)
+- Follow-up queries: 
+- Citation: [Civita: Rødt og velferdsstaten](https://www.civita.no/publikasjoner/roed-velferdsstat)
+
+### d5_4 - Forsamlingsfrihed
+Moxnes har en konsistent og uttalt positiv profil på forsamlingsfrihet. I blogginnlegg (2020) fremhever Moxnes og Rødt at «politiet gjør jobben sin når de beskytter den grunnlovsfestede retten til ytringsfrihet» og at forsamlingsfriheten er «spesielt viktig for opposisjonelle». Han uttrykket bekymring for statlig overvåking av aktivister (Dagbladet 2017). Rødt har aktivt kritisert PSTs overvåking av venstreaktivister. Hans Stortingsspørsmål om nazistmarsjer er rettet mot politisk vold, ikke retten til å demonstrere generelt. Samlet profil er frihetsorientert, men med en implisitt innholdsbasert tilnærming til demonstrasjonsrett.
+
+- Confidence: medium
+- Data gap: no
+- Accepted claims: Moxnes og Rødt fremhever at forsamlingsfriheten er «spesielt viktig for enkeltmennesker og grupper i opposisjon til makthavere» | Moxnes uttrykte bekymring for statlig overvåking av opposisjonelle og aktivister | Rødt har kritisert PSTs overvåking av venstreaktivister
+- Discarded claims: Moxnes har støttet forbud mot lovlige demonstrasjoner (ingen dokumentasjon funnet)
+- Follow-up queries: 
+- Citation: [Rødt blogg: Ytringsfrihet i coronatida](https://www.rodt.no/ytringsfriheten-i-coronatida)
+
+### d6_1 - Overvåkning og personvern
+Moxnes har en konsistent og eksplisitt frihetsorientert profil. Han stemte mot datalagringsdirektivet (2011), aktivt opposerte ny etterretningstjenestelov med krav om domstolskontroll, kritiserte kraftig E-tjenestens masseovervåkningssystem, og stilte Stortingsspørsmål om amerikansk spionasje. Han karakteriserte masseovervåking som «den mest omfattende overvåkningen av befolkningen noensinne». Moxnes har aktivt motarbeidet statlig masseovervåkning i ulike former gjennom hele sin karriere.
+
+- Confidence: high
+- Data gap: no
+- Accepted claims: Rødt stemte mot datalagringsdirektivet i 2011 | Moxnes opposerte ny etterretningstjenestelov (2020) og fremmet utsettelsesforslag med argument om domstolskontroll | Moxnes kritiserte E-tjenestens masseovervåkingssystem og krevde at innsamlet data om nordmenn ble slettet | Moxnes stilte Stortingsspørsmål om amerikansk spionasje mot norske toppolitikere
+- Discarded claims: Moxnes har støttet masseovervåking eller datalagring (galt: hans posisjon er gjennomgående frihetsorientert)
+- Follow-up queries: 
+- Citation: [Stortinget: Moxnes Stortingsspørsmål om E-tjenesten](https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak-og-debatter/Arkiv/)
+- Citation: [NRK: Moxnes angriper etterretningstjenestene](https://www.nrk.no/norge/moxnes-angriper-etterretningstjenestene)
+
+### d6_2 - Digital identitet og kontroll
+Datagap. Ingen primærkilder som dokumenterer Moxnes' spesifikke posisjoner på obligatorisk digital ID, CBDC eller sosiale kredittmekanismer er funnet. Rødt har generell motstand mot overvåking, men dette overlapper ikke nødvendigvis med d6_2.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: 
+- Discarded claims: 
+- Follow-up queries: Moxnes digital ID wallet obligatorisk | Moxnes CBDC digitale sentralbankpenger | Moxnes sosiale kredittmekanismer
+
+### d6_3 - Internettfrihet og kryptering
+Datagap. Ingen dokumenterte uttalelser, stemmer eller posisjoner fra Moxnes på kryptering, bakdører eller statlig internettinfrastrukturkontroll er funnet. Rødt har generell profil for personvern, men ingen konkrete posisjoner på krypteringspolitikk kan knyttes til Moxnes personlig.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: 
+- Discarded claims: 
+- Follow-up queries: Moxnes kryptering bakdører kommunikasjonssystemer | Moxnes internettinfrastruktur statlig kontroll | Moxnes personvern kryptering beskyttelse
+
+### d6_4 - Eierskap til egne data
+Datagap. Ingen dokumenterte primærkilder om Moxnes' posisjoner på individets rett til å eie egne data, korporativ datahøsting eller statlig datakontroll er funnet. Rødt har generell personvernpolitikk, men ingen konkrete posisjoner på d6_4 spesifikt.
+
+- Confidence: low
+- Data gap: yes
+- Accepted claims: 
+- Discarded claims: 
+- Follow-up queries: Moxnes dataeierskap GDPR | Moxnes personvern digitale rettigheter | Moxnes dataportering individuell kontroll
