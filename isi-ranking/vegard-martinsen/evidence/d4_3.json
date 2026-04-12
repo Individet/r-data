@@ -1,0 +1,40 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d4_3",
+  "subdimensionName": "Rettssikkerhet og uskyldspresumpsjon",
+  "harvestedAt": "2026-04-12",
+  "summary": "Søk på tvers av foretrukne domener (gullstandard.no, vegardmartinsen.com/vegmar.wordpress.com, DLF-forumet nsd.no) gir ikke frem dokumenterte, spesifikke uttalelser fra Vegard Martinsen om administrative sanksjoner, uskyldspresumpsjon eller bevisbyrde i rettsstatlig sammenheng. Én relevant kilde (DLF-forum, 2009) viser Martinsen i diskusjon om beviskrav i kriminalsaker, der han skiller eksplisitt mellom private oppfatninger og formelle krav til domfellelse – en distinksjon som er konsistent med respekt for rettsstatlige garantier, men som primært omhandler epistemologi, ikke statlig politikk. Hans ideologiske bakgrunn som leder av DLF (2002–2017) og tilknytning til Gullstandard tilsier sterk motstand mot statlig maktutøvelse uten domstolskontroll, men ingen primærkilder dokumenterer en eksplisitt posisjon om administrative sanksjoner, omvendt bevisbyrde eller tiltak som omgår rettsprosessen. Datagrunnlaget er utilstrekkelig for å sette en annen score enn null/null.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "I en diskusjon på DLF-forumet (2009) skiller Martinsen eksplisitt mellom strengt juridisk beviskrav ('svært strengt') for domfellelse og private, legmannsbaserte oppfatninger om skyld. Han sier: 'Kravene for å dømme i en rettsasak er og bør være svært strenge.' Dette indikerer at han anerkjenner høye rettssikkerhetsstandarder i strafferetten.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Enkelttilfelle fra 2009 – ingen oppfølgende primærkilder funnet.",
+      "inconsistency": "Uttalelsen gjelder beviskrav i straffesaker generelt, ikke spesifikt administrative sanksjoner eller omgåelse av rettsprosessen.",
+      "note": "Primærkilden er et diskusjonsforum (forum.dlf.info), som er tilgjengelig via nsd.no-arkiv. Uttalelsen er i kontekst av en debatt om Palme-drapet, ikke et politisk program."
+    },
+    {
+      "claim": "Martinsens ideologiske profil som konsekvent liberalist og DLF-leder (2002–2017) impliserer sterk motstand mot statlig sanksjonsbruk utenfor domstolskontroll, basert på at DLFs politikk eksplisitt begrenset det offentliges rolle til politi, rettsapparat og militært forsvar.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Konsistent ideologisk profil over 15 år som DLF-leder, men ingen dokumentert spesifikk posisjon om administrative sanksjoner.",
+      "inconsistency": "Ingen primærkilde om dette spesifikke temaet er funnet. Implisitt slutning fra generell rettsstat-forankret ideologi.",
+      "note": "NSD-arkiv (nsd.no) viser DLF-politikk om at staten kun skal finansiere politi, rettsapparat og militær – noe som impliserer at administrativ sanksjonsmakt burde begrenses, men dette er ikke eksplisitt uttalt av Martinsen i funnet materiale."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen skrevet om administrative sanksjoner, omvendt bevisbyrde eller forvaltningssanksjoner på gullstandard.no eller stemDLF.no?",
+    "Finnes det DLF-programmer eller partivedtak som tar eksplisitt stilling til rettssikkerhet i forvaltningssaker?",
+    "Har Martinsen kommentert konkrete saker som NAV-skandalen, skatteforvaltningens sanksjonsbruk eller liknende?"
+  ],
+  "citations": []
+}
