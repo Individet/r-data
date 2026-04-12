@@ -1,0 +1,60 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d4_2",
+  "subdimensionName": "Rettslig uavhengighet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Det finnes ingen dokumenterte tilfeller der Bjørnar Moxnes har forsøkt å påvirke konkrete domstolsavgjørelser eller politisere juridiske prosesser på en måte som undergraver rettslig uavhengighet. Moxnes fremstår tvert om som en politiker som har insistert på domstolsprosessen som riktig arena i saker mot ham selv, og han har som Rødt-leder stilt seg bak partiets prinsipprogram som eksplisitt slår fast at uavhengige domstoler er grunnleggende. Rødt nevner imidlertid ikke begrepet 'rettsstat' i sitt partiprogram for 2021-valgkampen, og partiet har en klassejustis-orientert rettsforståelse som kan gi seg utslag i press for politisert straffutmåling. Moxnes' Assange-engasjement består av politisk press på norske myndigheter – ikke på domstolene direkte – og faller innenfor normalt politisk arbeid. Datagrunnlaget er begrenset: ingen funn av direkte forsøk på å instruere eller undergrave norske domstoler, men heller ingen klare positive uttalelser om domstolsuavhengighet som et prinsipielt standpunkt.",
+  "stance": "unknown",
+  "positionType": "implicit",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Rødt sitt prinsipprogram fra 2019 (vedtatt under Moxnes' lederperiode) slår fast at uavhengige domstoler som garanterer rettssikkerheten for det enkelte individ er grunnleggende for et sosialistisk samfunn.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Enkeltdokument fra 2019, reflekterer partiets offisielle posisjon under Moxnes-ledelse.",
+      "inconsistency": "Rødt nevner ikke begrepet 'rettsstat' i partiprogrammet for 2021-valgkampen ifølge Juridika-analyse, noe som antyder at domstolsuavhengighet ikke er høyt prioritert i praksis.",
+      "note": "Kilden er Rødts prinsipprogram (roedt.no), sekundært sitert via steigan.no og Juridika."
+    },
+    {
+      "claim": "I Lindeberg-saken (2014–2015) møtte Moxnes straffesiktelse for brudd på taushetsplikt etter at Oslo bystyre anmeldte ham. Han aksepterte rettsprosessen, ble frifunnet i Oslo tingrett, og omtalte selv saken som et forsøk på å 'kneble en politiker i opposisjon' – uten å forsøke å omgå eller delegitimere domstolen.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Enkelthendelse i 2014–2015.",
+      "inconsistency": "",
+      "note": "Moxnes' opptreden i saken viser respekt for rettsligprosessen, men er ikke et prinsipielt utsagn om domstolsuavhengighet."
+    },
+    {
+      "claim": "Moxnes engasjerte seg aktivt for Julian Assange og kritiserte norsk utenriksminister for ikke å reagere på britisk domstolspraksis i utleveringssaken. Han omtalte domstolsavgjørelsen som 'en skam for Norge og et svik mot ytringsfriheten'.",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Desember 2021.",
+      "inconsistency": "Uttalelsen kan tolkes som kritikk av en konkret domstolsavgjørelse i et annet land, men er rettet mot norske myndigheters politiske respons – ikke mot norske domstolers uavhengighet.",
+      "note": "Engasjementet gjelder utenlandske rettslige prosesser og faller primært under ytringsfrihetsdimensjonen, ikke norsk rettslig uavhengighet."
+    },
+    {
+      "claim": "Rødt nevner ikke begrepet 'rettsstat' i sitt partiprogram for 2021–2025-perioden, i motsetning til de fleste andre partier. Juridika-analysen fra 2021 peker på at Rødt er opptatt av å 'motarbeide klassejustis', ikke av rettsstatlig uavhengighet som prinsipp.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Valgkamp 2021.",
+      "inconsistency": "Prinsipprogrammet fra 2019 nevner eksplisitt uavhengige domstoler, noe som er i motsetning til det som fremgår av valgprogrammet.",
+      "note": "Fraværet av begrepet er ikke det samme som en negativ posisjon, men tyder på lav prioritering av domstolsuavhengighet som selvstendig verdi."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes eller Rødt tatt eksplisitt stilling til Stortingets enstemmige grunnlovsvedtak om domstolsuavhengighet i 2024?",
+    "Finnes det uttalelser fra Moxnes om klassejustis eller politisering av straffeforfølgning som kan tolkes som press på domstoler?",
+    "Har Moxnes eller Rødt fremmet forslag som ville svekket domstolenes institusjonelle uavhengighet fra regjeringen?"
+  ],
+  "citations": []
+}
