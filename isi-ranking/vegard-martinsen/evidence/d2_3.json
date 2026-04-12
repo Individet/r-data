@@ -1,0 +1,92 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d2_3",
+  "subdimensionName": "Akademisk og vitenskapelig frihet",
+  "harvestedAt": "2026-04-12T00:00:00Z",
+  "summary": "Oppfølgingssøket avdekker flere relevante primærkilder fra gullstandard.no som belyser Martinsens syn på skjæringspunktet mellom stat, forskning og akademia. Han argumenterer eksplisitt for at statlig finansiering av forskning nødvendigvis fører til politiske føringer som gjør forskning til propaganda. Han bruker Cicero-senterets opprinnelige formålsparagraf som eksempel og konkluderer med at 'forskning med føringer er ikke forskning, det er propaganda'. Han støtter privatisering av universiteter og høyskoler. Han er kritisk til det han oppfatter som politisk vinklet akademia dominert av 'woke'-verdier og identitetspolitikk, og anbefaler professor Janice Fiamengo som beskriver venstreorientert politisk agenda i akademia. Han er positiv til vitenskapelig metode og evolusjonsteori, og avviser kreasjonisme. Samlet tegnes et bilde av en aktør som er sterkt kritisk til statlig finansiering og styring av forskning, ønsker privatisering av universiteter, og er kritisk til politisk korrekthet i akademia – men som selv ikke ønsker statlig politisk kontroll over hva som forskes på. Posisjonen er positiv til akademisk frihet fra statlig styring, om enn implisitt artikulert gjennom ideologisk generalisering snarere enn eksplisitt politikkforslag. dataGap reduseres – det er nå tilstrekkelig grunnlag for en score.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen og foreningen Gullstandard er fundamentalt imot statlig innblanding på alle samfunnsområder, med laissez-faire-kapitalisme som ideal. Dette impliserer prinsippiell motstand mot politisk styring av forskning og akademia, men ingen spesifikke uttalelser om akademisk frihet som eget tema er dokumentert.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Konsistent ideologisk grunnposisjon fra minst 2002 (DLF) til i dag (Gullstandard).",
+      "inconsistency": "",
+      "note": "Implisitt posisjon utledet fra generell libertariansk ideologi – ingen primærkilder spesifikt om akademisk frihet funnet."
+    },
+    {
+      "claim": "Martinsen fremhever i et innlegg fra DLFs landsmøte 2010 viktigheten av å ha 'uangripelig faktagrunnlag', følge 'logikkens lover' og ha 'akademisk form i alt vi sier og gjør', noe som indikerer respekt for vitenskapelig metode og intellektuell redelighet. Dette er imidlertid ikke en politisk posisjon om akademisk frihet som institusjon.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Enkeltuttalelse fra 2010.",
+      "inconsistency": "",
+      "note": "Utsagnet handler om DLFs interne argumentasjonsstil, ikke om statlig styring av forskning."
+    },
+    {
+      "claim": "Martinsen argumenterer på gullstandard.no eksplisitt for at statlig finansiering av forskning nødvendigvis fører til politiske føringer som korrumperer forskningens integritet. Han bruker Cicero-senterets opprinnelige formålsparagraf ('å fremskaffe kunnskap som kan bidra til å løse det menneskeskapte klimaproblemet') som eksempel og hevder at 'forskning med føringer er ikke forskning, det er propaganda'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Udatert artikkel på gullstandard.no – publisert i den perioden Gullstandard har vært aktiv (etter 2017).",
+      "inconsistency": "",
+      "note": "Dette er en sterk og eksplisitt posisjon mot statlig styring av forskning, men den er begrunnet i en generell libertariansk statskritikk snarere enn en selvstendig analyse av akademisk frihet som institusjon."
+    },
+    {
+      "claim": "Martinsen støtter privatisering av universiteter og høyskoler som en del av en generell privatiseringspolitikk. Han skriver at 'Universiteter og høyskoler kan privatiseres på samme måte [som skoler], men disse må nok i betydelig grad også finansieres med gaver, fond, testamentariske gaver, etc.'",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gullstandard.no, side 4 – udatert, men i tråd med konsistent ideologisk linje.",
+      "inconsistency": "",
+      "note": "Privatisering av universiteter er konsistent med hans generelle laissez-faire-posisjon, og innebærer frigjøring fra statlig styring av akademia."
+    },
+    {
+      "claim": "Martinsen anbefaler professor Janice Fiamengo, som er kritisk til politisk venstreorientering og 'indigenous science' i akademia, og støtter hennes kritikk av at akademia brukes til en 'venstreorientert politisk agenda'. Han nevner også en fysikkprofessor som mistet jobben på grunn av sine meninger.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Gullstandard.no, side 25 – udatert innlegg.",
+      "inconsistency": "",
+      "note": "Kritikken retter seg mot politisk korrekthet i akademia og identitetspolitisk kvotering ved universiteter og forskningsinstitusjoner – implisitt støtte til akademisk frihet og meritokrati i forskning."
+    },
+    {
+      "claim": "Martinsen er positiv til vitenskapelig metode og støtter evolusjonsteorien. Han skriver at 'de som slutter opp om [kreasjonisme og intelligent design] har forlatt den vitenskapelige metode' og at det ikke er grunn til å tvile på evolusjonsteorien.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gullstandard.no, side 3.",
+      "inconsistency": "",
+      "note": "Støtten til vitenskapelig metode og rasjonalitet er konsistent, men er en holdning til epistemologi snarere enn en politisk posisjon om akademisk frihet som institusjon."
+    },
+    {
+      "claim": "Martinsen er kritisk til at langtidsutdannede eliter dominerer politikk, byråkrati, presse og akademia og driver politikk han mener er skadelig for individuell frihet. Dette er en kulturkritikk rettet mot akademia som institusjon, men impliserer ikke at han ønsker statlig kontroll over forskning – tvert imot.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Gullstandard.no, side 2 og 6, gjentatte innlegg.",
+      "inconsistency": "",
+      "note": "Kritikken av akademia er ideologisk, ikke institusjonell: Martinsen ønsker friere akademia, ikke mer politisk kontroll."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen tatt eksplisitt stilling til statlig finansiering og styring av universiteter og høyskoler?",
+    "Har han kommentert politisk korrekthet i akademia eller woke-kultur i forskningsmiljøer?",
+    "Finnes det artikler på gullstandard.no eller stemDLF.no som spesifikt omhandler akademisk frihet eller universitetspolitikk?",
+    "Har Martinsen tatt eksplisitt stilling til konkrete norske forskningspolitiske vedtak (f.eks. Norges forskningsråd, sektormål for universiteter)?",
+    "Har han kommentert spesifikke saker om kanselleringskultur eller akademisk frihet i Norge (ikke bare USA/Canada)?"
+  ],
+  "citations": []
+}
