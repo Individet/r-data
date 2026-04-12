@@ -1,0 +1,59 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d5_2",
+  "subdimensionName": "Politisk foreningsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Det finnes ingen direkte, eksplisitte uttalelser fra Vegard Martinsen om partiforbud eller ideologibasert regulering av politiske bevegelser. Tilgjengelig materiale fra gullstandard.no, vegmar.wordpress.com og DLF-perioden (2002–2017) viser imidlertid en gjennomgående forankring i laissez-faire-liberalisme og NAP, der statens eneste legitime funksjon er å beskytte individets frihet mot tvang. Denne ideologiske grunnposisjonen innebærer sterkt implisitt motstand mot statlig forbud mot politiske partier eller bevegelser basert på ideologisk innhold. I en podcast på gullstandard.no kommenterte Martinsen politisk vold mot partiet FORs plakater kritisk, noe som viser bevissthet om og motstand mot angrep på politisk organisering. Det er likevel ingen primærkilde der Martinsen eksplisitt tar stilling til partiforbud som konkret politisk spørsmål. Positiv stance er implisitt og konsistent med hele hans ideologiske system, men fraværet av eksplisitte utsagn gir lav–middels confidence.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Foreningen Gullstandards formålserklæring, utformet av Martinsen, slår fast at statens eneste oppgave er å beskytte den enkelte borgers frihet og at alle andre oppgaver utføres av private — noe som utelukker statlig forbud mot politiske partier eller bevegelser.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent fra stiftelsen av Gullstandard (2018) og gjennom DLF-perioden (2002–2017).",
+      "inconsistency": "",
+      "note": "Gullstandards prinsipperklæring er primærkilde, men tar ikke eksplisitt stilling til partiforbud."
+    },
+    {
+      "claim": "I en podcast på gullstandard.no kommenterte Magnus og Vegard politisk vold mot partiet FORs valgplakater og andre eksempler på politisk vold kritisk — noe som impliserer støtte til fri politisk organisering og motstand mot undertrykkelse av politiske bevegelser.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Enkelttilfelle i valgkampen 2025.",
+      "inconsistency": "",
+      "note": "Kritikken er rettet mot ikke-statlig politisk vold, ikke mot statlig partiforbud direkte."
+    },
+    {
+      "claim": "Martinsen har i sin forfatterskap (bl.a. 'Frihet, likhet, brorskap') konsekvent forsvart fri konkurranse mellom ideer og partier, og kritisert alle norske stortingspartier som sosialdemokratiske — uten å foreslå noen av dem forbudt, men heller arbeide for friere politisk konkurranse gjennom valgdeltakelse og ideologisk overbevisning.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent gjennom hele DLF-perioden og etter 2017.",
+      "inconsistency": "",
+      "note": "Tilnærmingen er konsistent med voluntarisme og mot statlig tvang, men partiforbud som tema er aldri eksplisitt adressert."
+    },
+    {
+      "claim": "Martinsen har uttalt seg negativt om islam som politisk ideologi og beskrevet den som 'frihetsfiendtlig', men det er ikke dokumentert at han har støttet forbud mot islamske partier eller politiske bevegelser basert på religiøs/ideologisk identitet.",
+      "stance": "unknown",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Gjentatte uttalelser over tid på DLF-nettside og gullstandard.no.",
+      "inconsistency": "Skarp ideologisk kritikk av islam som politisk bevegelse kan i prinsippet åpne for støtte til restriksjoner, men ingen eksplisitt posisjon er dokumentert.",
+      "note": "Mangel på klar stillingtagen gjør dette uavklart. Merkes som uavklart heller enn negativt."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen noen gang eksplisitt tatt stilling til spørsmålet om forbud mot eller regulering av politiske partier/bevegelser basert på ideologisk innhold — inkludert islamistiske partier?",
+    "Innebærer hans skarpe kritikk av islam som politisk ideologi at han under visse omstendigheter ville støtte restriksjoner på islamistiske politiske bevegelser?"
+  ],
+  "citations": []
+}
