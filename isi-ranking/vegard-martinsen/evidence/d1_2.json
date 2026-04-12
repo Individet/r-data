@@ -1,0 +1,70 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d1_2",
+  "subdimensionName": "Sosial frihet/Livsstilsautonomi",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har gjennom en lang politisk karriere som leder av Det Liberale Folkepartiet (DLF, 2002–2017) og som grunnlegger og skribent for Gullstandard (2018–) konsekvent og eksplisitt fremmet individets rett til å velge livsstil uten statlig innblanding. Hans ideologiske forankring i objektivismen og laissez-faire-liberalismen innebærer at han prinsipielt avviser alle former for paternalisme. På ruspolitikk-feltet argumenterer han eksplisitt på gullstandard.no for at «det eneste som kan ta knekken på narkokartellene er en legalisering av narkotika», og han karakteriserer narkotikapolitikken som «en enorm katastrofe» sett fra et liberalistisk perspektiv. Gullstandard-foreningen han leder formulerer statens eneste legitime oppgave som å beskytte borgernes frihet – ikke regulere privat livsstil. Hans bok «Frihet, likhet, brorskap» (2004) inneholder artikler om abort og andre livsstilsspørsmål analysert fra et konsistent liberalistisk perspektiv. Det finnes ingen dokumenterte unntak eller inkonsistenser i hans posisjon på livsstilsautonomi.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen argumenterer eksplisitt på gullstandard.no for legalisering av narkotika som den eneste liberalistisk konsistente løsningen, og karakteriserer narkotikapolitikken som «en enorm katastrofe» fra et frihetsperspektiv.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Dokumentert fra 2018–2023 på gullstandard.no; konsistent med DLF-posisjon fra 2002–2017.",
+      "inconsistency": "",
+      "note": "Direkte sitat fra gullstandard.no (side 5, Vegard Martinsen-arkivet): 'Narkotikapolitikken er en enorm katastrofe, men enhver liberalistisk innstilt person forstår at det eneste som kan ta knekken på narkokartellene er en legalisering av narkotika.'"
+    },
+    {
+      "claim": "Gullstandard, som Martinsen leder og er hovedskribent for, definerer statens legitime oppgave utelukkende som å beskytte borgernes frihet – ethvert statlig inngrep i privat livsstil avvises prinsipielt.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Foreningen Gullstandards manifesterklæring, konsistent i alle publiserte tekster 2018–2026.",
+      "inconsistency": "",
+      "note": "Gullstandard: 'statens oppgave kun er å beskytte den enkelte borgers frihet, og hvor alle andre oppgaver utføres av private.'"
+    },
+    {
+      "claim": "Som DLF-leder (2002–2017) fremmet Martinsen konsekvent 100 % individuell frihet, inkludert livsstilsautonomi, som DLFs ufravikelige kjerneverdi.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Landsmøtetale 2010 dokumentert på vegmar.wordpress.com; mønster over hele partiperioden.",
+      "inconsistency": "",
+      "note": "Fra DLFs landsmøtetale 2010: 'Vi må stå 100 % for individuell frihet' – Martinsen presenterte dette som ufravikelig."
+    },
+    {
+      "claim": "Martinsens bok 'Frihet, likhet, brorskap' (2004) behandler bl.a. abort fra et liberalistisk perspektiv, noe som indikerer eksplisitt støtte til reproduktiv autonomi uten statlig styring.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Bok fra 2004; ideologisk linje videreført etter 2004.",
+      "inconsistency": "",
+      "note": "Bokomtalen nevner abort som et av temaene analysert ut fra 'hva som er statens legitime oppgaver' i et kapitalistisk system. Selve abortartikkelens konkrete innhold er ikke lest direkte."
+    },
+    {
+      "claim": "Gullstandard publiserte i 2019 en artikkel om abort der redaksjonen kritiserte innskrenkninger i selvbestemt abort som resultat av KrFs regjeringsdeltakelse, som er konsistent med en pro-autonomi-posisjon.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Enkeltartikkel fra 2019; konsistent med den brede linjen.",
+      "inconsistency": "",
+      "note": "Gullstandard-artikkelen 'Abort og demokrati' (2019) omtaler religiøse og konservative krefters innskrenkninger av selvbestemt abort kritisk, men det er ikke bekreftet at Martinsen er forfatter."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Hvem er den konkrete forfatteren av gullstandard.no-artikkelen 'Abort og demokrati' (2019) – er det Martinsen eller en annen bidragsyter?",
+    "Har Martinsen tatt eksplisitt stilling til statlig regulering av kosttilskudd, alkoholmonopol eller andre mer perifere livsstilsspørsmål utover rusmiddellegalisering?",
+    "Gullstandard-artikkelen om kjønnsinkongruens (2021) er skrevet av en transperson i kommentarfeltet – hva er Martinsens egen redaksjonelle posisjon om transpersoners rettigheter til selvdefinisjon og statlig ikke-innblanding?"
+  ],
+  "citations": []
+}
