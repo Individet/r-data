@@ -1,0 +1,549 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "generatedAt": "2026-04-12T00:00:00Z",
+  "profileSummary": "Bjørnar Moxnes er tidligere partileder i Rødt (2012–2023) og stortingsrepresentant. Han representerer en sosialistisk/marxistisk politisk tradisjon med sterk vektlegging av klassekamp, fagbevegelse, antikapitalisme og offentlig sektor. Fra et ISI-perspektiv forventes han å score negativt på eiendomsrett, næringsfrihet, skatt og regulering, men potensielt positivt på enkeltspørsmål som ytringsfrihet og personvern. Hans bakgrunn som fagforeningsaktivist og venstrepolitiker tilsier konsistente preferanser for statlig intervensjon over frivillig markedsorganisering.",
+  "primarySourcePriorities": [
+    "stortinget.no – voteringsdata, representantforslag, skriftlige spørsmål og innlegg i debatter",
+    "rodt.no – partiprogram, politiske plattformer og offisielle uttalelser",
+    "regjeringen.no – høringssvar og offentlige dokumenter der Rødt er involvert"
+  ],
+  "secondarySourcePriorities": [
+    "nrk.no – intervjuer, debatter og nyhetsdekning",
+    "aftenposten.no og vg.no – politiske intervjuer og kronikker",
+    "dagbladet.no – kommentarer og debattinnlegg",
+    "klassekampen.no – intervjuer og meningsytringer i venstrevennlig medium"
+  ],
+  "sourcePriorityNotes": [
+    "Prioriter alltid stemmegivning og representantforslag fra stortinget.no fremfor sekundærkilder",
+    "Rødts partiprogram 2021–2025 er autoritativ kilde for partiposisjon, men Moxnes egne uttalelser veier tyngre for personlig posisjon",
+    "Klassekampen er ideologisk nært Rødt – bruk som kilde for direkte sitater, ikke som uavhengig vurdering",
+    "Vær oppmerksom på at Moxnes trakk seg som partileder i 2023 – sjekk om posisjoner har endret seg etter dette",
+    "Sosiale medier (Twitter/X og Facebook) kan gi direkte sitater men bør verifiseres mot andre kilder"
+  ],
+  "subdimensions": [
+    {
+      "subdimensionId": "d1_1",
+      "priority": "medium",
+      "rationale": "Moxnes og Rødt støttet i stor grad koronatiltak, men har også profilert seg på abortrettigheter og pasientrettigheter. Sannsynlig blandet profil – støtte for reproduktiv autonomi, men positiv til statlige folkehelsemandater. Søk bør avklare koronavaksinasjonsstilling og abortpolitikk.",
+      "searchQueries": [
+        "Moxnes medisinsk selvbestemmelse vaksinasjon koronatiltak",
+        "Bjørnar Moxnes abort selvbestemmelse pasientrettigheter",
+        "Rødt koronapolitikk tvang smittevern stortinget"
+      ],
+      "negativeQueries": [
+        "Moxnes veterinær",
+        "Moxnes medisinforskning"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt votering eller uttalelse om obligatorisk vaksinasjon eller koronarestriksjonsstøtte",
+        "Finner dokumentert posisjon om abortrettigheter og selvbestemmelse"
+      ]
+    },
+    {
+      "subdimensionId": "d1_2",
+      "priority": "medium",
+      "rationale": "Rødt er relativt liberale på livsstilsspørsmål som seksualitet og religiøs frihet, men mer restriktive på rusmidler (strukturell tilnærming). Moxnes har ikke profilert seg sterkt på dette feltet. Søk bør avklare rus- og livsstilspolitikk.",
+      "searchQueries": [
+        "Bjørnar Moxnes ruspolitikk narkotika avkriminalisering",
+        "Moxnes LHBT seksualitet livsstil frihet",
+        "Rødt rusmiddelpolitikk avkriminalisering stortinget"
+      ],
+      "negativeQueries": [
+        "Moxnes alkohol reklame",
+        "Moxnes kosthold ernæring"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om avkriminalisering av narkotika",
+        "Finner dokumentert holdning til statlig regulering av livsstilsvalg"
+      ]
+    },
+    {
+      "subdimensionId": "d1_3",
+      "priority": "low",
+      "rationale": "Bevegelsesfrihet er ikke et kjernetema for Moxnes, men Rødt har tatt stilling til migrasjon og grensekontroll. Moxnes har ikke profilert seg som frihandels- eller åpen grense-forkjemper. Forventet negativ score på fri migrasjon kombinert med potensiell støtte til reiserestriksjoner. Lav prioritet da dette ikke er hans kjerneprofilsak.",
+      "searchQueries": [
+        "Bjørnar Moxnes innvandringspolitikk grensekontroll bevegelse",
+        "Moxnes Schengen passfriheter reisefrihet",
+        "Rødt migrasjonspolitikk bevegelsesfrihet"
+      ],
+      "negativeQueries": [
+        "Moxnes turisme reise ferie"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om grensekontroll eller fri bevegelse",
+        "Finner votering om Schengen eller migrasjon"
+      ]
+    },
+    {
+      "subdimensionId": "d1_4",
+      "priority": "low",
+      "rationale": "Selvbestemmelse ved livets slutt (aktiv dødshjelp/eutanasi) er ikke et høyprofilert tema for Moxnes. Rødt har ikke hatt dette som kampsak. Søk forventes å gi begrenset materiale.",
+      "searchQueries": [
+        "Bjørnar Moxnes aktiv dødshjelp eutanasi",
+        "Rødt selvbestemmelse livets slutt assistert død",
+        "Moxnes dødshjelp stortinget debatt"
+      ],
+      "negativeQueries": [
+        "Moxnes begravelse seremoni"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon for eller mot aktiv dødshjelp",
+        "Finner votering eller representantforslag om temaet"
+      ]
+    },
+    {
+      "subdimensionId": "d2_1",
+      "priority": "high",
+      "rationale": "Ytringsfrihet er relevant for Moxnes fordi Rødt har støttet hatytringslover og han har uttalt seg om ytringsfrihetens grenser. Han har også vært involvert i debatter om islamkritikk og hatefulle ytringer. Dette er et potensielt konfliktfelt der han kan score negativt fra ISI-perspektiv.",
+      "searchQueries": [
+        "Bjørnar Moxnes ytringsfrihet hatytringer lovgivning",
+        "Moxnes blasfemi hatefulle ytringer straffeloven",
+        "Rødt ytringsfrihet innholdsbegrensning desinformasjon"
+      ],
+      "negativeQueries": [
+        "Moxnes ytringsfrihet pressefrihet redaksjonell"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no",
+        "klassekampen.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt støtte til eller motstand mot hatytringsparagrafer",
+        "Finner dokumentert posisjon om desinformasjonslovgivning"
+      ]
+    },
+    {
+      "subdimensionId": "d2_2",
+      "priority": "medium",
+      "rationale": "Moxnes og Rødt støtter NRK og offentlige medier, noe som er relevant for redaksjonell uavhengighet og statlig finansiering av medier. Han har ikke profilert seg som kritiker av statsstøtte til medier. Forventet negativ score fra ISI-perspektiv.",
+      "searchQueries": [
+        "Bjørnar Moxnes NRK mediestøtte pressefrihet",
+        "Moxnes statlig mediefinansiering redaksjonell uavhengighet",
+        "Rødt mediepolitikk NRK lisens støtte"
+      ],
+      "negativeQueries": [
+        "Moxnes medieopptreden intervju personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om statlig mediestøtte",
+        "Finner uttalelse om redaksjonell uavhengighet vs. statlig kontroll"
+      ]
+    },
+    {
+      "subdimensionId": "d2_3",
+      "priority": "low",
+      "rationale": "Akademisk frihet er ikke et kjernetema for Moxnes, men Rødt har engasjert seg i universitetspolitikk og forskningsmidler. Forventet begrenset materiale. Lav prioritet.",
+      "searchQueries": [
+        "Bjørnar Moxnes akademisk frihet forskning universitet",
+        "Rødt forskningspolitikk akademia frihet",
+        "Moxnes universitetspolitikk vitenskapelig frihet"
+      ],
+      "negativeQueries": [
+        "Moxnes forskning klima energi"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om politisk kontroll over forskning",
+        "Finner uttalelse om akademisk frihet"
+      ]
+    },
+    {
+      "subdimensionId": "d2_4",
+      "priority": "medium",
+      "rationale": "Digital ytringsfrihet og plattformregulering er voksende politisk tema. Moxnes og Rødt har engasjert seg i DSA-debatten og regulering av sosiale medier. Potensielt negativ score fra ISI-perspektiv gitt preferanse for regulering.",
+      "searchQueries": [
+        "Bjørnar Moxnes sosiale medier regulering plattformer",
+        "Moxnes digital ytringsfrihet innholdsmoderering",
+        "Rødt DSA plattformregulering avplattforming"
+      ],
+      "negativeQueries": [
+        "Moxnes Twitter Facebook personlig bruk"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om statlig regulering av plattformer",
+        "Finner uttalelse om avplattforming eller innholdsmoderering"
+      ]
+    },
+    {
+      "subdimensionId": "d3_1",
+      "priority": "high",
+      "rationale": "Eiendomsvern og skatt er kjernespørsmål for ISI og forventet å gi tydelig negativ score for Moxnes. Rødt har konsekvent støttet høyere skatter, formuesskatt og ekspropriering av naturressurser. Dette er hans tydeligste ISI-relevante posisjon.",
+      "searchQueries": [
+        "Bjørnar Moxnes skatt formuesskatt eiendomsskatt",
+        "Moxnes ekspropriering statlig eierskap nasjonalisering",
+        "Rødt skattepolitikk omfordeling eiendom"
+      ],
+      "negativeQueries": [
+        "Moxnes eiendom bolig personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt støtte til høyere formuesskatt eller eiendomsskatt",
+        "Finner votering om skattepolitikk eller nasjonalisering"
+      ]
+    },
+    {
+      "subdimensionId": "d3_2",
+      "priority": "high",
+      "rationale": "Næringsfrihet og regulering er sentrale for ISI-vurdering. Moxnes og Rødt er konsekvent kritiske til liberalisering av arbeidsmarkedet og støtter sterk fagforeningsregulering, innleierestriksjoner og arbeidsmiljøregler. Forventet tydelig negativ score.",
+      "searchQueries": [
+        "Bjørnar Moxnes næringsfrihet regulering arbeidsliv",
+        "Moxnes fagforening arbeidsmiljø innleie regulering",
+        "Rødt arbeidspolitikk kontraktsfrihet næring"
+      ],
+      "negativeQueries": [
+        "Moxnes næring bedrift personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om arbeidsmarkedsregulering eller kontraktsfrihet",
+        "Finner votering om innleie, permittering eller arbeidsmiljølov"
+      ]
+    },
+    {
+      "subdimensionId": "d3_3",
+      "priority": "medium",
+      "rationale": "Handelspolitikk er relevant – Rødt er skeptisk til frihandelsavtaler og EØS. Moxnes har vært tydelig motstander av EØS-avtalen. Dette er relevant for ISI-vurdering av handelsfrihet, og forventet negativ score.",
+      "searchQueries": [
+        "Bjørnar Moxnes EØS frihandel proteksjonisme",
+        "Moxnes toll handelspolitikk handelsavtaler",
+        "Rødt EØS handelsavtale frihandel"
+      ],
+      "negativeQueries": [
+        "Moxnes handel butikk personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om EØS eller frihandelsavtaler",
+        "Finner votering om handelspolitikk eller toll"
+      ]
+    },
+    {
+      "subdimensionId": "d3_4",
+      "priority": "medium",
+      "rationale": "Monetær frihet er ikke Moxnes' kjerneprofilsak, men Rødt har tatt stilling til pengepolitikk, Norges Bank og prisnivå. Posisjon på CBDC og kryptovaluta bør undersøkes. Forventet negativ score på prisregulering.",
+      "searchQueries": [
+        "Bjørnar Moxnes pengepolitikk Norges Bank prisregulering",
+        "Moxnes CBDC kryptovaluta digital valuta",
+        "Rødt monetær politikk renter inflasjon"
+      ],
+      "negativeQueries": [
+        "Moxnes banktjenester personlig økonomi"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om prisregulering eller statlig pengeoppgave",
+        "Finner uttalelse om CBDC eller digital valutakontroll"
+      ]
+    },
+    {
+      "subdimensionId": "d4_1",
+      "priority": "high",
+      "rationale": "Likebehandling er et kritisk spørsmål – Rødt støtter kvotering og positiv særbehandling som bryter med likebehandlingsprinsippet i ISI-rammeverket. Moxnes har profilert seg på kjønnskvotering og mangfoldstiltak. Forventet tydelig negativ score.",
+      "searchQueries": [
+        "Bjørnar Moxnes kvotering positiv diskriminering likebehandling",
+        "Moxnes kjønnskvotering særbehandling minoriteter",
+        "Rødt kvotering diskrimineringspolitikk"
+      ],
+      "negativeQueries": [
+        "Moxnes diskriminering personlig erfaring"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt støtte til kjønnskvotering eller identitetsbaserte særregler",
+        "Finner votering om kvotering eller likebehandling"
+      ]
+    },
+    {
+      "subdimensionId": "d4_2",
+      "priority": "medium",
+      "rationale": "Rettslig uavhengighet er ikke et spesielt profilområde for Moxnes, men Rødt har engasjert seg i rettspolitiske spørsmål. Forventet begrenset men mulig materiale om domstolsreform eller politisering av jussen.",
+      "searchQueries": [
+        "Bjørnar Moxnes domstol rettsvesen uavhengighet",
+        "Moxnes rettsstat juridisk prosess domstolsreform",
+        "Rødt rettspolitikk domstoler uavhengighet"
+      ],
+      "negativeQueries": [
+        "Moxnes rettssak personlig søksmål"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om domstolenes uavhengighet",
+        "Finner uttalelse om politisk påvirkning av rettsvesenet"
+      ]
+    },
+    {
+      "subdimensionId": "d4_3",
+      "priority": "medium",
+      "rationale": "Rettssikkerhet og uskyldspresumpsjon er relevant – Moxnes har engasjert seg i politiets myndighetsbruk og sivile rettigheter. Han har kritisert overvåkning, men også støttet administrative sanksjoner i andre sammenhenger. Potensielt blandet profil.",
+      "searchQueries": [
+        "Bjørnar Moxnes rettssikkerhet uskyldspresumpsjon administrative sanksjoner",
+        "Moxnes politimyndighet sivile rettigheter bevisbyrde",
+        "Rødt rettssikkerhet straffeprosess sanksjoner"
+      ],
+      "negativeQueries": [
+        "Moxnes straffesak personlig politi"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om administrative sanksjoner eller reversert bevisbyrde",
+        "Finner uttalelse om rettssikkerhetsprinsipper"
+      ]
+    },
+    {
+      "subdimensionId": "d4_4",
+      "priority": "high",
+      "rationale": "Begrenset statsmakt er et kjernespørsmål. Moxnes og Rødt ønsker utvidet statlig makt og kontroll over økonomi og samfunnsliv, noe som scorer negativt i ISI. Han har støttet fullmaktslover og utvidede statlige inngrep. Forventet tydelig negativ score.",
+      "searchQueries": [
+        "Bjørnar Moxnes statsmakt fullmaktslover begrensning",
+        "Moxnes koronalov beredskapslov fullmakt Stortinget",
+        "Rødt statlig kontroll konstitusjonelle begrensninger"
+      ],
+      "negativeQueries": [
+        "Moxnes statsstyre generell politikk"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt votering om fullmaktslover eller beredskapslovgivning",
+        "Finner uttalelse om statsmaktens omfang og grenser"
+      ]
+    },
+    {
+      "subdimensionId": "d5_1",
+      "priority": "low",
+      "rationale": "Religionsfrihet er ikke et kjernetema for Moxnes. Rødt er sekulære og kritiske til statskirkeprivilegier, men støtter generelt religionsfrihet. Lav prioritet da forventet lite spesifikt materiale om ham personlig.",
+      "searchQueries": [
+        "Bjørnar Moxnes religionsfrihet sekularisme statskirke",
+        "Moxnes religiøs praksis regulering tros- og livssynsfrihet",
+        "Rødt religionspolitikk sekularisme"
+      ],
+      "negativeQueries": [
+        "Moxnes religion personlig tro"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om regulering av religiøs praksis",
+        "Finner uttalelse om statskirke eller religiøse særregler"
+      ]
+    },
+    {
+      "subdimensionId": "d5_2",
+      "priority": "low",
+      "rationale": "Politisk foreningsfrihet er ikke et profilert tema for Moxnes. Rødt støtter generelt foreningsfrihet inkl. fagforeninger, men kan ha hatt meninger om forbud mot ekstreme grupper. Lav prioritet.",
+      "searchQueries": [
+        "Bjørnar Moxnes politisk foreningsfrihet forbud ekstreme grupper",
+        "Moxnes politiske partier regulering forbud",
+        "Rødt foreningsfrihet organisasjonsfrihet politisk"
+      ],
+      "negativeQueries": [
+        "Moxnes Rødt parti intern organisering"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om forbud mot politiske bevegelser",
+        "Finner uttalelse om regulering av politiske partier"
+      ]
+    },
+    {
+      "subdimensionId": "d5_3",
+      "priority": "high",
+      "rationale": "Sivilsamfunn vs. statlig substitusjon er kjernespørsmål. Moxnes og Rødt foretrekker konsekvent statlige løsninger fremfor markedsbaserte eller frivillige alternativer – velferdsstat, statlig barnehage, helsevesen. Forventet tydelig negativ score fra ISI-perspektiv.",
+      "searchQueries": [
+        "Bjørnar Moxnes velferdsstaten privatisering sivilsamfunn",
+        "Moxnes statlig løsning frivillig sektor ideell",
+        "Rødt velferdsstat privatisering frivillig organisering"
+      ],
+      "negativeQueries": [
+        "Moxnes frivillig arbeid personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om statlig vs. frivillig organisering av velferd",
+        "Finner votering om privatisering eller kommunalisering"
+      ]
+    },
+    {
+      "subdimensionId": "d5_4",
+      "priority": "medium",
+      "rationale": "Forsamlingsfrihet er relevant – Moxnes har deltatt i og støttet demonstrasjoner. Han har også kritisert politiets håndtering av demonstrasjoner. Kan score positivt på dette punktet.",
+      "searchQueries": [
+        "Bjørnar Moxnes demonstrasjonsfrihet forsamlingsfrihet politiet",
+        "Moxnes protest overvåking demonstrasjon rettigheter",
+        "Rødt forsamlingsfrihet sivile rettigheter politioppdrag"
+      ],
+      "negativeQueries": [
+        "Moxnes demonstrasjon personlig deltakelse"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om begrensning av demonstrasjonsrett",
+        "Finner uttalelse om politiets overvåking av lovlydige demonstranter"
+      ]
+    },
+    {
+      "subdimensionId": "d6_1",
+      "priority": "high",
+      "rationale": "Overvåkning og personvern er et felt der Moxnes og Rødt har profilert seg positivt fra ISI-perspektiv – de har kritisert PST-overvåkning, datalagringsdirektivet og masseovervåkning. Potensielt positiv score. Viktig å undersøke grundig.",
+      "searchQueries": [
+        "Bjørnar Moxnes overvåkning personvern PST datalagring",
+        "Moxnes masseovervåkning etterretningstjeneste rettigheter",
+        "Rødt personvern overvåkning kommunikasjon"
+      ],
+      "negativeQueries": [
+        "Moxnes overvåkning kriminalitet sikkerhet generell"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "nrk.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt votering om datalagringsdirektivet eller etterretningstjenesteloven",
+        "Finner dokumentert posisjon om PST-overvåkning eller masseinnsamling av data"
+      ]
+    },
+    {
+      "subdimensionId": "d6_2",
+      "priority": "medium",
+      "rationale": "Digital identitet og CBDC er relevante spørsmål. Moxnes har ikke profilert seg sterkt her, men Rødt er generelt kritiske til teknologisk overvåkning. Posisjonen på obligatorisk digital-ID og CBDC bør undersøkes.",
+      "searchQueries": [
+        "Bjørnar Moxnes digital ID BankID obligatorisk identitet",
+        "Moxnes CBDC digital valuta programmering kontroll",
+        "Rødt digital identitet overvåkningsteknologi"
+      ],
+      "negativeQueries": [
+        "Moxnes digital teknologi personlig bruk"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om obligatorisk digital identitet",
+        "Finner uttalelse om CBDC eller digitale kontrollsystemer"
+      ]
+    },
+    {
+      "subdimensionId": "d6_3",
+      "priority": "medium",
+      "rationale": "Kryptering og internettfrihet er relevant – Rødt har generelt vært kritiske til bakdører i kryptering og statlig kontroll over internett. Moxnes' personlige posisjon bør verifiseres.",
+      "searchQueries": [
+        "Bjørnar Moxnes kryptering internettfrihet bakdører",
+        "Moxnes statlig internettregulering sensur nett",
+        "Rødt kryptografi kommunikasjonsfrihet digitalt"
+      ],
+      "negativeQueries": [
+        "Moxnes internett teknologi personlig"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om krypteringsbakdører eller statlig internettregulering",
+        "Finner votering om e-komlovgivning eller kommunikasjonskontroll"
+      ]
+    },
+    {
+      "subdimensionId": "d6_4",
+      "priority": "medium",
+      "rationale": "Dataeierskap er et voksende politisk tema. Moxnes og Rødt har engasjert seg i personvern og GDPR-implementering, men også støttet statlig bruk av helsedata. Potensielt blandet profil mellom individuell kontroll og statlig datahøsting.",
+      "searchQueries": [
+        "Bjørnar Moxnes dataeierskap personvern GDPR datainnsamling",
+        "Moxnes helsedata register statlig innsamling",
+        "Rødt datapolitikk individ kontroll plattformer"
+      ],
+      "negativeQueries": [
+        "Moxnes data statistikk forskning generell"
+      ],
+      "preferredDomains": [
+        "stortinget.no",
+        "rodt.no",
+        "datatilsynet.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om individets eierskap til egne data",
+        "Finner uttalelse om statlig vs. individuell kontroll over persondata"
+      ]
+    }
+  ]
+}
