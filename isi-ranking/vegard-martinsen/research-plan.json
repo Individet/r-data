@@ -1,0 +1,562 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "generatedAt": "2026-04-12",
+  "profileSummary": "Vegard Martinsen er norsk forfatter, objektivist og tidligere leder av Det Liberale Folkepartiet (DLF). Han driver nettstedene gullstandard.no og vegardmartinsen.com, og er kjent for å fremme Ayn Rands filosofi, laissez-faire kapitalisme, individuell frihet og sterk motstand mot statlig intervensjon. Han er ikke stortingspolitiker og har ikke stemmegivningshistorikk fra Stortinget. Primærkilder vil være hans egne nettsteder, DLF-programmet og hans publiserte bøker og kronikker. Forventet ISI-profil: konsekvent høy positiv score på de fleste frihetsdimensjoner basert på ideologisk bakgrunn, men empirisk dokumentasjon må innhentes per underdimensjon.",
+  "primarySourcePriorities": [
+    "gullstandard.no – Martinsens egen blogg/nettsted med artikler og standpunkter",
+    "vegardmartinsen.com – personlig nettsted med bøker, essays og ideologiske posisjoner",
+    "DLF-partiprogram og valgprogrammer (liberalistene.no eller arkiv)",
+    "Publiserte bøker av Martinsen (f.eks. om objektivisme og kapitalisme)",
+    "Direkte intervjuer og debatter der Martinsen uttaler seg eksplisitt"
+  ],
+  "secondarySourcePriorities": [
+    "Medieoppslag i norske aviser (Aftenposten, Dagbladet, VG, Minerva) der Martinsen er sitert",
+    "Podkastopptredener og YouTube-debatter",
+    "Arkiverte nettsider og Wayback Machine for eldre innhold",
+    "Sosiale medier (Facebook, Twitter/X) der Martinsen har uttalt seg offentlig"
+  ],
+  "sourcePriorityNotes": [
+    "Martinsen er ikke stortingsrepresentant – stortinget.no og regjeringen.no vil ikke gi relevante primærkilder",
+    "Fokuser på gullstandard.no og vegardmartinsen.com som primærkilder fremfor medieomtale",
+    "DLF er et lite parti – mediedekning er begrenset; egenpublisert materiale er mest relevant",
+    "Skillet mellom Martinsens personlige posisjoner og DLFs offisielle program bør noteres der de avviker",
+    "Objektivistisk filosofi gir sterke forventede posisjoner, men eksplisitte uttalelser må dokumenteres separat per underdimensjon"
+  ],
+  "subdimensions": [
+    {
+      "subdimensionId": "d1_1",
+      "priority": "high",
+      "rationale": "Som objektivist og DLF-leder er Martinsen forventet å ha sterke posisjoner mot obligatoriske medisinske tiltak. Under COVID-19-pandemien var dette en sentral politisk debatt der DLF og libertarianere tok klare standpunkter. Høy prioritet fordi eksplisitte uttalelser sannsynligvis finnes.",
+      "searchQueries": [
+        "Vegard Martinsen vaksineplikt koronavirus",
+        "Vegard Martinsen medisinsk selvbestemmelse DLF",
+        "Martinsen tvangsvaksinasjon liberalistene",
+        "gullstandard.no koronatiltak tvang"
+      ],
+      "negativeQueries": [
+        "Vegard Martinsen sykepleier",
+        "Vegard Martinsen lege",
+        "Martinsen medisin utdanning"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse mot vaksineplikt/medisinske påbud",
+        "Finner DLF-program med posisjon om medisinsk selvbestemmelse",
+        "Finner minst to primærkilder med konsistent posisjon"
+      ]
+    },
+    {
+      "subdimensionId": "d1_2",
+      "priority": "high",
+      "rationale": "Livsstilsautonomi er kjernen i objektivistisk og libertariansk filosofi. Martinsen har sannsynligvis skrevet eksplisitt om rusfrihet, seksualfrihet og statlig innblanding i livsstilsvalg. Høy prioritet med stor sannsynlighet for dokumenterbare posisjoner.",
+      "searchQueries": [
+        "Vegard Martinsen rusfrihet liberalisering",
+        "Vegard Martinsen livsstil statlig innblanding",
+        "gullstandard.no narkotika legalisering",
+        "Martinsen DLF personlig frihet livsstil"
+      ],
+      "negativeQueries": [
+        "Martinsen alkoholreklame konkret sak uten ideologisk kontekst"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitte uttalelser om rusliberalisering eller livsstilsfrihet",
+        "Finner programfestet posisjon i DLF om livsstilsautonomi"
+      ]
+    },
+    {
+      "subdimensionId": "d1_3",
+      "priority": "medium",
+      "rationale": "Bevegelsesfrihet og innvandringspolitikk er ikke alltid objektivistenes primærfokus, men åpne grenser er en vanlig libertariansk posisjon. Martinsen kan ha uttalt seg om dette, men det er usikkert om det er et prioritert tema for ham spesifikt.",
+      "searchQueries": [
+        "Vegard Martinsen innvandring åpne grenser",
+        "Martinsen bevegelsesfrihet grenser DLF",
+        "gullstandard.no immigrasjon frihet"
+      ],
+      "negativeQueries": [
+        "Martinsen reise ferie privat"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om innvandring eller bevegelsesfrihet",
+        "Hvis ingen treff etter to søk, sett til lav prioritet og vurder null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d1_4",
+      "priority": "medium",
+      "rationale": "Selvbestemmelse ved livets slutt (eutanasi, assistert selvmord) er relevant for objektivister som vektlegger selveierskapet. Martinsen kan ha skrevet om dette, men det er et tema som ikke alltid prioriteres av libertarianske aktører i Norge.",
+      "searchQueries": [
+        "Vegard Martinsen eutanasi selvbestemmelse",
+        "Martinsen assistert dødsfall livets slutt",
+        "gullstandard.no eutanasi selvmord rett"
+      ],
+      "negativeQueries": [
+        "Martinsen sorg død personlig"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om eutanasi eller retten til å dø",
+        "Hvis ingen treff, vurder null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d2_1",
+      "priority": "high",
+      "rationale": "Ytringsfrihet er et kjernepunkt for objektivister og libertarianere. Martinsen har sannsynligvis eksplisitte posisjoner mot hatytringslover og innholdsbegrensninger. Dette er et av de mest sannsynlige underdimensjonene å finne dokumentasjon på.",
+      "searchQueries": [
+        "Vegard Martinsen ytringsfrihet hatytringer",
+        "Martinsen ytringsfrihet straffeloven DLF",
+        "gullstandard.no ytringsfrihet censur",
+        "Martinsen blasfemi desinformasjon regulering"
+      ],
+      "negativeQueries": [
+        "Martinsen ytring privat kontekst"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no",
+        "minervanett.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse mot hatytringslover eller innholdsbegrensning",
+        "Finner minst to konsistente primærkilder"
+      ]
+    },
+    {
+      "subdimensionId": "d2_2",
+      "priority": "medium",
+      "rationale": "Pressefrihet og statlig mediestøtte er relevant for libertarianere som Martinsen. DLF har sannsynligvis en posisjon mot statlig mediefinansiering. Søk etter konkrete uttalelser om NRK og pressestøtte.",
+      "searchQueries": [
+        "Vegard Martinsen NRK statlig mediestøtte",
+        "Martinsen pressefrihet redaksjonell uavhengighet",
+        "gullstandard.no NRK lisens mediestøtte",
+        "DLF mediepolitikk pressestøtte"
+      ],
+      "negativeQueries": [
+        "Martinsen journalist intervju om seg selv"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot statlig mediestøtte eller NRK-lisens",
+        "Finner DLF-program med mediepolitisk posisjon"
+      ]
+    },
+    {
+      "subdimensionId": "d2_3",
+      "priority": "low",
+      "rationale": "Akademisk frihet er mindre sentralt i Martinsens kjente publiseringskanaler. Kan finnes i objektivistisk kontekst om universitetenes politisering, men forventet lavt antall treff. Gjennomfør ett søk.",
+      "searchQueries": [
+        "Vegard Martinsen akademisk frihet universiteter politisk korrekthet",
+        "gullstandard.no akademia forskning frihet"
+      ],
+      "negativeQueries": [
+        "Martinsen akademisk tittel grad"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse om akademisk frihet",
+        "Hvis ingen treff på ett søk, sett null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d2_4",
+      "priority": "high",
+      "rationale": "Digital ytringsfrihet og plattformregulering er et aktuelt og relevant tema. Martinsen som aktiv nettdebattant har sannsynligvis tatt stilling til statlig regulering av sosiale medier og sensur på plattformer.",
+      "searchQueries": [
+        "Vegard Martinsen sosiale medier sensur regulering",
+        "Martinsen plattformer ytringsfrihet digital",
+        "gullstandard.no Twitter Facebook moderering",
+        "Martinsen avplattforming innholdskontroll"
+      ],
+      "negativeQueries": [
+        "Martinsen sosiale medier privat bruk"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot statlig plattformregulering",
+        "Finner uttalelse om konkret avplattformeringssak"
+      ]
+    },
+    {
+      "subdimensionId": "d3_1",
+      "priority": "high",
+      "rationale": "Eiendomsrett, skatt og ekspropriering er kjernetema for objektivister og libertarianere. Martinsen driver gullstandard.no – et nettsted dedikert til økonomi og kapitalisme. Svært høy sannsynlighet for eksplisitte og dokumenterte posisjoner.",
+      "searchQueries": [
+        "Vegard Martinsen skatt eiendomsrett",
+        "gullstandard.no skatt omfordeling",
+        "Martinsen ekspropriasjon eiendom konfiskering",
+        "Martinsen kapitalisme skattlegging DLF"
+      ],
+      "negativeQueries": [
+        "Martinsen eiendom bolig privat kjøp"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om skatt som tvang eller eiendomsvernprinsipp",
+        "Finner minst to konsistente primærkilder"
+      ]
+    },
+    {
+      "subdimensionId": "d3_2",
+      "priority": "high",
+      "rationale": "Næringsfrihet og regulering er sentralt for en som fremmer laissez-faire kapitalisme. Martinsen har sannsynligvis skrevet om statlig inngrep i næringslivet, arbeidsmarkedsregulering og kontraktsfrihet.",
+      "searchQueries": [
+        "Vegard Martinsen næringsfrihet regulering arbeidsliv",
+        "gullstandard.no laissez-faire kapitalisme regulering",
+        "Martinsen arbeidsmiljøloven kontrakt frihet",
+        "Martinsen bedrift etablering statlig inngrep"
+      ],
+      "negativeQueries": [
+        "Martinsen næring fiske landbruk konkret sektor uten ideologisk kontekst"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om deregulering eller kontraktsfrihet",
+        "Finner DLF-program med næringspolitisk posisjon"
+      ]
+    },
+    {
+      "subdimensionId": "d3_3",
+      "priority": "high",
+      "rationale": "Handelsfrihet og frihandel er et naturlig tema for en laissez-faire-tilhenger. Martinsen kan ha skrevet om toll, proteksjonisme og WTO. Gullstandard.no tyder på interesse for internasjonal økonomi.",
+      "searchQueries": [
+        "Vegard Martinsen frihandel toll proteksjonisme",
+        "gullstandard.no frihandel import eksport",
+        "Martinsen WTO handelspolitikk DLF"
+      ],
+      "negativeQueries": [
+        "Martinsen handel butikk privat kontekst"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon for frihandel eller mot proteksjonisme",
+        "Finner DLF-program med handelspolitisk posisjon"
+      ]
+    },
+    {
+      "subdimensionId": "d3_4",
+      "priority": "high",
+      "rationale": "Monetær frihet er særlig relevant fordi Martinsen driver gullstandard.no – et nettsted som tydelig signaliserer interesse for gullstandarden og sentralbankpolitikk. Svært høy sannsynlighet for eksplisitte og dokumenterte posisjoner.",
+      "searchQueries": [
+        "Vegard Martinsen gullstandard sentralbank pengepolitikk",
+        "gullstandard.no CBDC digitale penger kontroll",
+        "Martinsen Norges Bank inflasjon pengemonopol",
+        "gullstandard.no fiat penger frihet"
+      ],
+      "negativeQueries": [
+        "Martinsen gull smykker privat"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot sentralbankmonopol eller for gullstandard",
+        "Finner posisjon om CBDC eller digital valutakontroll"
+      ]
+    },
+    {
+      "subdimensionId": "d4_1",
+      "priority": "medium",
+      "rationale": "Likebehandling vs. positiv diskriminering er relevant for objektivister. Martinsen kan ha tatt stilling til kvotering og identitetsbasert særbehandling. Søk etter konkrete uttalelser, men forvent moderate resultater.",
+      "searchQueries": [
+        "Vegard Martinsen kvotering positiv diskriminering",
+        "Martinsen likebehandling identitetspolitikk DLF",
+        "gullstandard.no kvotering kjønn etnisitet"
+      ],
+      "negativeQueries": [
+        "Martinsen diskriminering privat hendelse"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse mot kvotering eller positiv diskriminering",
+        "Finner DLF-program med posisjon om likebehandling"
+      ]
+    },
+    {
+      "subdimensionId": "d4_2",
+      "priority": "low",
+      "rationale": "Rettslig uavhengighet er et viktig prinsipp, men det er usikkert om Martinsen har uttalt seg eksplisitt om konkrete forsøk på å påvirke domstolsavgjørelser i Norge. Ett søk er tilstrekkelig.",
+      "searchQueries": [
+        "Vegard Martinsen domstolsuavhengighet rettsvesen politisering",
+        "gullstandard.no rettsstat domstoler uavhengighet"
+      ],
+      "negativeQueries": [
+        "Martinsen rettssak privat tvist"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse om domstolsuavhengighet",
+        "Hvis ingen treff, sett null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d4_3",
+      "priority": "medium",
+      "rationale": "Rettssikkerhet og uskyldspresumpsjon er relevant for libertarianere. Martinsen kan ha uttalt seg om administrative sanksjoner, bevisbyrde eller rettsprosess. Søk etter konkrete eksempler.",
+      "searchQueries": [
+        "Vegard Martinsen rettssikkerhet uskyldspresumpsjon",
+        "Martinsen administrative sanksjoner bevisbyrde DLF",
+        "gullstandard.no rettsstat rettsprosess frihet"
+      ],
+      "negativeQueries": [
+        "Martinsen privat rettssak"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om rettssikkerhet eller uskyldspresumpsjon",
+        "Finner DLF-program med posisjon om rettssikkerhet"
+      ]
+    },
+    {
+      "subdimensionId": "d4_4",
+      "priority": "high",
+      "rationale": "Begrenset statsmakt er et kjernepunkt for DLF og objektivister. Martinsen har sannsynligvis eksplisitte og dokumenterte posisjoner mot fullmaktslover, nødrettsbestemmelser og statlig ekspansjon. Pandemitiden ga konkrete tilfeller å uttale seg om.",
+      "searchQueries": [
+        "Vegard Martinsen begrenset statsmakt fullmaktslover",
+        "Martinsen koronaloven nødrett statsmakt DLF",
+        "gullstandard.no statsmakt konstitusjon grenser",
+        "Martinsen statlig ekspansjon liberalisme"
+      ],
+      "negativeQueries": [
+        "Martinsen statsbudsjettet konkret tall uten ideologisk kontekst"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot fullmaktslover eller for konstitusjonelle grenser",
+        "Finner uttalelse om koronaloven eller nødrettsbestemmelser"
+      ]
+    },
+    {
+      "subdimensionId": "d5_1",
+      "priority": "medium",
+      "rationale": "Religionsfrihet er relevant men ikke Martinsens primærfokus som objektivist. Ayn Rand var ateist, men fremmet religionsfrihet som prinsipp. Søk etter konkrete uttalelser om statlig regulering av religion.",
+      "searchQueries": [
+        "Vegard Martinsen religionsfrihet stat religion",
+        "Martinsen sekularisme religiøs praksis DLF",
+        "gullstandard.no religion frihet statlig innblanding"
+      ],
+      "negativeQueries": [
+        "Martinsen religion personlig tro privat"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om religionsfrihet",
+        "Finner DLF-program med posisjon om religion og stat",
+        "Hvis ingen treff, sett null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d5_2",
+      "priority": "medium",
+      "rationale": "Politisk foreningsfrihet er et prinsipielt tema som Martinsen sannsynligvis støtter, men eksplisitte uttalelser om forbud mot partier basert på ideologi kan være vanskelig å finne. Søk etter konkrete tilfeller.",
+      "searchQueries": [
+        "Vegard Martinsen politisk foreningsfrihet partiforbud",
+        "Martinsen organisasjonsfrihet DLF demokrati",
+        "gullstandard.no politiske partier forbud ideologi"
+      ],
+      "negativeQueries": [
+        "Martinsen politisk parti valg konkurranse"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om politisk foreningsfrihet",
+        "Hvis ingen treff, sett null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d5_3",
+      "priority": "high",
+      "rationale": "Sivilsamfunn vs. statlig substitusjon er et kjernepunkt for libertarianere. Martinsen fremmer sannsynligvis frivillig samarbeid fremfor statlige løsninger på velferd og sosiale utfordringer. Høy sannsynlighet for dokumenterbare posisjoner.",
+      "searchQueries": [
+        "Vegard Martinsen velferd privatisering sivilsamfunn",
+        "Martinsen frivillig samarbeid statlig løsning DLF",
+        "gullstandard.no velferdsstaten privat sivilsamfunn",
+        "Martinsen velferdsstat privatisering liberalisme"
+      ],
+      "negativeQueries": [
+        "Martinsen frivillig arbeid personlig engasjement"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot statlig velferd til fordel for sivilsamfunn",
+        "Finner DLF-program med posisjon om velferd og sivilsamfunn"
+      ]
+    },
+    {
+      "subdimensionId": "d5_4",
+      "priority": "medium",
+      "rationale": "Forsamlingsfrihet er et relevant prinsipp, særlig i kontekst av koronatiltak der forsamlingsrestriksjoner ble innført. Martinsen kan ha uttalt seg eksplisitt om dette i pandemitiden.",
+      "searchQueries": [
+        "Vegard Martinsen forsamlingsfrihet demonstrasjon",
+        "Martinsen koronatiltak forsamlingsrestriksjoner DLF",
+        "gullstandard.no forsamlingsfrihet rett til å møtes"
+      ],
+      "negativeQueries": [
+        "Martinsen arrangement privat møte"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt uttalelse om forsamlingsfrihet eller koronarestriksjonene",
+        "Finner DLF-posisjon om forsamlingsfrihet"
+      ]
+    },
+    {
+      "subdimensionId": "d6_1",
+      "priority": "high",
+      "rationale": "Overvåkning og personvern er viktig for libertarianere. Under pandemien og i debatter om smittesporing, digitale pass og overvåkningsteknologi har DLF og Martinsen sannsynligvis tatt klare standpunkter.",
+      "searchQueries": [
+        "Vegard Martinsen overvåkning personvern statlig",
+        "Martinsen smittesporing digitalt pass koronaapp",
+        "gullstandard.no masseovervåkning datalagring",
+        "Martinsen PST E-tjenesten overvåkning DLF"
+      ],
+      "negativeQueries": [
+        "Martinsen kamera privat bolig"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com",
+        "liberalistene.no"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot masseovervåkning eller datalagringsdirektiv",
+        "Finner uttalelse om koronaappen eller smittesporing"
+      ]
+    },
+    {
+      "subdimensionId": "d6_2",
+      "priority": "high",
+      "rationale": "Digital identitet og CBDC er spesielt relevant gitt at Martinsen driver gullstandard.no, som signaliserer skepsis til statlig pengekontroll. CBDC med programmerbar bruk er en naturlig bekymring for libertarianere.",
+      "searchQueries": [
+        "Vegard Martinsen CBDC digital valuta kontroll",
+        "gullstandard.no digital sentralbankpenger programmering",
+        "Martinsen digital ID obligatorisk identitet",
+        "Martinsen sosial kreditt overvåkning økonomi"
+      ],
+      "negativeQueries": [
+        "Martinsen digital bank privat konto"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon mot CBDC med kontrollformål",
+        "Finner posisjon mot obligatorisk digital ID"
+      ]
+    },
+    {
+      "subdimensionId": "d6_3",
+      "priority": "medium",
+      "rationale": "Kryptering og internettfrihet er et libertariansk anliggende. Martinsen kan ha uttalt seg om bakdører i kommunikasjonssystemer eller statlig kontroll av internett, men det er usikkert om dette er et prioritert tema for ham.",
+      "searchQueries": [
+        "Vegard Martinsen kryptering internettfrihet bakdør",
+        "Martinsen statlig internettkontroll sensur nett DLF",
+        "gullstandard.no kryptering kommunikasjon personvern"
+      ],
+      "negativeQueries": [
+        "Martinsen internett privat bruk teknologi"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om kryptering eller internettfrihet",
+        "Hvis ingen treff, sett null-score"
+      ]
+    },
+    {
+      "subdimensionId": "d6_4",
+      "priority": "medium",
+      "rationale": "Eierskap til egne data er et relevant tema i digitalt personvern. Martinsen kan ha uttalt seg om GDPR, datadeling eller statlig/korporativ datahøsting, men det er usikkert om dette er eksplisitt behandlet på hans plattformer.",
+      "searchQueries": [
+        "Vegard Martinsen dataeierskap personvern GDPR",
+        "gullstandard.no data eierskap samtykke overvåkning",
+        "Martinsen korporativ statlig datahøsting frihet"
+      ],
+      "negativeQueries": [
+        "Martinsen data statistikk analyse privat"
+      ],
+      "preferredDomains": [
+        "gullstandard.no",
+        "vegardmartinsen.com"
+      ],
+      "stopConditions": [
+        "Finner eksplisitt posisjon om individets dataeierskap",
+        "Finner uttalelse om GDPR eller datadeling",
+        "Hvis ingen treff, sett null-score"
+      ]
+    }
+  ]
+}
