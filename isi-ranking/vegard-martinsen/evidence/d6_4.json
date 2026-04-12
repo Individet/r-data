@@ -1,0 +1,18 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d6_4",
+  "subdimensionName": "Eierskap til egne data",
+  "harvestedAt": "2026-04-12",
+  "summary": "Etter grundig søk er det ikke funnet dokumenterte primær- eller sekundærkilder som direkte adresserer Vegard Martinsens posisjon på dataeierskap, statlig eller korporativ datahøsting, samtykke, eller individets rett til å kontrollere egne data. Søk mot hans kjente plattformer (gullstandard.no) og generelle søk på hans navn kombinert med relevante termer ga ingen treff. Selv om Martinsen er kjent som en libertariansk tenkemann, kan ikke en spesifikk posisjon på denne underdimensjonen dokumenteres uten spekulasjon. Datagap settes til true.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [],
+  "unresolvedQuestions": [
+    "Har Vegard Martinsen publisert noe om dataeierskap, personvern eller individets rett til å kontrollere egne data på gullstandard.no eller annen plattform?",
+    "Har han kommentert GDPR, statlig datahøsting eller korporativ overvåkning i noen sammenheng?"
+  ],
+  "citations": []
+}
