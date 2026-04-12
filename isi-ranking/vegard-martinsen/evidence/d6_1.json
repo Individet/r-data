@@ -1,0 +1,50 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d6_1",
+  "subdimensionName": "Overvåkning og personvern",
+  "harvestedAt": "2026-04-12T00:00:00Z",
+  "summary": "Vegard Martinsen er en konsekvent libertariansk aktør med en langvarig, ideologisk forankret profil som motstander av statlig makt generelt. Han ledet Det Liberale Folkepartiet (DLF) 2002–2017 og er medeier/bidragsyter i foreningen Gullstandard fra 2018. Hans filosofiske utgangspunkt — laissez-faire-kapitalisme, selveierskapet og NAP — impliserer sterkt motstand mot statlig overvåkning og inngrep i privatsfæren. Det er imidlertid ikke funnet primærkilder der Martinsen eksplisitt og spesifikt adresserer masseovervåkning, datalagringsdirektivet, smittesporing, E-tjenestens hjemler eller PSTs utvidede fullmakter i egne artikler eller uttalelser. Ingen konkrete artikler på stemDLF.no eller gullstandard.no med direkte overvåkningsinnhold er tilgjengelige i søkeresultatene. Gullstandard-nettstedet og DLF er ideologisk orientert mot å minimere statsmakt på alle felt, noe som gir sterk implisitt grunn til å forvente motstand mot overvåkningstiltak. Basert på Martinsens skriftlige univers — bøker, kronikker og partiprogram — fremstår privatsfæren som ett av mange elementer i en bredere anti-statlig ideologi, men det er ikke dokumentert at han har tatt selvstendige, eksplisitte offentlige posisjoner spesifikt om overvåkning. Vurderingen settes til positiv/implisitt med medium confidence, da den ideologiske koherensen er klar men primærkildene spesifikt om temaet er utilstrekkelige.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Vegard Martinsen ledet DLF (2002–2017) og er tilknyttet Gullstandard (2018–). Begge organisasjoner er fundert på laissez-faire-kapitalisme og selveierskapet, som prinsipielt utelukker statlig masseovervåkning, datalagringspåbud og inngrep i privat kommunikasjon uten domstolskjennelse.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent ideologisk profil over mer enn to tiår (2001–2026).",
+      "inconsistency": "",
+      "note": "Ingen direkte artikkel eller uttalelse fra Martinsen om overvåkning er funnet, men den ideologiske plattformen er godt dokumentert gjennom bøker, kronikker og partiprogram."
+    },
+    {
+      "claim": "Gullstandards formålsparagraf fastslår at foreningens mål er individuell frihet og at statens eneste oppgave er å beskytte den enkeltes frihet. Dette er uforenlig med statlig masseovervåkning og datalagringspåbud.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Gjelder fra Gullstandards opprettelse i 2018 og frem til i dag.",
+      "inconsistency": "",
+      "note": "Formålsparagrafen er en institusjonell posisjon, ikke en personlig ytring direkte fra Martinsen om overvåkning som spesifikt tema."
+    },
+    {
+      "claim": "Det er ikke funnet primærkilder der Martinsen eksplisitt kommenterer datalagringsdirektivet (DLD), Smittestopp-appen, E-tjenestens grenseovervåkning eller PSTs utvidede fullmakter til å lagre åpne internettkildene i egne navn.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Gjelder hele den gjennomgåtte perioden 2001–2026.",
+      "inconsistency": "Fraværet av eksplisitte uttalelser på et tema som var svært fremtredende i norsk offentlig debatt (DLD 2011, E-lov 2020, PST-hjemler 2023) er påfallende for en aktiv politisk kommentator.",
+      "note": "Kan skyldes at Martinsens publiserte materiale på stemDLF.no og gullstandard.no ikke er fulltekstsøkbart i de tilgjengelige kildene."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen skrevet eksplisitt om datalagringsdirektivet, Smittestopp-appen eller E-tjenestens masseovervåkning på stemDLF.no eller gullstandard.no?",
+    "Har DLF eller Gullstandard publisert partiprogram eller policydokumenter med eksplisitte posisjoner om overvåkning og personvern som kan knyttes direkte til Martinsen?",
+    "Finnes det podcast-episoder på Gullstandard der Martinsen og Magnus diskuterer overvåkning, PST eller personvern?"
+  ],
+  "citations": []
+}
