@@ -1,0 +1,60 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d5_1",
+  "subdimensionName": "Religionsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har som leder for Det Liberale Folkepartiet (DLF, 2002–2017) og gjennom sitt forfatterskap konsekvent forsvart full religionsfrihet og statlig nøytralitet overfor alle trossamfunn. DLFs offisielle program, som Martinsen personlig stod bak, krevde opphevelse av statskirken og fjerning av alle grunnlovsbestemmelser som favoriserte én bestemt trosretning. Martinsen omtaler religionsfrihet som én av de mest grunnleggende friheter. Samtidig har han publisert svært kritiske analyser av islam som religion og ideologi ('Islam: den ellevte landeplage', 2003/2004), noe som skaper en spenning mellom hans prinsipielle forsvar for religionsfrihet og hans negative vurdering av islam spesielt. Det er imidlertid ikke dokumentert at han har tatt til orde for statlige forbud mot islamsk praksis — kritikken ser ut til å være kulturell/intellektuell snarere enn et krav om statlig regulering. Den overordnede posisjonen er klar positiv på religionsfrihet som prinsipp kombinert med sterk sekulær statsnøytralitet.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "DLFs prinsipprogram under Martinsens ledelse slo fast: 'Et fritt samfunn har full religionsfrihet, og staten er uavhengig av enhver religion' — og krevde opphevelse av statskirken og fjerning av alle grunnlovsbestemmelser som favoriserer én trosretning.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Dokumentert programposisjon fra DLF-perioden 2002–2017, konsekvent over mange år.",
+      "inconsistency": "",
+      "note": "Martinsen kommenterte statskirkevedtaket i 2012 og konstaterte at det var 'et skritt i riktig retning', men at endringen ikke gikk langt nok etter DLFs standard. Dette understreker at posisjonen hans er strengere enn statlig nøytralitet — han ønsker full separasjon."
+    },
+    {
+      "claim": "Martinsen omtaler religionsfrihet eksplisitt som en av de 'mest grunnleggende friheter' i sin politiske og filosofiske produksjon, på linje med ytringsfrihet og eiendomsrett.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjennomgående i artikler og på hjemmesiden, minst 2001–2023.",
+      "inconsistency": "",
+      "note": "Sitert fra vegmar.wordpress.com der han også gjengir og kommenterer andre partiers frihetserklæringer."
+    },
+    {
+      "claim": "Martinsen publiserte foredraget/artikkelen 'Islam: den ellevte landeplage' (2003, trykket i boken 'Frihet, likhet, brorskap', 2004/2021) med svært kritisk og negativ karakterisering av islam som religion og politisk system.",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert 2003/2004, reprinted 2021 — ingen kjent tilbaketrekning.",
+      "inconsistency": "Spenning mellom prinsipielt forsvar for religionsfrihet og svært fiendtlig retorikk overfor islam spesifikt. Det er ikke dokumentert at han har krevd statlige forbud mot islamsk praksis, men tonen er distinkt negativ.",
+      "note": "Kritikken er rettet mot islam som ideologi og dens politiske implikasjoner, ikke mot muslimers rett til å tro og praktisere. Likevel skaper retorisk betegnelse som 'landeplage' en tvetydig signaleffekt."
+    },
+    {
+      "claim": "DLFs program krevde at lovverket gjøres 'nøytralt i forhold til religion' og at statsstøtte til trossamfunn avvikles, noe som innebærer konsekvent ikke-privilegering av alle religioner — inkludert den dominerende kristne tradisjonen.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Programposisjon vedtatt under Martinsens ledelse, kjent fra stemdlf.no-arkivet.",
+      "inconsistency": "",
+      "note": "DLF var tydelig på at religionsfrihet ikke innebærer statlig finansiering av kirker — dette er en strengere tolkning enn mainstream norsk religionspolitikk."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen eksplisitt tatt stilling til konkrete forslag om statlig regulering av spesifikk religiøs praksis (f.eks. hijab-forbud, halalslakt, bønnerom i skolen)?",
+    "Har hans holdning til islam i 'landeplage'-artikkelen noen gang eskalert til krav om statlige forbud eller restriksjoner mot muslimsk praksis?",
+    "Hva er hans posisjon til statsstøtte til trossamfunn kontra null-støtte (fullstendig privat finansiering)?"
+  ],
+  "citations": []
+}
