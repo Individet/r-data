@@ -1,0 +1,32 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actor": {
+    "name": "Vegard Martinsen",
+    "type": "person",
+    "jurisdiksjon": "Norge",
+    "beskrivelse": "Forfatter, tidligere leder av Det Liberale Folkepartiet (DLF), Objektivist, driver Gullstandard.no og vegardmartinsen.com",
+    "periode": "Siste 3-5 år"
+  },
+  "searchAliases": [
+    "Vegard Martinsen",
+    "Martinsen"
+  ],
+  "likelyPublishingChannels": [
+    "stortinget.no",
+    "partiprogram",
+    "intervjuer",
+    "debatter",
+    "kronikker",
+    "podkast",
+    "sosiale medier"
+  ],
+  "likelyDomains": [
+    "stortinget.no",
+    "regjeringen.no",
+    "nrk.no",
+    "gullstandard.no"
+  ],
+  "period": "Siste 3-5 år",
+  "jurisdiction": "Norge",
+  "generatedAt": "2026-04-12T18:01:22.544Z"
+}
