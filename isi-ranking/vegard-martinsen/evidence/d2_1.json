@@ -1,0 +1,59 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d2_1",
+  "subdimensionName": "Ytringsfrihet - innhold",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har gjennom sin tid som leder av Det Liberale Folkepartiet (DLF, 2002–2017) og som skribent på gullstandard.no konsekvent og eksplisitt forsvart ytringsfrihet mot innholdsbegrensende lovgivning. I desember 2008 omtalte han på DLFs hjemmeside (stemdlf.no) regjeringens forslag om å utvide straffebudet om hatefulle ytringer til å inkludere 'kvalifiserte angrep på religion eller livssyn' som et 'angrep på ytringsfriheten' og en 'kraftig begrensing av ytringsfriheten'. Han oppfordret eksplisitt til å underskrive opprop mot forslaget. Martinsen har videre argumentert for at myndighetenes legitime oppgave er å beskytte borgernes ytringsfrihet – inkludert retten til å kritisere islam – og at statlig regulering av desinformasjon ikke er et legitimt virkemiddel. Hans libertarianske og objektivistiske standpunkt er konsistent: lovlig ytring (inkl. religionskritikk, blasfemiske ytringer og politisk kontroversielle synspunkter) skal ikke begrenses av staten. Det foreligger ingen funn som tyder på at han noen gang har støttet hatytringslover, blasfemilover eller desinformasjonsregulering.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen karakteriserte i desember 2008 regjeringens forslag om å utvide rasismeparagrafen til å dekke 'kvalifiserte angrep på religion eller livssyn' som 'regjeringens siste angrep på ytringsfriheten' og 'en kraftig begrensing av ytringsfriheten', og oppfordret lesere til å underskrive opprop mot forslaget.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Enkeltuttalelse fra 2008, men konsistent med bredere libertariansk profil over hele aktørens karriere.",
+      "inconsistency": "",
+      "note": "Kilde: stemdlf.no, DLFs arkiv under kategorien 'Grunnleggende ideer', innlegg datert desember 2008, signert Vegard Martinsen."
+    },
+    {
+      "claim": "Martinsen argumenterer for at myndighetenes eneste legitime oppgave er å beskytte borgernes frihet, inkludert ytringsfriheten, og at statlig regulering av desinformasjon ikke er et legitimt virkemiddel – han avviser eksplisitt statlig regulering av innhold i media og på nett.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjentatte innlegg på gullstandard.no fra 2018 og fremover, konsistent med DLF-perioden 2001–2017.",
+      "inconsistency": "",
+      "note": "Kilde: gullstandard.no, Vegard Martinsen-innlegg om desinformasjon og ytringsfrihet."
+    },
+    {
+      "claim": "Martinsen forsvarer retten til å kritisere islam og andre religioner som en kjernerettighet myndighetene plikter å beskytte, og kritiserer ledende politikere for å undergrave denne retten ved å la trusler mot islamkritikere gå uimotsagt.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent synspunkt fra minst tidlig 2000-tall og frem til i dag (vegmar.wordpress.com og gullstandard.no).",
+      "inconsistency": "",
+      "note": "Kilde: vegmar.wordpress.com, Martinsens hjemmeside med artikkelutdrag om islamkritikk og ytringsfrihet."
+    },
+    {
+      "claim": "Bøkene 'Frihet, likhet, brorskap' (2004) og 'Siste ord' (2021) behandler ytringsfrihet som ett av sine sentrale temaer, analysert fra et konsistent libertariansk/objektivistisk ståsted mot statlig regulering.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "To bokutgivelser med 17 års mellomrom, begge med ytringsfrihet som eksplisitt tema.",
+      "inconsistency": "",
+      "note": "Kilde: bokomtaler fra akademika.no og haugenbok.no – innholdet er ikke direkte sitert, men temavalget bekrefter mønsteret."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen tatt eksplisitt stilling til straffeloven §185 (rasismeparagrafen) i sin nåværende form, f.eks. i lys av oppropet 'Fjern rasismeparagrafen' fra 2019?",
+    "Finnes det uttalelser fra Martinsen om desinformasjonslovgivning (f.eks. DSA) som er mer nyanserte enn hans generelle avvisning av statlig regulering?"
+  ],
+  "citations": []
+}
