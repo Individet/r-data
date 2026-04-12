@@ -1,0 +1,50 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d2_2",
+  "subdimensionName": "Pressefrihet og redaksjonell uavhengighet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen og hans plattform Gullstandard.no har en klar og konsistent posisjon mot statlig mediestøtte og statlig finansiert kringkasting. Gullstandard.no – Martinsens primærkanal for publisering – krever avvikling av NRK, privatisering av resten av kringkasteren, og fjerning av all offentlig pressestøtte. Begrunnelsen er at tvangsfinansiering via skatt undergraver redaksjonell uavhengighet og tvinger borgere til å subsidiere det Martinsen oppfatter som politisk vridd journalistikk. Posisjonen er eksplisitt og konsistent over minst 2018–2020. Ingen funn antyder at Martinsen støtter statlig innblanding i redaksjonelle beslutninger eller ønsker medieavhengighet av staten – tvert imot er hele hans standpunkt forankret i markedsbasert konkurranse uten statlig støtte. Ut fra ISI-kriteriene er dette en klar positiv posisjon på underdimensjon 2.2: aktøren avviser statlig finansiering som kilde til avhengighet og ønsker full frihet for pressen fra statlig kontroll. Confidence er medium snarere enn høy fordi kildetilfanget primært er Gullstandard.no (nettsted Martinsen er tilknyttet som bidragsyter/redaktør) og ikke signerte primærkilder med personlig byline for hvert standpunkt, samt at Martinsens individuelle signaturer ikke alltid er tydelig atskilt fra redaksjonelle «vi»-formuleringer på nettstedet.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Gullstandard.no – Martinsens publiseringsplattform – krever at NRK legges ned og resten privatiseres, og at all offentlig pressestøtte avvikles slik at alle medier konkurrerer på like vilkår uten statlig støtte.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent uttrykt i minst to separate innlegg fra 2018 og 2020.",
+      "inconsistency": "",
+      "note": "Uttalelsene er formulert som redaksjonelle 'vi'-posisjoner på gullstandard.no. Martinsen er knyttet til nettstedet, men byline-attribusjon er ikke alltid individualisert."
+    },
+    {
+      "claim": "Gullstandard.no karakteriserer NRKs skattefinansiering som 'tvangsfinansiering' som tvinger borgere til å betale for det de anser som politisk vridd innhold, og hevder dette undergraver pressens uavhengighet.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gjentatt argumentasjonsmønster i 2018 og 2020.",
+      "inconsistency": "",
+      "note": "Argumentasjonen er normativt forankret i frivillighetsprinsippet (NAP): statlig finansiering av medier er tvang uavhengig av redaksjonell intensjon."
+    },
+    {
+      "claim": "Martinsen har gjennom Det Liberale Folkepartiet (DLF, leder 2002–2017) vært tilknyttet et parti med prinsippiell motstand mot statlige subsidier til medier, noe som underbygger en konsistent ideologisk linje på dette området.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Partilederskap 2002–2017.",
+      "inconsistency": "",
+      "note": "Ingen direkte DLF-programtekst om mediestøtte er funnet i søk; dette er en inferert posisjon basert på ideologisk koherens med gullstandard.no-innlegg."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Er alle gullstandard.no-innlegg om NRK og pressestøtte forfattet av eller direkte attribuert til Vegard Martinsen personlig, eller er noen skrevet av andre bidragsytere?",
+    "Har Martinsen tatt stilling til om staten bør regulere redaksjonell uavhengighet positivt (f.eks. via medieansvarsloven) – eller avviser han all statlig involvering i medierelasjoner?",
+    "Finnes det signerte kronikker eller uttalelser fra Martinsen i dagspressen om mediestøtte som kan supplere gullstandard.no-kildene?"
+  ],
+  "citations": []
+}
