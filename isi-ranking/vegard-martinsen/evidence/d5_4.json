@@ -1,0 +1,50 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d5_4",
+  "subdimensionName": "Forsamlingsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Ingen spesifikke primærkilder ble funnet der Vegard Martinsen eksplisitt adresserer forsamlingsfrihet, demonstrasjonsrett eller statlig overvåkning av forsamlinger som isolert tema. Søk på gullstandard.no, vegmar.wordpress.com og liberalistene.no avdekker ingen dedikerte innlegg om forsamlingsfrihet. Martinsen fremstår som en konsekvent libertarianer/objektivist med sterk tilknytning til individuell frihet som overordnet prinsipp — han ledet Det Liberale Folkepartiet (DLF) 2002–2017 og er hovedbidragsyter på gullstandard.no, hvor statens eneste legitime oppgave defineres som å beskytte borgernes frihet. Gullstandard.no siterer grunnlovens § 101 ('Alle kan møtes i fredelige forsamlinger og demonstrasjoner') i positiv fortolkning, og Martinsen omtaler 'full individuell frihet, inkludert bevegelsesfrihet og ytringsfrihet' som den rette politikken. Ingen uttalelser eller posisjoner er funnet som støtter forsamlingsrestriksjoner, overvåkning av demonstranter eller begrensninger på retten til å møtes. Gitt hans konsistente, brede frihetsorientering er en implisitt positiv holdning til forsamlingsfrihet sterkt sannsynlig, men et eksplisitt, dokumentert standpunkt spesifikt for forsamlingsfrihet mangler.",
+  "stance": "positive",
+  "positionType": "implicit",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Martinsen og Gullstandard siterer Grunnlovens § 101 om at 'Alle kan møtes i fredelige forsamlinger og demonstrasjoner' i en positiv og bekreftende kontekst, som ledd i en bredere analyse av individuelle friheter nedfelt i grunnloven.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Enkeltforekomst, ikke systematisk mønster rundt forsamlingsfrihet spesifikt.",
+      "inconsistency": "",
+      "note": "Kilden er gullstandard.no/author/vegard-martinsen/page/2/ — sitatet inngår i en artikkel om grunnlovens frihetsideer generelt, ikke et dedikert innlegg om forsamlingsfrihet."
+    },
+    {
+      "claim": "Martinsen omtaler eksplisitt 'full individuell frihet, inkludert bevegelsesfrihet og ytringsfrihet' som den rette politikken, innenfor en ideologisk ramme hvor statens eneste legitime oppgave er å beskytte borgernes frihet — noe som implisitt inkluderer forsamlingsfriheten.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent ideologisk profil over lang tid (DLF 2002–2017, Gullstandard 2018–d.d.).",
+      "inconsistency": "",
+      "note": "Forsamlingsfrihet nevnes ikke eksplisitt som eget tema; posisjonen er utledet fra hans generelle libertarianske rammeverk."
+    },
+    {
+      "claim": "Ingen funn av uttalelser der Martinsen støtter forsamlingsrestriksjoner, koronarelaterte møteforbud, overvåkning av demonstranter eller andre tiltak som begrenser retten til å møtes eller demonstrere.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Fravær av negative posisjoner over hele den dokumenterte perioden.",
+      "inconsistency": "",
+      "note": "Fravær av negative posisjoner er ikke det samme som eksplisitt forsvar for forsamlingsfriheten. DataGap settes til true."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen skrevet spesifikt om forsamlingsfrihet under koronapandemien eller i forbindelse med konkrete demonstrasjonssaker?",
+    "Finnes det innlegg på stemDLF.no (2001–2017) eller gullstandard.no som eksplisitt omhandler forsamlings- eller møtefrihet som eget tema?",
+    "Har Martinsen kommentert statlig overvåkning av politiske møter eller demonstranter?"
+  ],
+  "citations": []
+}
