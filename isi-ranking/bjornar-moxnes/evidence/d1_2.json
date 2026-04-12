@@ -1,0 +1,59 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d1_2",
+  "subdimensionName": "Sosial frihet/Livsstilsautonomi",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes og Rødt har en konsistent, eksplisitt pro-avkriminaliseringsposisjon på rusmidler: Moxnes var medforslagsstiller på Stortingets rusreformforslag (2021–2022), uttrykte skuffelse da reformen ble nedstemt, og Rødt vedtok i 2025 å legalisere og regulere cannabisomsetning etter Vinmonopol-modell samt avkriminalisere besittelse av øvrige rusmidler til eget bruk. På LHBT-rettigheter fremmer Moxnes og Rødt eksplisitt retten til å leve ut sin seksuelle orientering og kjønnsidentitet fritt. Det totale bildet er positivt: han reduserer statlig tvang rettet mot individers livsstilsvalg. Merket: Rødt støtter restriktiv alkoholpolitikk (Vinmonopol, taxfree-overføring) og ønsker statlig regulering av cannabissalget – dette er en kollektivistisk mekanisme, men presentert som skadereduksjon snarere som forbud mot individuelt forbruk. Kombinasjonen av avkriminalisering og regulert monopolsalg gir et blandet bilde der frihet fra straff veier positivt, men statens monopolkontroll over omsetning trekker noe ned fra et ISI-perspektiv.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Bjørnar Moxnes var medforslagsstiller på Stortingets representantforslag om å gjennomføre rusreformen (avkriminalisere bruk og besittelse av narkotika til eget bruk), og uttalte skuffelse da forslaget ble nedstemt: 'I dag kunne vært en historisk dag. Men kampen for en rusreform er ikke over med dette.'",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent 2021–2022: medunderskriver på begge runder av rusreformforslaget i Stortinget.",
+      "inconsistency": "",
+      "note": "Direkte primærhandling som stortingsrepresentant og partileder; sitert i Nettavisen og Indre mai 2021."
+    },
+    {
+      "claim": "Rødt vedtok på landsmøtet i mars 2025 å legalisere og regulere omsetningen av cannabis etter Vinmonopol-modell, samt avkriminalisere bruk og besittelse av øvrige rusmidler til eget bruk. Programteksten fastslår at rusavhengighet er et helse- og sosialproblem, ikke et kriminalitetsproblem.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Partivedtak mars 2025; i tråd med partiets linje siden minst 2017.",
+      "inconsistency": "Cannabis-salg reguleres gjennom statlig monopol (Vinmonopol-modellen) – dette innebærer fortsatt statlig kontroll over omsetning, ikke fri markedstilgang.",
+      "note": "Kilde: roedt.no/legalisering, TV2 01.03.2025, VG 01.03.2025."
+    },
+    {
+      "claim": "Bjørnar Moxnes argumenterte i Blikk (2017) for at Rødt jobber for at alle skal 'leve frie og gode liv som hele seg' uavhengig av kjønnsuttrykk og seksuell orientering, og at Rødt vedtok et eget kapittel om skeiv politikk i arbeidsprogrammet.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Eksplisitt uttalelse 2017; viderefører samme profil i etterfølgende programmer.",
+      "inconsistency": "",
+      "note": "Kilde: blikk.no intervju med Moxnes som partileder foran stortingsvalget 2017."
+    },
+    {
+      "claim": "Rødt og Moxnes støtter restriktiv alkoholpolitikk, inkludert å videreføre Vinmonopolet og overføre taxfree-salget til monopolet. Dette innebærer statlig begrensning av voksne individers tilgang til lovlige rusmidler.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent partiposisjon over tid, nevnt i Tryggere Ruspolitikks valganalyse 2021.",
+      "inconsistency": "Moxnes er positiv til avkriminalisering av ulovlige rusmidler, men støtter fortsatt statlig monopol og restriksjon på alkohol – internt inkonsistent fra et ISI-perspektiv.",
+      "note": "Kilde: rusreform.no/valg (Tryggere Ruspolitikk valganalyse 2021)."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Moxnes' spesifikke personlige posisjoner (vs. partiets) om regulering av rusmidler utover narkotikaavkriminalisering er ikke fullt dokumentert – analysen baserer seg delvis på Rødts partilinje.",
+    "Moxnes' standpunkter til statlig regulering av kosthold, religiøs praksis og andre livsstilsvalg er ikke undersøkt og kan inneholde relevante posisjoner for underdimensjonen."
+  ],
+  "citations": []
+}
