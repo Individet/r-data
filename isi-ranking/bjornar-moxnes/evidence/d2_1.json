@@ -1,0 +1,50 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d2_1",
+  "subdimensionName": "Ytringsfrihet - innhold",
+  "harvestedAt": "2026-04-12",
+  "summary": "Søk avdekker en blandet profil. Rødt og Moxnes støtter eksplisitt det eksisterende lovverket mot rasistiske ytringer (straffeloven § 185) og oppfordrer til å styrke politiets hatkriminalitetsarbeid, noe som innebærer aksept for innholdsbasert begrensning av ytringer. Samtidig er partiets offisielle posisjon at de ikke ønsker nye begrensninger på ytringsfriheten, og at de er motstandere av særlover på internett. Moxnes har personlig fremstått som forkjemper for offentlighetsprinsippet og ytringsfrihet i konkrete konflikter. Representantforslaget dok8-202223-134s på Stortinget (2022-2023), der Rødt-representanter er blant forslagsstillerne, ber om styrking av rasismeparagrafen, mer detaljerte ytringsangrep i lovteksten og regulering av sosiale medier etter redaktøransvarsprinsippet. Dette indikerer en aksept for innholdsbasert regulering utover eksisterende rett, men innenfor et ønske om klare lovhjemler.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødts offisielle politikk støtter eksisterende forbud mot rasistiske ytringer (straffeloven § 185) og spredning av overgrepsmateriale, men ønsker ingen nye begrensninger på ytringsfriheten og er motstander av særlover på internett.",
+      "stance": "mixed",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert på rodt.no, udatert men gjeldende partipolitikk.",
+      "inconsistency": "Partiet sier det ikke vil ha nye begrensninger, men støtter aktivt eksisterende straffelovhjemler for innholdsbasert begrensning.",
+      "note": "Kilde: rodt.no/ytringsfrihet"
+    },
+    {
+      "claim": "Representantforslag dok8-202223-134s (2022-2023) fra Stortinget – der Rødt-representanter er blant forslagsstillerne – ber om å endre straffeloven § 185 med mer detaljerte beskrivelser av straffbare ytringsangrep, styrke politiets meldetjeneste for hatkriminalitet, og regulere sosiale medier med redaktøransvar etter medieansvarsloven. Moxnes var partileder frem til sommeren 2023 og representant i denne perioden.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Stortingsperioden 2022-2023. Moxnes fratrådte som partileder juli 2023.",
+      "inconsistency": "Forslaget innebærer utvidelse av innholdsbasert regulering utover gjeldende rett, i strid med partiets prinsipp om ingen nye ytringsfrihetsinngrep.",
+      "note": "Kilde: stortinget.no/dok8-202223-134s"
+    },
+    {
+      "claim": "Moxnes uttalte i 2015 at 'vi skal jo ikke ha sensur', men fremhevet behovet for 'ideologisk beredskap' mot grupper som IslamNet som fremmer ekstremisme og inviterer 'høyreekstreme hatpredikanter'. Han tok ikke til orde for lovregulering, men antydet behov for motstand mot slike ytringer.",
+      "stance": "mixed",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Enkeltuttalelse fra 2015 (Natt&Dag-intervju).",
+      "inconsistency": "Utsagnet er ambivalent: avviser sensur, men signaliserer at visse typer ytringer bør bekjempes ideologisk. Ikke et krav om lovregulering.",
+      "note": "Kilde: nattogdag.no, desember 2015"
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes personlig og eksplisitt tatt stilling til om straffeloven § 185 bør utvides, eller er dette primært et partipolitisk dokument han ikke selv er direkte sitert på?",
+    "Er Moxnes navngitt som forslagsstiller på dok8-202223-134s, eller er dette et annet Rødt-representantforslag uten hans direkte signatur?",
+    "Har Moxnes uttalt seg spesifikt om desinformasjonslovgivning eller nye innholdsbaserte restriksjoner utover hatytringer?"
+  ],
+  "citations": []
+}
