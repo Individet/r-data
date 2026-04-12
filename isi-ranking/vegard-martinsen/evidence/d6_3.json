@@ -1,0 +1,40 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d6_3",
+  "subdimensionName": "Internettfrihet og kryptering",
+  "harvestedAt": "2026-04-12",
+  "summary": "Grundig søk på tvers av Vegard Martinsens kjente publiseringskanaler – gullstandard.no, vegmar.wordpress.com, DLF-arkiver og generelle nyhetskilder – gir ingen treff på spesifikke uttalelser om kryptering, bakdørslovgivning eller statlig kontroll over internettinfrastruktur. Martinsen er dokumentert som en konsekvent libertariansk aktør (DLF-leder 2002–2017, Gullstandard) med bred dekning av frihetsspørsmål, men internettfrihet og kryptering fremstår som et tema han ikke har adressert eksplisitt i tilgjengelige primærkilder. Fraværet av posisjonering på dette spesifikke feltet gir ikke tilstrekkelig grunnlag for en troverdig ISI-score.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Vegard Martinsen er en konsekvent liberalistisk aktør med lang historikk som kommentator for DLF og Gullstandard, der personvern og statlig overvåking er temaer som faller innenfor hans ideologiske kjernefelt (selveierskap, NAP). Hans bredere frihetsorientering tilsier at han prinsipielt ville motarbeide statlig kontroll over kommunikasjon og kryptering.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Generell liberalistisk profil konsistent 2002–2025, men uten spesifikke uttalelser om kryptering/internettfrihet funnet.",
+      "inconsistency": "",
+      "note": "Implisitt posisjon utledet fra ideologisk ramme, ikke fra dokumenterte primæruttalelser om kryptering eller internettfrihet. Kan ikke vektlegges tilstrekkelig for en ISI-score."
+    },
+    {
+      "claim": "Søk på gullstandard.no, vegmar.wordpress.com og DLF-tilknyttede kilder gir ingen treff på kryptering, bakdørslovgivning, internettfrihet eller statlig kontroll over nettinfrastruktur som knyttes til Martinsen som avsender.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Datagap – ingen relevante primærkilder identifisert.",
+      "inconsistency": "",
+      "note": "Ingen primærkilder funnet etter gjennomgang av hans kjente publiseringskanaler og generell nyhetsindeksering."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen skrevet om statlig overvåking av netttrafikk, Etterretningstjenestens bakdørforslag (2019), eller EU Chat Control i noen av sine kommentarer på Gullstandard eller DLF?",
+    "Finnes det arkiverte DLF-partiprogram eller programerklæringer som eksplisitt omhandler kryptering, internettfrihet eller digital overvåking?",
+    "Har Martinsen kommentert Snowden-avsløringene eller norsk etterretningslovgivning fra et liberalistisk ståsted?"
+  ],
+  "citations": []
+}
