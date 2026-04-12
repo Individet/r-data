@@ -1,0 +1,83 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d2_4",
+  "subdimensionName": "Ytringsfrihet på digitale plattformer",
+  "harvestedAt": "2026-04-12T00:00:00Z",
+  "summary": "Oppfølgingssøket bekrefter at datagapet fra første runde ikke er lukket. Det er ikke funnet noen dokumenterte, eksplisitte uttalelser fra Bjørnar Moxnes personlig om statlig regulering av private plattformers innholdsmoderering, DSA, avplattforming av lovlige ytringer eller tilsvarende spørsmål. Gjennomgang av Moxnes' representantforslagsliste på stortinget.no avdekker ingen forslag knyttet til digitale plattformer. Rødts arbeidsprogramforslag 2025–2029 omtaler regulering av 'plattformøkonomi', men i kontekst av arbeidsforhold og skatteinnkreving, ikke innholdsmoderering eller ytringsfrihet. Moxnes' komitearbeid i inneværende periode er rettet mot utenriks- og forsvarskomiteen, ikke digital- eller kulturpolitikk. En sekundærkilde (steigan.no) antyder at Moxnes i 2022 tok avstand fra russisk propaganda spredt via digitale plattformer, men dette er ikke ensbetydende med en posisjon for statlig innholdsregulering. Rødt som parti har generell reguleringspositivitet overfor teknologiselskaper, men dette kan ikke som primærposisjon tilskrives Moxnes personlig. Datagapet forblir åpent.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Ingen spesifikke uttalelser eller posisjoner fra Bjørnar Moxnes om statlig regulering av sosiale mediers innholdsmoderering eller avplattforming av lovlige ytringer er funnet gjennom søk i norske primærkilder (stortinget.no, rodt.no, nrk.no, medier).",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Ikke anvendelig – ingen relevante funn.",
+      "inconsistency": "",
+      "note": "Rødt har generelt en reguleringspositiv holdning til store teknologiselskaper, men dette kan ikke tilskrives Moxnes personlig uten dokumentasjon. Partiet er nå ledet av Mary Signe Nærø etter brillesaken i 2022, og Moxnes trakk seg som partileder. Hans eventuelle standpunkter på digitale plattformspørsmål er ikke dokumentert."
+    },
+    {
+      "claim": "Rødt som parti inngår i en venstreradikal tradisjon som typisk støtter regulering av store teknologiselskaper og plattformer, noe som implisitt kan peke mot støtte for DSA og tilsvarende regulering – men dette er en partipolitisk inferens, ikke en dokumentert personlig posisjon fra Moxnes.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Generell partitradisjon, ikke tidsfestet til Moxnes' virketid.",
+      "inconsistency": "Moxnes er ikke lenger partileder; hans individuelle posisjoner på dette feltet er udokumenterte.",
+      "note": "Implisitt inferens basert på partiets generelle ideologiske profil. Utilstrekkelig for en sikker vurdering."
+    },
+    {
+      "claim": "Gjennomgang av Moxnes' fullstendige representantforslagsliste på stortinget.no viser ingen forslag knyttet til digitale plattformer, innholdsmoderering, DSA eller regulering av sosiale mediers innhold.",
+      "stance": "unknown",
+      "evidenceType": "primary",
+      "positionType": "unknown",
+      "confidence": "high",
+      "timePattern": "Stortingsperiodene 2017–2021 og 2021–2025, samt 2025–2029.",
+      "inconsistency": "",
+      "note": "Fraværet av relevante representantforslag er i seg selv informativt og styrker konklusjonen om at plattformregulering ikke er et prioritert tema for Moxnes."
+    },
+    {
+      "claim": "Rødts arbeidsprogramforslag 2025–2029 omtaler regulering av 'plattformøkonomien', men utelukkende i kontekst av arbeidsforhold, ansettelsesvilkår og skatteinnkreving – ikke innholdsmoderering, avplattforming eller ytringsfrihet på digitale plattformer.",
+      "stance": "unknown",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "2025-programforslag, vedtatt forut for stortingsvalget 2025.",
+      "inconsistency": "",
+      "note": "Rødts 'plattformøkonomi'-regulering refererer til tjenester som Wolt/Uber, ikke sosiale medier eller innholdsplattformer. Kan ikke brukes som grunnlag for en vurdering på 2.4."
+    },
+    {
+      "claim": "I 2022 uttalte Moxnes til VG at Rødt 'tar avstand fra spredning av russisk krigspropaganda', i en kontekst der Steigan.no ble diskutert. En kommentator (steigan.no) tolket dette som at Moxnes 'lot seg presse av sensurtilhengerne i partiet', men Moxnes' uttalelse gjaldt partiets ideologiske posisjon, ikke statlig innholdsregulering av plattformer.",
+      "stance": "unknown",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "April 2022, under Ukraina-krigen.",
+      "inconsistency": "Uttalelsen berører partipolitisk avstandtaking, ikke spørsmålet om statlig plattformregulering eller avplattforming.",
+      "note": "Kilden er en kritisk sekundærkilde (Ivar Austbø/steigan.no), ikke primærkilden selv. Kan ikke brukes som grunnlag for en ISI-vurdering på 2.4."
+    },
+    {
+      "claim": "Moxnes er i inneværende periode (2025–2029) medlem av utenriks- og forsvarskomiteen og Europautvalget, ikke familie-/kulturkomiteen eller digitalkomiteen der plattformregulering primært behandles.",
+      "stance": "unknown",
+      "evidenceType": "primary",
+      "positionType": "unknown",
+      "confidence": "high",
+      "timePattern": "Fra oktober 2025.",
+      "inconsistency": "",
+      "note": "Komitetilhørigheten gjør det enda mindre sannsynlig at Moxnes har offentlige posisjoner på plattformregulering i inneværende periode."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Bjørnar Moxnes tatt eksplisitt stilling til DSA eller tilsvarende plattformregulering i stortingsdebatter eller intervjuer?",
+    "Har Moxnes uttalt seg om avplattforming, innholdsmoderering eller statlig kontroll over sosiale mediers innhold?",
+    "Hva er Rødts offisielle partiprogram-posisjon på plattformregulering, og kan dette tilskrives Moxnes som tidligere leder?",
+    "Har Bjørnar Moxnes noen gang tatt eksplisitt stilling til DSA, innholdsmoderering eller avplattforming i intervjuer, kronikker eller sosiale medier?",
+    "Hva er Rødts offisielle vedtatte partiprogram 2025–2029 sin posisjon på regulering av digitale plattformers innhold (ikke bare plattformøkonomien)?",
+    "Vil Moxnes' rolle i Europautvalget føre til at han tar stilling til DSA-implementeringen i norsk rett, noe som kunne gi primærkilder i fremtiden?"
+  ],
+  "citations": []
+}
