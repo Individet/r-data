@@ -1,0 +1,41 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "targets": [
+    {
+      "actorSlug": "bjornar-moxnes",
+      "subdimensionId": "d1_4",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen dokumenterte primærkilder om Moxnes eller Rødts eksplisitte posisjon til eutanasi eller assistert dødshjelp foreligger. Datagap gjør scoring umulig."
+      ]
+    },
+    {
+      "actorSlug": "bjornar-moxnes",
+      "subdimensionId": "d2_3",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Utilstrekkelig evidens for å score. Rødt støtter 'fri forskning' men med 'demokratisk styring'-forbehold som kan implisere politisk innflytelse. Ingen primærkilder knyttet til Moxnes personlig på dette feltet."
+      ]
+    },
+    {
+      "actorSlug": "bjornar-moxnes",
+      "subdimensionId": "d2_4",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen dokumenterte uttalelser fra Moxnes personlig om statlig regulering av plattformers innholdsmoderering, DSA eller avplattforming foreligger. Datagap."
+      ]
+    },
+    {
+      "actorSlug": "bjornar-moxnes",
+      "subdimensionId": "d4_1",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen dokumentert primærkilde for Moxnes personlig posisjon på positiv diskriminering, kvotering eller identitetsbasert særbehandling. Rødts klassejustis-fokus er ikke ekvivalent med en posisjon på likebehandlingsprinsippet. Datagap."
+      ]
+    }
+  ]
+}
