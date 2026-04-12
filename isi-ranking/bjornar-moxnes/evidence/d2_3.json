@@ -1,0 +1,50 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d2_3",
+  "subdimensionName": "Akademisk og vitenskapelig frihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Det finnes ingen dokumenterte primærkilder der Bjørnar Moxnes eksplisitt har uttalt seg for eller mot akademisk frihet som prinsipp. Rødts partiprogram støtter «fri forskning» og autonome forskningsinstitusjoner, og går inn for økte grunnbevilgninger for å redusere ekstern markedsstyring av forskning. Partiprogrammet advarer imidlertid mot markedsliberalisme og ønsker «demokratisk styrt» forskning, noe som implisitt kan innebære økt politisk innflytelse over forskningsagendaen. Moxnes har hverken sittet i utdannings- og forskningskomiteen eller fremmet egne representantforslag spesifikt om akademisk frihet. Ingen direkte uttalelser fra Moxnes om akademisk eller vitenskapelig frihet er funnet gjennom søk. Rødts generelle retning er sammensatt: på den ene siden støtter de fri, offentlig finansiert forskning uten markedsbindinger, noe som kan styrke akademisk uavhengighet; på den andre siden ønsker de «demokratisk styring» og økte offentlige bevilgninger med tilhørende politisk styring. Samlet gir dette et utilstrekkelig grunnlag for en presis vurdering av Moxnes personlig på denne underdimensjonen.",
+  "stance": "unknown",
+  "positionType": "unknown",
+  "confidence": "low",
+  "dataGap": true,
+  "findings": [
+    {
+      "claim": "Rødt, partiet Moxnes representerte som leder frem til 2023, støtter i sitt program «fri forskning og autonome utdannings- og forskningsinstitusjoner» og vil øke grunnbevilgninger for å redusere avhengighet av ekstern (markeds-)finansiering.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Konsistent i partiprogrammene fra minst 2021-2025-perioden og i forslaget til program 2025-2029.",
+      "inconsistency": "Programmet bruker også formuleringen 'demokratisk styrt, fri forskning', der 'demokratisk styring' kan innebære økt politisk innflytelse — en potensiell spenning med akademisk autonomi fra ISI-perspektiv.",
+      "note": "Kilde er Rødts nettsider (rodt.no/forskning og rodt.no/studentpolitikk), ikke Moxnes personlig."
+    },
+    {
+      "claim": "Rødts program ønsker å 'demokratisere universiteter og høyskoler' og fremme 'demokratisk styrt, fri forskning til det beste for samfunnet', noe som kan innebære økt politisk eller kollektiv styring av forskningsagendaen.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Fremkommer i partiprogrammet, men er ikke koblet direkte til Moxnes personlig.",
+      "inconsistency": "Formuleringen om 'fri forskning' og 'autonome institusjoner' trekker i motsatt retning og gjør det uklart hva Rødt faktisk mener med 'demokratisk styring'.",
+      "note": "Ingen primærkilder der Moxnes selv tar stilling til spørsmålet om akademisk frihet vs. politisk styring av forskning."
+    },
+    {
+      "claim": "Ingen representantforslag, talerinnlegg eller offentlige uttalelser fra Moxnes personlig om akademisk frihet, vitenskapelig uavhengighet eller universitetspolitikk i frihetsperspektiv er funnet.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "high",
+      "timePattern": "Moxnes har i hele stortingsperioden (2017-) primært vært aktiv på utenriks-, forsvars-, energi- og sosialpolitiske saker.",
+      "inconsistency": "",
+      "note": "Stortingets oversikt over Moxnes' representantforslag og spørsmål viser ingen saker knyttet til akademisk frihet eller høyere utdanning."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes noen gang eksplisitt kommentert akademisk frihet, vitenskapelig uavhengighet eller universitetenes autonomi i taler, intervjuer eller kronikker?",
+    "Hva mener Moxnes personlig om spenningen mellom 'demokratisk styring' og akademisk frihet – skiller hans posisjon seg fra partiets?",
+    "Har Moxnes stemt på Stortinget om lovendringer knyttet til universitets- og høyskoleloven som berører akademisk frihet?"
+  ],
+  "citations": []
+}
