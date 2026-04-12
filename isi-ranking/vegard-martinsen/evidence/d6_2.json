@@ -1,0 +1,27 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d6_2",
+  "subdimensionName": "Digital identitet og kontroll",
+  "summary": "...",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "...",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsist ent over tid.",
+      "inconsistency": "",
+      "note": ""
+    }
+  ],
+  "unresolvedQuestions": [
+    " "
+  ],
+  "citations": []
+}
