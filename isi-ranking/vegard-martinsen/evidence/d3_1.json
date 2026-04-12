@@ -1,0 +1,69 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d3_1",
+  "subdimensionName": "Eiendomsvern, skatt og ekspropriering",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har gjennom et bredt og konsistent tekstkorpus – bøker, artikler, daglige nyhetskommentarer for DLF (2001–2017) og Gullstandard (2018–) – fremmet en absolutt eiendomsretts- og frihetspolitikk som eksplisitt avviser skatt som omfordelingsinstrument og betegner ekspropriasjon som et sentralt symptom på statssosialisme. I artikkelen «Beskatningens begredelige historie» (objektivisme.no/vegardmartinsen.com) gjennomgår han skattehistorien med utgangspunkt i at skatter er «penger tatt fra befolkningen». Han argumenterer gjentatte ganger for at statens eneste legitime oppgave er å beskytte borgernes frihet, og at dette tilsvarer en skattesats på ca. 5 % – mot det norske nivået på 50–70 % av inntekten han dokumenterer. Han omtaler ekspropriasjoner og «stadig mer intensive reguleringer» som ødeleggende for velstand, eksemplifisert med Venezuela. Artikkelen om eiendomsrett på vegmar.wordpress.com argumenterer eksplisitt for at frihet forutsetter full rett til å «bestemme over sin inntekt» og «sin eiendom». I DLF-landsmøtetalen (2010) krever han «100 % ren laissez-faire-kapitalisme» der staten respekterer og beskytter eiendomsretten. Gullstandard-podcasten omtaler formueskatten kritisk. Det finnes ingen inkonsistens eller modererende uttalelse i det gjennomgåtte materialet.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen argumenterer for at statens legitime oppgaver kun koster ca. 5 % av inntekten i skatt, og at nåværende norsk skattenivå (50–70 %) er en massiv krenkelse av eiendomsretten – skatt sees ikke som et omfordelingsinstrument, men som tvungen konfiskering.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra minst 2001 (DLF-kommentarer) til 2025 (Gullstandard-podcast om formuesskatt).",
+      "inconsistency": "",
+      "note": "Kilde: objektivisme.no/aera/skatt.htm (Beskatningens begredelige historie) og gullstandard.no (side 25, innlegg om skattenivå)."
+    },
+    {
+      "claim": "Martinsen karakteriserer Chavez' Venezuela-politikk – «økende skatter, ekspropriasjoner og stadig mer intensive reguleringer» – som et destruktivt mønster som utelukkende reduserer velstand; ekspropriasjon sidestilles med tyveri og sosialistisk statspolitikk.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert på vegmar.wordpress.com, referert gjentatte ganger i tekstkorpuset.",
+      "inconsistency": "",
+      "note": "Ekspropriasjoner omtales aldri som legitime politiske virkemidler i noe av det gjennomgåtte materialet."
+    },
+    {
+      "claim": "I artikkelen 'Frihet på individualistisk grunnlag: eiendomsrett' fastslår Martinsen eksplisitt at frihet innebærer retten til å bestemme over egen inntekt og eiendom, og at statlige hindringer mot dette er frihetsbrudd.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert på vegmar.wordpress.com; reflekterer konsistent posisjon over hele karrieren.",
+      "inconsistency": "",
+      "note": "Argumentet er prinsipielt og filosofisk fundert i objektivismen (Ayn Rand)."
+    },
+    {
+      "claim": "DLF-landsmøtetalen (2010) der Martinsen krever '100 % ren laissez-faire-kapitalisme' innebærer at staten skal 'respektere og beskytte eiendomsretten' og ikke legge hindringer for produksjon og handel – som direkte utelukker omfordelende skatter og ekspropriasjon.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2010-tale, men representerer posisjon han inntok som DLF-leder 2003–2017 og videreførte i Gullstandard.",
+      "inconsistency": "",
+      "note": "Kilde: vegmar.wordpress.com/2011/01/01/dlf-og-andre-partier-likheter-og-forskjeller/"
+    },
+    {
+      "claim": "Gullstandard-podkasten har en dedikert episode om formueskatten der Martinsen og Magnus diskuterer den kritisk, konsistent med hans generelle motstand mot kapitalbeskatning.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Nyere (2024–2025), viser kontinuitet i posisjonen.",
+      "inconsistency": "",
+      "note": "Kilde: gullstandard.no/author/vegard-martinsen/ – podkasttittel nevner 'formueskatten, partiet FOR, reguleringer'. Lytt-innhold ikke gjennomgått i detalj."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen tatt eksplisitt stilling til ekspropriasjon i norsk kontekst (f.eks. tomtefeste, plan- og bygningsloven, naturvern)?",
+    "Finnes det en artikkel der han skisserer hva minimal legitim statsskatt konkret bør dekke og til hvilken sats?"
+  ],
+  "citations": []
+}
