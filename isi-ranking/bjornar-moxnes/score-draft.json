@@ -1,0 +1,356 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensions": [
+    {
+      "subdimensionId": "d1_1",
+      "subdimensionName": "Medisinsk selvbestemmelse",
+      "score": 0,
+      "rationale": "Blandet profil: sterk forsvarere av selvbestemt abort til uke 22 uten nemnd (positiv), men Rødt under hans ledelse kriminaliserer surrogati og nekter leger reservasjonsrett (negativ). Kritikk av koronaloven var demokratisk, ikke prinsippiell forsvar for medisinsk selvbestemmelse. De to retningene motvirker hverandre og gir en balansert 0.",
+      "confidence": "medium",
+      "conflictingEvidence": true,
+      "imputationCandidate": null,
+      "estimatedScore": 0,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d1_2",
+      "subdimensionName": "Sosial frihet/Livsstilsautonomi",
+      "score": 1,
+      "rationale": "Konsekvent støtte til avkriminalisering og legalisering av rusmidler (medforslagsstiller rusreform 2021-22, cannabis-legalisering 2025), støtte til LHBT-rettigheter og livsstilsfrihet. Trukket ned fra +2 fordi Rødt ønsker statlig regulert monopol på cannabis (Vinmonopolmodell) og støtter restriktiv alkoholpolitikk – altså statlig kontroll som primær leveringsmekanisme, ikke full markedsfrihet.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": 1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d1_3",
+      "subdimensionName": "Bevegelsesfrihet",
+      "score": -1,
+      "rationale": "Blandet, men overveiende negativ fra ISI-perspektiv. Positiv på asyl og kvoteflyktninger, men Rødt ønsker å trekke Norge ut av Schengen og Dublinkonvensjonen (økt statlig grensekontroll), og krever tariffavtaletilslutning som betingelse for EØS-arbeidsinnvandring. Netto: statlig kontroll over bevegelse øker.",
+      "confidence": "high",
+      "conflictingEvidence": true,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d1_4",
+      "subdimensionName": "Selvbestemmelse ved livets slutt",
+      "score": -1,
+      "rationale": "Rødt stemte ned forslag om aktiv dødshjelp på landsmøtet 2025. Partiets nei-posisjon indikerer at individets selvbestemmelse ved livets slutt ikke anerkjennes. Moxnes har ikke personlig distansert seg fra denne partiposisjonen. Score -1 (ikke -2) fordi ingen eksplisitt aktiv motstandskampanje er dokumentert – kun passiv blokkering.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d2_1",
+      "subdimensionName": "Ytringsfrihet - innhold",
+      "score": -1,
+      "rationale": "Rødt støtter eksisterende forbud mot rasistiske ytringer og ønsker styrket hatkriminalitetsarbeid. Dette er innholdsbasert regulering av ytring. Rødt erklærer formelt å ikke ønske nye begrensninger, men støtten til straffeloven § 185 og politiets hatkriminalitetsarbeid representerer en aksept for og styrking av innholdsbasert regulering. Score -1 fordi det ikke fremmes aktivt ny sensurlovgivning utover eksisterende rett.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d2_2",
+      "subdimensionName": "Pressefrihet og redaksjonell uavhengighet",
+      "score": -1,
+      "rationale": "Rødt under Moxnes støtter konsekvent økt statlig mediefinansiering: økt pressestøtte, sterkt offentlig finansiert NRK, regulering av medieeierkonsentrasjon. Fra ISI-perspektiv innebærer dette strukturell medieavhengighet av staten som objektivt undergraver redaksjonell uavhengighet. Ikke -2 fordi ingen direkte intervensjon i redaksjonelle beslutninger er dokumentert.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d2_3",
+      "subdimensionName": "Akademisk og vitenskapelig frihet",
+      "score": null,
+      "rationale": "Utilstrekkelig primærevidensgrunnlag. Rødt ønsker formelt 'fri forskning' og økte grunnbevilgninger, men også 'demokratisk styring' av forskning. Moxnes har ikke personlig gitt uttrykk for standpunkter på akademisk frihet som uavhengig verdi.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": -1,
+      "imputationBasis": "party-alignment",
+      "imputationRationale": "Rødts partiposisjon om 'demokratisk styring' av forskning kombinert med økt statlig finansiering som primær løsning tilsier implisitt politisk styring av akademia – i tråd med partiets generelle preferanse for statlig kontroll over institusjoner.",
+      "estimatedScore": -1
+    },
+    {
+      "subdimensionId": "d2_4",
+      "subdimensionName": "Ytringsfrihet på digitale plattformer",
+      "score": null,
+      "rationale": "Fullstendig datagap. Ingen dokumenterte uttalelser fra Moxnes om statlig regulering av plattformer, DSA eller avplattforming av lovlige ytringer.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": -1,
+      "imputationBasis": "party-alignment",
+      "imputationRationale": "Rødts generelt reguleringspositive holdning til teknologiselskaper og støtte til innholdsbasert regulering på andre områder tilsier sannsynlig støtte til statlig plattformregulering.",
+      "estimatedScore": -1
+    },
+    {
+      "subdimensionId": "d3_1",
+      "subdimensionName": "Eiendomsvern, skatt og ekspropriering",
+      "score": -2,
+      "rationale": "Konsekvent og eksplisitt negativ profil. Moxnes lanserte skattereform med formuesskatt opp til 1,6%, ny arveskatt, økt utbytteskatt, fjerning av verdsettingsrabatter. Rødt programfester at fellesskapet skal eie eller ha demokratisk kontroll over all infrastruktur av betydning. Skatt presenteres eksplisitt som omfordelingsinstrument. Dette er aktiv fremming av politikk som systematisk krenker eiendomsretten – gir -2.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -2,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d3_2",
+      "subdimensionName": "Næringsfrihet og regulering",
+      "score": -2,
+      "rationale": "Konsekvent og eksplisitt negativ profil. Forslag om forbud mot bemanningsbransjen, profittforbud i velferd, økt bøtelegging og personlig lederansvar ved arbeidsmiljøbrudd. Disse posisjonene innebærer aktiv fremming av tiltak som gjør det vanskeligere å drive virksomhet og som bryter kontraktsfriheten. Moxnes omtaler bemanningsbransjen som 'gift for den norske modellen'.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -2,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d3_3",
+      "subdimensionName": "Handelsfrihet",
+      "score": -2,
+      "rationale": "Konsekvent og eksplisitt negativ profil. Moxnes kritiserer 'dogmatisk frihandel', programfester krav om å si opp EØS-avtalen, styrket importvern for landbruk og reduksjon av tollfrie kvoter. Han omtaler 'naiv tro på frihandel og markedsliberalisme' som et problem. Dette er aktiv proteksjonisme som primær handelspolitisk posisjon.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -2,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d3_4",
+      "subdimensionName": "Monetær frihet",
+      "score": -1,
+      "rationale": "Rødt under Moxnes støtter statlig prisregulering som strategi (strømpristak, husleieregulering). Dette er dokumentert inngrep i fri prisdannelse. Score -1 og ikke -2 fordi ingen spesifikke uttalelser om CBDC, sentralbankuavhengighet eller kryptovaluta er funnet – kun generell prisregulering er dokumentert.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d4_1",
+      "subdimensionName": "Lik anvendelse av loven",
+      "score": -1,
+      "rationale": "Rødt har kjønnskvotering på valglistene og Bergen-programmet foreslår 'radikal kvotering for innvandrere'. Moxnes har aldri offentlig kritisert disse ordningene. Som partileder er han ansvarlig for praksis. Score -1 fordi det er partiets praksis snarere enn eksplisitte personlige uttalelser mot likebehandlingsprinsippet.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d4_2",
+      "subdimensionName": "Rettslig uavhengighet",
+      "score": null,
+      "rationale": "Utilstrekkelig primærevidensgrunnlag. Ingen dokumenterte forsøk på å påvirke domstolsavgjørelser. Rødts prinsipprogram støtter formelt uavhengige domstoler, men 'klassejustis'-retorikken impliserer en ideologisert rettsforståelse. For lite direkte evidens til å score.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": 0,
+      "imputationBasis": "dimension-profile",
+      "imputationRationale": "Formell støtte til domstolsuavhengighet i prinsipprogrammet kombinert med 'klassejustis'-retorikk skaper en blandet profil som best representeres med 0 ved imputation.",
+      "estimatedScore": 0
+    },
+    {
+      "subdimensionId": "d4_3",
+      "subdimensionName": "Rettssikkerhet og uskyldspresumpsjon",
+      "score": null,
+      "rationale": "Fullstendig datagap. Ingen primærkilder dokumenterer Moxnes' posisjon på administrative sanksjoner, bevisbyrde eller rettssikkerhetstiltak.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": 0,
+      "imputationBasis": "overall-profile",
+      "imputationRationale": "Moxnes' generelle motstand mot fullmaktslover og autoritære statlige mekanismer (d4_4) antyder en viss positiv orientering mot rettssikkerhet, men hans klasseperspektiv kan trekke i negativ retning. Netto 0 er mest sannsynlig.",
+      "estimatedScore": 0
+    },
+    {
+      "subdimensionId": "d4_4",
+      "subdimensionName": "Begrenset statsmakt",
+      "score": 0,
+      "rationale": "Dokumentert inkonsistens: Moxnes var første til å opposere koronaloven (2020), fikk gjennomslag for begrensninger og stemte mot forlengelse. Rødt opposerte også sivilbeskyttelseslovendringen 2025. Dette er klart positive bidrag til begrenset statsmakt. Imidlertid er Moxnes simultaneously tilhenger av bred statlig ekspansjon på velferds-, nærings- og eiendomsfeltet. Den fundamentale inkonsistensen – mot fullmaktslover men for statlig ekspansjon – gir netto 0, ikke positiv score.",
+      "confidence": "high",
+      "conflictingEvidence": true,
+      "imputationCandidate": null,
+      "estimatedScore": 0,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d5_1",
+      "subdimensionName": "Religionsfrihet",
+      "score": 1,
+      "rationale": "Rødt programfester tros- og livssynsnøytral stat, likebehandling av tros- og livssynssamfunn, og avviste forslag om forbud mot rituell omskjæring. Dette er overveiende frihetsorientert. Trukket ned fra +2 fordi statlig likebehandling via støttevilkår impliserer en form for statlig kontroll over trossamfunn.",
+      "confidence": "medium",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": 1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d5_2",
+      "subdimensionName": "Politisk foreningsfrihet",
+      "score": 0,
+      "rationale": "Blandet profil: Rødt erklærer formelt støtte til organisasjonsfrihet og retten til å kritisere myndighetene for alle, men prinsipprogrammet inneholder formuleringen om at 'nazistiske organisasjoner har ingen plass', og Moxnes stilte kritisk Stortingsspørsmål om at politiet tillot nazistmarsjer. Sterk formell støtte kombinert med implisitt innholdsbegrenset tilnærming gir 0.",
+      "confidence": "medium",
+      "conflictingEvidence": true,
+      "imputationCandidate": null,
+      "estimatedScore": 0,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d5_3",
+      "subdimensionName": "Sivilsamfunn vs. statlig substitusjon",
+      "score": -2,
+      "rationale": "Konsekvent og eksplisitt preferanse for statlig/kommunal løsning fremfor sivilsamfunnets frie rolle. Moxnes erklærer at alle velferdstjenester bør drives av kommunen. Rødt programfester profittfri velferd med utfasing av kommersielle aktører. Bergen-programmet karakteriserer overføring av oppgaver til frivillighet som et negativt fenomen. Dette er aktiv fremming av statlig substitusjon av sivilsamfunnet.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": -2,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d5_4",
+      "subdimensionName": "Forsamlingsfrihet",
+      "score": 1,
+      "rationale": "Konsistent positiv profil: Moxnes fremhever forsamlingsfriheten som spesielt viktig for opposisjonelle, uttrykker bekymring for statlig overvåking av aktivister og kritiserer PSTs overvåking av venstreaktivister. Ingen støtte til forbud mot lovlige demonstrasjoner. Trukket ned fra +2 pga implisitt innholdsbasert tilnærming (skeptisk til nazistmarsjer) og at bekymringen primært gjelder hans egen politiske leir.",
+      "confidence": "medium",
+      "conflictingEvidence": true,
+      "imputationCandidate": null,
+      "estimatedScore": 1,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d6_1",
+      "subdimensionName": "Overvåkning og personvern",
+      "score": 2,
+      "rationale": "Konsistent og eksplisitt frihetsorientert profil over lang tid: stemte mot datalagringsdirektivet (2011), opposerte ny etterretningstjenestelov med krav om domstolskontroll, kritiserte E-tjenestens masseovervåkning, stilte Stortingsspørsmål om amerikansk spionasje. Karakteriserte masseovervåking som 'den mest omfattende overvåkningen av befolkningen noensinne'. Dette er en av de sterkeste og mest konsistente frihetsorienterte profilene i norsk politikk.",
+      "confidence": "high",
+      "conflictingEvidence": false,
+      "imputationCandidate": null,
+      "estimatedScore": 2,
+      "imputationBasis": "none"
+    },
+    {
+      "subdimensionId": "d6_2",
+      "subdimensionName": "Digital identitet og kontroll",
+      "score": null,
+      "rationale": "Fullstendig datagap. Ingen primærkilder dokumenterer Moxnes' posisjoner på obligatorisk digital ID, CBDC eller sosiale kredittmekanismer.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": 0,
+      "imputationBasis": "dimension-profile",
+      "imputationRationale": "Moxnes' sterke profil mot masseovervåkning (d6_1) antyder sannsynlig motstand mot obligatorisk digital ID og overvåkingsbaserte systemer. Men hans positive holdning til statlig kontroll på andre områder (d3_4) gjør 0 mer forsiktig enn -1 eller +1.",
+      "estimatedScore": 0
+    },
+    {
+      "subdimensionId": "d6_3",
+      "subdimensionName": "Internettfrihet og kryptering",
+      "score": null,
+      "rationale": "Fullstendig datagap. Ingen dokumenterte uttalelser fra Moxnes om kryptering, bakdører eller statlig internettinfrastrukturkontroll.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": 1,
+      "imputationBasis": "dimension-profile",
+      "imputationRationale": "Moxnes' sterke og konsistente motstand mot masseovervåkning (d6_1) og statlig inntrengning i privat kommunikasjon tilsier sannsynlig støtte til kryptering og motstand mot bakdører – i tråd med hans dokumenterte profil på personvern.",
+      "estimatedScore": 1
+    },
+    {
+      "subdimensionId": "d6_4",
+      "subdimensionName": "Eierskap til egne data",
+      "score": null,
+      "rationale": "Fullstendig datagap. Ingen primærkilder dokumenterer Moxnes' posisjoner på individets dataeierskap, korporativ datahøsting eller statlig datakontroll.",
+      "confidence": "low",
+      "conflictingEvidence": false,
+      "imputationCandidate": 0,
+      "imputationBasis": "overall-profile",
+      "imputationRationale": "Moxnes' personvernprofil (d6_1) trekker positivt, men hans generelle preferanse for statlig/kollektiv kontroll fremfor individuelle rettigheter på økonomiske og strukturelle spørsmål (d3_1-d3_3) kan trekke negativt på dataeierskap som individuell rettighet. Netto 0 er mest forsiktige imputation.",
+      "estimatedScore": 0
+    }
+  ],
+  "keyStrengths": [
+    "Sterk og konsistent motstand mot statlig masseovervåkning over tid (d6_1 = +2): stemte mot datalagringsdirektivet, opposerte etterretningstjenesteloven, kritiserte E-tjenestens masseovervåkning",
+    "Tidlig og prinsipiell motstand mot koronafullmaktsloven (d4_4): første politiker til å karakterisere den som autoritær og fikk gjennomslag for begrensninger",
+    "Konsekvent støtte til rusmiddelavkriminalisering og livsstilsfrihet (d1_2 = +1): medforslagsstiller rusreform, cannabislegalisering",
+    "Positiv til religionsfrihet og livssynsnøytral stat (d5_1 = +1) uten statlig favorisering av én religiøs tradisjon",
+    "Bekymring for statlig overvåking av opposisjonelle og aktivister (d5_4 = +1)"
+  ],
+  "keyRisks": [
+    "Aktiv fremming av eiendomsretts-krenkende politikk (d3_1 = -2): formuesskatt til 1,6%, arveskatt, statlig eierskap av infrastruktur som ideologisk mål",
+    "Systematisk motstand mot næringsfrihet (d3_2 = -2): bemanningsforbud, profittforbud i velferd, økt byråkratisk belastning",
+    "Konsekvent proteksjonisme (d3_3 = -2): EØS-motstand, importvern, kritikk av frihandel som prinsipp",
+    "Sterk preferanse for statlig substitusjon av sivilsamfunnet (d5_3 = -2): all velferd til kommunal drift, frivillighet karakteriseres som en last snarere enn en ressurs",
+    "Støtte til innholdsbasert regulering av ytringer gjennom hatkriminalitetsparagrafer (d2_1 = -1) og statlig mediefinansiering som undergraver redaksjonell uavhengighet (d2_2 = -1)"
+  ],
+  "crossDimensionNotes": [
+    "Fundamental intern inkonsistens: Moxnes er en av Norges sterkeste forsvarere av personvern og mot masseovervåkning (d6_1 = +2), men fremmer samtidig den mest inngripende statlige kontroll over økonomi og eiendom (d3_1, d3_2, d3_3 = alle -2). Dette gjenspeiler en ideologi som skiller mellom 'privat sfære' (som beskyttes) og 'økonomisk makt' (som kontrolleres), en distinksjon ISI ikke anerkjenner.",
+    "Selektiv frihetsorientering: Moxnes' frihetsprofil er sterkest på overvåkning (d6) og forsamlingsfrihet (d5_4), mens den er svakest på dimensjon 3 (eiendom/økonomi) og delvis på d1 (surrogati, selvbestemmelse ved livets slutt). Friheten er betinget av politisk kategori.",
+    "Demokrati vs. suverenitet: Moxnes begrunner sin motstand mot fullmaktslover i demokratihensyn, ikke i prinsippiell individualisme. Hans positive d4_4-profil er et biprodukt av demokratitenkning, ikke selveierskapstenkning – noe som forklarer den fundamentale inkonsistensen med d3-dimensjonene.",
+    "Statlig substitusjon som gjennomgående tema: Fra velferd (d5_3) til eiendom (d3_1) til handel (d3_3) er Moxnes' ideologi konsekvent kollektivistisk – fellesskapet (i praksis staten) som primær agent, individet som mottaker, ikke autonomt subjekt."
+  ],
+  "generatedAt": "2026-04-12T18:18:28.991Z",
+  "dimensionSummaries": [
+    {
+      "dimensionId": "d1",
+      "dimensionName": "Kroppslig autonomi og selvbestemmelse",
+      "observedRawSum": -1,
+      "estimatedRawSum": -1,
+      "observedCount": 4,
+      "dataGapCount": 0
+    },
+    {
+      "dimensionId": "d2",
+      "dimensionName": "Ytringsfrihet og intellektuell autonomi",
+      "observedRawSum": -2,
+      "estimatedRawSum": -4,
+      "observedCount": 2,
+      "dataGapCount": 2
+    },
+    {
+      "dimensionId": "d3",
+      "dimensionName": "Eiendomsrett og økonomisk frihet",
+      "observedRawSum": -7,
+      "estimatedRawSum": -7,
+      "observedCount": 4,
+      "dataGapCount": 0
+    },
+    {
+      "dimensionId": "d4",
+      "dimensionName": "Rettsstat og likebehandling",
+      "observedRawSum": -1,
+      "estimatedRawSum": -1,
+      "observedCount": 2,
+      "dataGapCount": 2
+    },
+    {
+      "dimensionId": "d5",
+      "dimensionName": "Forenings-, forsamlings- og religionsfrihet",
+      "observedRawSum": 0,
+      "estimatedRawSum": 0,
+      "observedCount": 4,
+      "dataGapCount": 0
+    },
+    {
+      "dimensionId": "d6",
+      "dimensionName": "Digital autonomi og informasjonsfrihet",
+      "observedRawSum": 2,
+      "estimatedRawSum": 3,
+      "observedCount": 1,
+      "dataGapCount": 3
+    }
+  ],
+  "observedCount": 17,
+  "estimatedCount": 24,
+  "dataGapCount": 7,
+  "observedRawSum": -9,
+  "estimatedRawSum": -10,
+  "observedScore": 41,
+  "estimatedScore": 40,
+  "confidenceLevel": "middels"
+}
