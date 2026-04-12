@@ -1,0 +1,69 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d5_3",
+  "subdimensionName": "Sivilsamfunn vs. statlig substitusjon",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har gjennom hele sin politiske karriere — som leder av Det Liberale Folkepartiet (DLF) 2002–2017 og som aktiv skribent for Gullstandard fra 2018 — inntatt en eksplisitt og konsekvent posisjon mot statlig substitusjon av sivilsamfunnet. Han argumenterer for at velferdsstaten erstatter frivillig hjelp, privat forsikring og markedsbaserte løsninger med tvungen omfordeling finansiert gjennom skatt, og at dette er et fundamentalt feil. Hans alternativ er laissez-faire-kapitalisme der statens eneste oppgave er å beskytte individuelle rettigheter, mens alle velferdsoppgaver overlates til private, frivillige ordninger og markedet. Han eksplisitt avviser statlige støtteordninger av enhver art, og argumenterer for at de som trenger hjelp i et fritt samfunn vil bli tatt hånd om gjennom frivillig veldedighet. Posisjonen er dokumentert gjennom primærkilder (egne skrifter, DLF-nettside, Gullstandard) og er konsistent over minst to tiår.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen argumenterer eksplisitt for at statens eneste oppgave er å beskytte individuell frihet, og at staten ikke skal drive skoler, helsevesen, trygde- eller pensjonsordninger — disse oppgavene skal overlates til private og frivillige løsninger. De få som ikke kan klare seg selv skal basere seg på frivillig veldedighet.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent formulert på gullstandard.no og i DLF-materiale, dokumentert minst 2010–2024.",
+      "inconsistency": "",
+      "note": "Direkte sitat fra gullstandard.no: 'staten skal da ikke drive hverken skoler eller helsevesen eller trygde- og pensjonsordninger eller noe annet borsett fra politi, rettsapparat og det militære.'"
+    },
+    {
+      "claim": "DLF under Martinsens ledelse er imot alle statlige støtteordninger. Partiet skiller eksplisitt mellom tvungne statlige ordninger (som avvises) og frivillig finansierte private ordninger (som støttes). Martinsen framholder at 'vi har intet imot private støtteordninger, ordninger som er frivillig finansiert'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Dokumentert fra DLF-nettside (stemdlf.no) fra 2008, og gjenspeilet i Gullstandard-artikler.",
+      "inconsistency": "",
+      "note": "Tydelig skille mellom statlig tvang og frivillig sivilsamfunn er et strukturelt trekk ved Martinsens politikk."
+    },
+    {
+      "claim": "I debatt om hva som skjer med de som ikke har jobb eller forsikring i et fritt samfunn, svarer Martinsen konsekvent: 'Frivillig hjelp.' Han hevder at de aller fleste vil frivillig hjelpe de som har vanskeligheter, og at et fritt og velstående samfunn gir de beste forutsetningene for å ta seg av dem som faller utenfor.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Uttalt i DLF-landsmøtetale 2010, gjengitt på vegmar.wordpress.com.",
+      "inconsistency": "",
+      "note": "Illustrerer det normative grunnlaget: frivillig sivilsamfunn som alternativ til statlig substitusjon."
+    },
+    {
+      "claim": "Martinsen beskriver velferdsstaten som et system som 'graver sin egen grav' og som nødvendigvis vil føre til forfall. Han kontrasterer dette med laissez-faire-kapitalisme der Foreningen Gullstandard 'går inn for et system hvor statens oppgave kun er å beskytte den enkelte borgers frihet, og hvor alle andre oppgaver utføres av private'.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gullstandard, august 2018 og juli 2019. Konsistent med posisjoner fra DLF-perioden.",
+      "inconsistency": "",
+      "note": "Posisjonen er normativ og ideologisk, ikke pragmatisk."
+    },
+    {
+      "claim": "Martinsen kritiserer statlig finansierte NGOer (Røde Kors, CARE Norge, Norges Turistforening) for å være avhengige av statlige midler, noe som for ham undergraver sivilsamfunnets uavhengighet. Han antyder at statlig finansiering av organisasjoner gjør dem til forlengede armer av staten snarere enn ekte sivilsamfunn.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "DLF-landsmøtetale 2010, vegmar.wordpress.com.",
+      "inconsistency": "",
+      "note": "Implisitt kritikk av at sivilsamfunnet korrumperes når det finansieres av staten, men ikke en fullstendig analyse av frivillig sektor."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Martinsen skiller ikke systematisk mellom frivillig sektor og markedsbaserte løsninger — det er uklart om han prioriterer ekte voluntarisme (som veldedighet og sivilsamfunn) eller markedet som primær erstatning for velferdsstaten.",
+    "Det finnes ingen eksplisitt analyse fra Martinsen om hvordan man sikrer at frivillig veldedighet faktisk er tilstrekkelig i en overgangsperiode fra velferdsstat til laissez-faire."
+  ],
+  "citations": []
+}
