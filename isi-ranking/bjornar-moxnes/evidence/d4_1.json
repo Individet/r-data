@@ -1,0 +1,70 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d4_1",
+  "subdimensionName": "Lik anvendelse av loven",
+  "harvestedAt": "2026-04-12",
+  "summary": "Etter grundig oppfølgingssøk med nye innfallsvinkler er det fortsatt ikke funnet primærkilder som dokumenterer Bjørnar Moxnes' personlige, eksplisitte posisjon på positiv diskriminering, kvotering eller identitetsbasert særbehandling. Det som er dokumentert gjennom sekundærkilder er: (1) Rødt innførte kandidatkvotering (annenhver mann/kvinne) på valglistene allerede i 2007, og dette er vedtektsfestet i partiet. (2) Rødts Bergen-program inneholder forslag om «prøveprosjekt med radikal kvotering for innvandrere» i stillinger der dette er mulig. (3) Rødts prinsipprogram fra 2019 fremmer 'lik adgang til maktposisjoner uavhengig av kjønn'. (4) Rødts velgere er blant de mest positive til kvotering i politikken og i bedriftsstyrer i Norge (58 % støtte). Disse funnene er konsistente med at Moxnes som partileder 2012–2023 og stortingsrepresentant har vært bærer av en politikk som aksepterer og fremmer identitetsbasert særbehandling. Det er imidlertid ingen siterte uttalelser fra Moxnes personlig om disse spørsmålene, og posisjonen forblir implisitt basert på partiets politikk og struktur. Datagapet for en eksplisitt personlig posisjon er fortsatt åpent, men det implisitte mønsteret er tilstrekkelig tydelig til å sette en score.",
+  "stance": "negative",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt innførte kjønnskvotering (annenhver mann/kvinne) på valglistene i 2007 – Moxnes var aktivt involvert i partiledelsen og ble nestleder i 2010, leder i 2012. Han har aldri offentlig kritisert eller tatt avstand fra denne ordningen.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Vedtatt 2007, praktisert konsekvent siden. Moxnes leder 2012–2023.",
+      "inconsistency": "Ingen funnet.",
+      "note": "Kilde: ISF/CORE-notat 2024 om kjønnskvotering i politikken dokumenterer at Rødt er blant partiene med vedtektsfestet kandidatkvotering siden 2007."
+    },
+    {
+      "claim": "Rødts Bergen-program (lokalprogram) inneholder forslag om 'prøveprosjekt med radikal kvotering for innvandrere og andrespråksbrukere i stillinger der dette er mulig' – en politikk som er mer vidtgående enn det norsk lov tillater i arbeidslivet.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gjeldende lokalprogram for Rødt Bergen.",
+      "inconsistency": "Dette er et lokalprogram, ikke Moxnes personlig. Men det illustrerer at Rødt-bevegelsen han ledet ikke anser identitetsbasert særbehandling som problematisk.",
+      "note": "Kilde: roedt.no/bergen/program – primærkilde (partiprogram)."
+    },
+    {
+      "claim": "Rødts arbeidsprogram 2025–2029 beskriver klasseskiller, kjønnsforskjeller og geografiske forskjeller som noe som 'må bekjempes med politiske løsninger' – og partiet støtter strukturelle tiltak mot diskriminering av definerte grupper, inkludert kjønn og etnisitet.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Vedtatt 2025 for stortingsvalgperioden 2025–2029.",
+      "inconsistency": "Programmet sier ikke eksplisitt 'kvotering' på nasjonalt nivå, men støtter systematisk gruppebasert politikk.",
+      "note": "Kilde: roedt.no/fil/25ba75b9... (Rødts arbeidsprogram 2025–2029)."
+    },
+    {
+      "claim": "Rødts prinsipprogram (2019) fremhever 'lik adgang til maktposisjoner uavhengig av kjønn' som en feministisk kampsak – noe som i Rødts kontekst kobles til strukturelle virkemidler, ikke bare formell likebehandling.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Vedtatt av landsmøtet 2019.",
+      "inconsistency": "Prinsipprogrammet sier ikke eksplisitt 'kvotering', men taler om strukturelle løsninger mot kjønnsmaktordenen.",
+      "note": "Kilde: roedt.no/fil/f60b95df... (Prinsipprogram vedtatt 2019)."
+    },
+    {
+      "claim": "Ingen primærkilde er funnet der Moxnes personlig har uttalt seg om positiv diskriminering, kvotering eller likebehandlingsprinsippet. Gapet er åpent for hans eksplisitte personlige posisjon.",
+      "stance": "unknown",
+      "evidenceType": "unknown",
+      "positionType": "unknown",
+      "confidence": "low",
+      "timePattern": "Gjennomgående i begge søkerunder.",
+      "inconsistency": "",
+      "note": "Til tross for søk spesifikt etter Moxnes' egne uttalelser om kvotering og likebehandling, er ingen slike funnet."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes personlig uttalt seg eksplisitt om kvotering, positiv diskriminering eller identitetsbasert særbehandling i intervjuer, kronikker eller på Stortinget?",
+    "Støtter Moxnes radikale kvoteringsordninger (som Rødt Bergen-programmet) på nasjonalt nivå, eller er dette kun lokalpartiets posisjon?",
+    "Skiller Moxnes mellom klassejustis og identitetsbasert særbehandling i sin politiske filosofi?"
+  ],
+  "citations": []
+}
