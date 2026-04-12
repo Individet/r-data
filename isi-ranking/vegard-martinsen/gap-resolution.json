@@ -1,0 +1,41 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "targets": [
+    {
+      "actorSlug": "vegard-martinsen",
+      "subdimensionId": "d1_4",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen primærkilder dokumenterer eksplisitte posisjoner på eutanasi, assistert selvmord eller selvbestemmelse ved livets slutt. Datagrunnlaget er utilstrekkelig for en meningsfull score."
+      ]
+    },
+    {
+      "actorSlug": "vegard-martinsen",
+      "subdimensionId": "d2_3",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen primærkilder dokumenterer eksplisitte posisjoner på akademisk frihet, politisk styring av forskning eller universitetsautonomi. Datagrunnlaget er utilstrekkelig."
+      ]
+    },
+    {
+      "actorSlug": "vegard-martinsen",
+      "subdimensionId": "d2_4",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen primærkilder adresserer statlig regulering av private plattformers innholdsmoderering, DSA eller avplattforming. At Gullstandard bruker YouTube og Spotify er pragmatisk praksis, ikke en eksplisitt politisk stillingtagen. Datagrunnlaget er utilstrekkelig."
+      ]
+    },
+    {
+      "actorSlug": "vegard-martinsen",
+      "subdimensionId": "d3_4",
+      "queryReasons": [
+        "Underdimensjonen mangler score.",
+        "Confidence er lav.",
+        "Ingen primærkilder dokumenterer eksplisitte posisjoner på prisregulering, statlig pengemakt, CBDC eller monetær kontroll. Datagrunnlaget er utilstrekkelig."
+      ]
+    }
+  ]
+}
