@@ -1,0 +1,79 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d4_4",
+  "subdimensionName": "Begrenset statsmakt",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har gjennom sitt lederskap i DLF (2002–2017) og virksomheten i foreningen Gullstandard (2018–) konsekvent og eksplisitt forfektet en minarkistisk statsmodell der statens eneste legitime oppgave er å beskytte borgernes frihet via politi, rettsapparat og militærvesen. Han argumenterer systematisk mot velferdsstaten, fullmaktslover, statlig ekspansjon og reguleringsregimer. Han kritiserer alle norske storpartier — uavhengig av farge — for å øke statens makt og omfang i praksis. Han påpeker at den opprinnelige Grunnloven begrenset beskatning til statens egne administrasjonsutgifter, og at dette prinsippet er brutt. Han er kritisk til statlig finansiering av akademia og presse som maktmidler, og til staten som kombinert regelgiver og markedsaktør. Posisjonen er ekstrem på skalaen — han ønsker en dramatisk reduksjon av statsmakten sammenlignet med enhver eksisterende vestlig stat — og er konsistent over et tiår og mer. Det finnes ingen evidens for at han noen gang har støttet fullmaktslover, nødrettsbestemmelser eller delegering av lovgivningsmyndighet. Profilen er entydig positiv for begrenset statsmakt (+2 på ISI-skalaen).",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Gullstandard (Martinsens forening) definerer eksplisitt sin politiske posisjon som laissez-faire-kapitalisme der 'statens oppgave kun er å beskytte den enkelte borgers frihet, og hvor alle andre oppgaver utføres av private.'",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent fra 2018 til 2026, stadfestet på alle sider av gullstandard.no.",
+      "inconsistency": "",
+      "note": "Dette er Martinsens primærplattform siden DLF ble nedlagt i 2017."
+    },
+    {
+      "claim": "I artikkelen 'Hvorfor laissez-faire?' (2020) skriver Martinsen at staten kun skal drive politi, rettsapparat og militært forsvar, at det ikke skal være reguleringer, konsesjons- eller løyveordninger, avgifter eller statlige støtteordninger, og at statens finansiering skal skje frivillig.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert 2020, i tråd med posisjoner han har hatt siden DLF-perioden (2002–2017).",
+      "inconsistency": "",
+      "note": "Direkte primærkilde fra gullstandard.no."
+    },
+    {
+      "claim": "Martinsen kritiserer i gullstandard.no-artikkel at alle de tre statsmaktene i dag reelt sett er samlet under én paraply, og at pressen nå i stor grad er statlig finansiert, og dermed fungerer som statens propagandaapparat fremfor å kontrollere makten.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Artikkel fra desember 2020, men dette er et gjennomgangstema i Martinsens forfatterskap.",
+      "inconsistency": "",
+      "note": "Impliserer sterk støtte til maktfordeling og frykt for statlig maktkonsentrasjon."
+    },
+    {
+      "claim": "Martinsen påpeker (gullstandard.no, side 2) at den opprinnelige Grunnloven begrenset beskatning til statens egne administrasjonsutgifter og ikke tillot beskatning til velferdsformål, overføringer og næringsstøtte — og at dette prinsippet er brutt av alle norske regjeringer.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Publisert på gullstandard.no, udatert men i tråd med mønsteret 2018–2026.",
+      "inconsistency": "",
+      "note": "Viser historisk grunnlovsforankring for posisjonen om begrenset beskatning/statsmakt."
+    },
+    {
+      "claim": "I artikkelen 'Statens legitime oppgave er å beskytte borgernes frihet. Dette er statens eneste legitime oppgave.' (gullstandard.no) avviser Martinsen at staten legitimt kan drive helsevesen, skole, kulturinstitusjoner, infrastruktur, pensjons- og trygdeordninger.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent gjennomgangstema i alle Martinsens tekster.",
+      "inconsistency": "",
+      "note": ""
+    },
+    {
+      "claim": "Martinsen støtter verken koronaloven (2020) eller fullmaktslover generelt — ingen uttalelser fra ham tilsier noe annet, og hans ideologiske posisjon utelukker kategorisk støtte til slik delegering av lovgivningsmyndighet fra Stortinget til regjeringen.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Implisert av konsekvent minarkistisk ideologi.",
+      "inconsistency": "Ingen direkte primær-uttalelse om koronaloven spesifikt ble funnet.",
+      "note": "Fraværet av støtte til fullmaktslover er implisert av hele ideologien, men det er ikke funnet en direkte kommentar fra Martinsen om koronaloven 2020."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Martinsen kommentert koronaloven (2020) eller pandemi-nødrettpolitikken direkte og eksplisitt?",
+    "Finnes det uttalelser fra Martinsen om spesifikke konstitusjonelle reformforslag eller grunnlovsendringer som han støtter eller avviser?"
+  ],
+  "citations": []
+}
