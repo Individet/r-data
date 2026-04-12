@@ -1,0 +1,69 @@
+{
+  "actorSlug": "vegard-martinsen",
+  "actorName": "Vegard Martinsen",
+  "subdimensionId": "d3_2",
+  "subdimensionName": "Næringsfrihet og regulering",
+  "harvestedAt": "2026-04-12",
+  "summary": "Vegard Martinsen har over mange år, gjennom artikler og podcaster på gullstandard.no og egne utgivelser, inntatt en konsekvent og eksplisitt posisjon til fordel for full næringsfrihet og mot statlig regulering av næringslivet. Han forfekter laissez-faire-kapitalisme, der næringslivet skal være fritt uten konsesjonsordninger, reguleringer, avgifter eller støtteordninger. Han kritiserer eksplisitt det norske reguleringsregimet som en «reguleringsjungel» som vanskeliggjør etablering og drift av bedrifter, særlig for mindre aktører. Han anser tariffavtaler og kommunale godkjenningsordninger for etablering som hindringer for fri konkurranse. Posisjonen er eksplisitt, konsistent over lang tid og dokumentert gjennom primærkilder.",
+  "stance": "positive",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Martinsen og Gullstandard forfekter laissez-faire-kapitalisme der det eksplisitt skal være 'ingen reguleringer av økonomien, ingen konsesjons- eller løyveordninger, ingen avgifter, ingen støtteordninger' – næringslivet skal være fullt fritt.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon dokumentert fra minst 2019 til 2026 på gullstandard.no.",
+      "inconsistency": "",
+      "note": "Hentet fra gullstandard.no/2020/08/03/hvorfor-laissez-faire/ – en av Martinsens egne artikler."
+    },
+    {
+      "claim": "Martinsen beskriver det norske markedet som 'gjennomregulert på alle bauger og kanter', noe som gjør det vanskelig å etablere og drive nye bedrifter, og mener reguleringsjungelen gir enorme fordeler til store aktører på bekostning av små.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjentatt i flere artikler på gullstandard.no, senest funnet i arkivsider fra 2022.",
+      "inconsistency": "",
+      "note": "Hentet fra gullstandard.no/author/vegard-martinsen/page/4/ – direkte sitat om norsk reguleringsvirkelighet."
+    },
+    {
+      "claim": "Martinsen fremhever at 'fri konkurranse innebærer at det ikke skal finnes statlige hindringer for etablering av nye konkurrerende virksomheter', og at en jungel av reguleringer reduserer konkurransen og hindrer gründere.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent formulering i flere tekster på gullstandard.no.",
+      "inconsistency": "",
+      "note": "Martinsen trekker frem konkrete eksempler, som motarbeidingen av Lidl-etablering i Norge via tariffkrav og kommunale godkjenninger, som illustrasjon på reguleringsproblemet."
+    },
+    {
+      "claim": "Martinsen støtter aktivt entreprenørers rett til å operere 'uten statlige hindringer', og viser sympati for gründere som møter byråkratiske og regulatoriske barrierer i oppstartsfasen.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Omtalt på gullstandard.no i redaksjonell anbefaling av boken 'Startup-helvete'.",
+      "inconsistency": "",
+      "note": "Uttalelsen 'entreprenører bør ha armslag' understreker den prinsipielle posisjonen om næringsfrihet."
+    },
+    {
+      "claim": "Martinsen hevder at 'alle statlige tvangsinngrep (skatter, avgifter, reguleringer, støtteordninger) har negative resultater på sikt', og bruker Venezuela som eksempel på hva økte skatter, ekspropriasjon og reguleringer fører til.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Gjennomgående argumentasjonsmønster i artikler og bøker fra 2001 frem til i dag.",
+      "inconsistency": "",
+      "note": "Hentet fra vegmar.wordpress.com – Martinsens egne hjemmeside med oppsummering av hans ideologiske posisjon."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Martinsen uttaler seg primært på et prinsipielt/ideologisk nivå – det er ikke funnet konkrete lovforslag eller stortingsinitiativ fra ham om spesifikke reguleringer som arbeidsmiljøloven eller sektorregler, ettersom han ikke har sittet i besluttende politiske organer etter 1993.",
+    "Det er ikke funnet eksplisitte uttalelser om kontraktsfrihet mellom arbeidsgiver og arbeidstaker i arbeidsrettslig forstand, selv om det ideologiske rammeverket klart impliserer støtte for frivillige kontrakter uten statlige minstekrav."
+  ],
+  "citations": []
+}
