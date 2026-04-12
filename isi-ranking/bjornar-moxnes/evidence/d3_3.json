@@ -1,0 +1,59 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d3_3",
+  "subdimensionName": "Handelsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har en konsistent og eksplisitt negativ profil på handelsfrihet vurdert fra ISI-perspektivet. Han er mot EØS-avtalen, men ikke av frihandelsgrunner – han ønsker å erstatte den med en 'balansert handelsavtale' med sterkere nasjonal kontroll. Han har aktivt argumentert mot 'dogmatisk frihandel', og omtalt frihandelsregimet som sårbarhetsskapende. Rødts partiprogram – som Moxnes i lang tid ledet og utformet – inneholder eksplisitt krav om styrket importvern for landbruk, reduksjon av EUs tollfrie kvoter, og nasjonal kontroll over energi og industri. Moxnes har selv uttalt at 'naiv tro på frihandel og markedsliberalisme' er et problem. Han har støttet EØS-motstand primært som nasjonal demokratikontroll, men kombinerer dette med proteksjonistiske standpunkter på landbruk, matberedskap og industripolitikk. Samlet sett representerer dette en aktiv og vedvarende motstand mot handelsfrihet som prinsipp.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "high",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Moxnes skrev i Dagsavisen (september 2020) at 'den dogmatiske frihandelen gjør ikke verden frisk igjen' og at frihandelsregimet skapt sårbare forsyningskjeder og utkonkurrert industribedrifter over hele verden. Han kritiserte frihandel som 'skrivebordssteori' og forsvarte nasjonal kontroll fremfor 'fri flyt og markedsmekanismer'.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2020, men representerer et konsistent mønster over tid.",
+      "inconsistency": "",
+      "note": "Primærkilde: kronikk av Moxnes selv i Dagsavisen 3. september 2020."
+    },
+    {
+      "claim": "Rødt, under Moxnes' lederskap, vedtok partiprogram (2019) som eksplisitt krever styrket importvern for norsk landbruk, reduksjon av EUs tollfrie kvoter og at Norge sier opp EØS-avtalen inkludert veterinæravtalen. Arbeidsprogrammet 2021–2025 krever å 'erstatte EØS-avtalen med en balansert handelsavtale som sikrer nasjonal kontroll'.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Programfestet og konsistent over minst to programperioder (2019–2025).",
+      "inconsistency": "Rødt ønsker handelsavtale med EU, ikke totalt handelsstopp – men formålet er nasjonal kontroll og importvern, ikke frihandel.",
+      "note": "Kilde: rodt.no/eu-og-eos, Rødts prinsipprogram 2019 (PDF), neitileu.no-gjennomgang av partiprogram."
+    },
+    {
+      "claim": "Moxnes uttalte til Nationen (april 2024) at 'det har vært ført en feilslått landbrukspolitikk over tid, og en naiv tro på frihandel og markedsliberalisme og at man bare kan basere seg på import', og at Norge må styrke selvforsyning og matberedskap fremfor å stole på import.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "2024 – viser at holdningen er stabil også etter at han trakk seg som partileder i 2023.",
+      "inconsistency": "",
+      "note": "Kilde: nationen.no, 'Moxnes har fått øynene opp for landbruket', april 2024."
+    },
+    {
+      "claim": "Moxnes fremmet og jublet over Stortingets vedtak om 'nabosjekk' av EU-regler (2026), og sa dette er 'en seier for folkestyret mot overstyringen fra EU' og marsjordre om at Norge ikke lenger skal ha automatisk vikeplikt for EU-regelverket. Dette er primært EØS-demokratiargument, men signaliserer strukturell motstand mot frihandelsregelverk diktert utenfra.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "2026, konsistent med langsiktig linje.",
+      "inconsistency": "Argumentet er delvis demokratisk snarere enn rent proteksjonistisk, men resulterer i støtte til nasjonal regulering fremfor åpen handel.",
+      "note": "Kilde: nettavisen.no, mars 2026."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes tatt eksplisitte standpunkter om toll på industrivarer utover landbruk?",
+    "Har han støttet eller motarbeidet spesifikke frihandelsavtaler (EFTA, CETA, TTIP) i voteringssammenheng på Stortinget?"
+  ],
+  "citations": []
+}
