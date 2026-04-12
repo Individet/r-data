@@ -1,0 +1,60 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d5_1",
+  "subdimensionName": "Religionsfrihet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes har ledet Rødt, et parti med en tydelig sekulær og livssynsnøytral linje: staten skal adskilles fra alle trossamfunn, og tros- og livssynssamfunn skal behandles på lik linje med andre frivillige organisasjoner. Rødt støtter individets rett til fritt å velge tro, men avviser statlig privilegering av én religion (særlig Den norske kirke) og ønsker republikk med klar atskillelse mellom stat og alle religioner. Disse posisjonene er konsistente med å fjerne statlig privilegering av religiøse tradisjoner, noe som er positivt for religionsfrihet i ISI-forstand. Rødt/Moxnes fremmer ikke regulering av religiøs praksis som sådan, men landsmøtet nektet å behandle forbud mot rituell omskjæring (2019), noe som implisitt tilsier ikke-inngripen i religiøs praksis. Det foreligger ingen direkte uttalelser fra Moxnes personlig om religiøs praksis og regulering, og profilen bygger i stor grad på Rødts partistandpunkter der han var leder frem til 2023. Totalt sett er bildet overveiende positivt for religionsfrihet, men med en ISI-relevant spenning: Rødt støtter krav om likebehandling av trossamfunn koblet til statsstøtte, noe som innebærer statlig kontroll via finansieringsvilkår.",
+  "stance": "mixed",
+  "positionType": "implicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt, ledet av Moxnes frem til 2023, programfester at 'retten til å velge sin egen tro er en grunnleggende demokratisk rett' og at det offentlige Norge skal være tros- og livssynsnøytralt. Partiet vil ha tydelig skille mellom stat og alle trossamfunn, inkludert innføring av republikk uten religionskobling.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent partiposisjon over flere programperioder (2021-programmert, bekreftet i NRK Partiguide 2021).",
+      "inconsistency": "",
+      "note": "Posisjonene er partiets, ikke direkte sitert fra Moxnes personlig, men han var partiets leder og fremste representant."
+    },
+    {
+      "claim": "Rødt vil at tros- og livssynssamfunn behandles på lik linje med andre frivillige organisasjoner som søker statsstøtte. Dette motvirker privilegering av én religiøs tradisjon (Den norske kirke), noe som er positivt for religionsfrihet.",
+      "stance": "positive",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon i partiprogrammer og på roedt.no.",
+      "inconsistency": "",
+      "note": "Konsekvensen er at ingen tradisjon særprivilegeres over andre, i tråd med ISI-kriteriet om likebehandling."
+    },
+    {
+      "claim": "Rødt støtter likebehandling av trossamfunn koblet til statsstøtteordninger, der trossamfunn må rapportere og oppfylle visse krav for å motta støtte. Dette innebærer implisitt statlig kontroll via finansieringsvilkår, noe som kan begrense trossamfunnenes autonomi.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Fremgår av Rødts generelle velferdsstatsorientering og av norsk trossamfunnslovgivning partiet ikke har motsatt seg.",
+      "inconsistency": "Spenning mellom likebehandlingsambisjon og statlig finansieringskontroll.",
+      "note": "Ikke like sterkt dokumentert som partiets livssynsnøytralitetsposisjon."
+    },
+    {
+      "claim": "Rødts landsmøte (2019) nektet å behandle forslag om forbud mot rituell omskjæring av guttebarn, hvilket er en implisitt ikke-inngripende posisjon overfor religiøs praksis.",
+      "stance": "positive",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "low",
+      "timePattern": "Enkelthendelse (2019 landsmøte).",
+      "inconsistency": "Kilden er et partipolitisk nettsted med klart standpunkt. Rødts begrunnelse for å ikke behandle forslaget er uklar – det kan skyldes taktiske hensyn snarere enn prinsipielt forsvar for religiøs praksis.",
+      "note": "Sekundærkilde (politikus.no). Ikke bekreftet av primærkilde fra Rødt."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes personlig uttalt seg eksplisitt om religionsfrihet eller regulering av religiøs praksis utover partiets offisielle linjer?",
+    "Hva er Rødts/Moxnes' holdning til krav koblet til statsstøtte for trossamfunn (f.eks. kjønnskvotering i styrer) sett opp mot trossamfunnenes indre autonomi?",
+    "Støtter Moxnes/Rødt noen form for forbud mot religiøse klesplagg i det offentlige rom?"
+  ],
+  "citations": []
+}
