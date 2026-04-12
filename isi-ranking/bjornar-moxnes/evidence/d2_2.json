@@ -1,0 +1,50 @@
+{
+  "actorSlug": "bjornar-moxnes",
+  "actorName": "Bjørnar Moxnes",
+  "subdimensionId": "d2_2",
+  "subdimensionName": "Pressefrihet og redaksjonell uavhengighet",
+  "harvestedAt": "2026-04-12",
+  "summary": "Bjørnar Moxnes og Rødt støtter konsekvent økt statlig mediefinansiering — både pressestøtte og et sterkt, offentlig finansiert NRK. Rødt vil 'gjenopprette NRK som en riksdekkende kultur- og mediebedrift som ikke er markedsstyrt', vil øke pressestøtten og utvide den til gratisaviser og nettidsskrifter. Fra ISI-perspektivet innebærer dette en aktiv tilslutning til ordninger som skaper medieavhengighet av staten, og som dermed strukturelt undergraver redaksjonell uavhengighet fra politiske myndigheter. Moxnes viser ingen tegn til bekymring for denne avhengighetsstrukturen, og det finnes ingen dokumenterte uttalelser fra ham om å begrense statens innflytelse i mediesektoren. Den negative scoren er ikke nødvendigvis motivert av ønske om statskontroll med innhold, men av at de politiske virkemidlene Moxnes støtter objektivt sett øker medias finansielle avhengighet av staten.",
+  "stance": "negative",
+  "positionType": "explicit",
+  "confidence": "medium",
+  "dataGap": false,
+  "findings": [
+    {
+      "claim": "Rødt, under Moxnes' ledelse, ønsker å 'gjenopprette NRK som en riksdekkende kultur- og mediebedrift som ikke er markedsstyrt', og vil øke pressestøtten samt utvide den til gratisaviser og tidsskrifter på nett.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "high",
+      "timePattern": "Konsistent posisjon i partiprogram 2017 og 2021–2025. Bekreftet i Rødts arbeidsprogram 2025–2029.",
+      "inconsistency": "",
+      "note": "Fra ISI-perspektivet medfører økt statlig finansiering og et ikke-markedsstyrt NRK at mediene strukturelt bindes til statens budsjettvedtak og prioriteringer, noe som svekker reell redaksjonell uavhengighet."
+    },
+    {
+      "claim": "Rødt ønsker sterkere regulering av medieeierkonsentrasjon, noe som innebærer ytterligere statlig innblanding i mediestrukturen.",
+      "stance": "negative",
+      "evidenceType": "primary",
+      "positionType": "explicit",
+      "confidence": "medium",
+      "timePattern": "Gjentatt i partiprogram for 2017 og 2021–2025.",
+      "inconsistency": "",
+      "note": "Regulering av eierkonsentrasjon kan argumenteres å beskytte mangfold, men fra NAP-perspektivet utgjør dette statlig tvang inn i private eierskapsforhold."
+    },
+    {
+      "claim": "Moxnes har ikke fremmet forslag om å begrense statlig finansiering av medier eller styrke armlengdes-avstand-prinsippet, og har ikke tatt til orde for at medieavhengighet av statsstøtte er et demokratisk problem.",
+      "stance": "negative",
+      "evidenceType": "secondary",
+      "positionType": "implicit",
+      "confidence": "medium",
+      "timePattern": "Ingen registrerte uttalelser som bryter med Rødts pro-mediestøtte-linje.",
+      "inconsistency": "Det finnes ingen eksplisitte uttalelser fra Moxnes personlig om å innskrenke statlig mediefinansiering.",
+      "note": "Fraværet av kritikk mot statlig medieavhengighet kombinert med konsistent støtte til økt mediestøtte styrker den negative vurderingen."
+    }
+  ],
+  "unresolvedQuestions": [
+    "Har Moxnes noen gang uttalt seg kritisk til faren for statlig påvirkning gjennom mediestøtteordninger?",
+    "Hva er Moxnes' og Rødts syn på armlengdes-avstand-prinsippet i praktisk mediepolitikk?",
+    "Finnes det uttalelser fra Moxnes personlig (ikke bare partiprogrammet) om NRK-finansieringsmodellen og redaksjonell uavhengighet?"
+  ],
+  "citations": []
+}
