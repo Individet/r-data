@@ -1,0 +1,115 @@
+{
+  "writerId": "lars-peder-nordbakken",
+  "registryHash": "0e60f8f3053c6991",
+  "templateVersion": 1,
+  "knownTexts": [
+    {
+      "title": "Notat med kritikk av kritikk",
+      "url": "https://www.liberaleren.no/2020/08/16/notat-med-kritikk-av-kritikk/",
+      "date": "2020-08-16",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Korleis ser framtidas liberalistiske program ut?",
+      "url": "https://www.liberaleren.no/2022/09/20/korleis-ser-framtidas-liberalistiske-program-ut/",
+      "date": "2022-09-20",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Ubehaget i kulturen",
+      "url": "https://www.liberaleren.no/2023/02/01/ubehaget-i-kulturen/",
+      "date": "2023-02-01",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Libertarianismen er død – lenge leve liberalismen",
+      "url": "https://www.liberaleren.no/2024/06/25/libertarianismen-er-dod-lenge-leve-liberalismen/",
+      "date": "2024-06-25",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Libertarianismen lever",
+      "url": "https://www.liberaleren.no/2024/08/02/libertarianismen-lever/",
+      "date": "2024-08-02",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Liberale tenkere: Lars Peder Nordbakken – relevante ideologiske røtter i Europa",
+      "url": "https://www.liberaleren.no/2024/09/05/liberale-tenkere-lars-peder-nordbakken-relevante-ideologiske-rotter-i-europa/",
+      "date": "2024-09-05",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "De fremste liberale tenkere og provokatører i vår tid – oppsummert",
+      "url": "https://www.liberaleren.no/2024/10/01/de-fremste-liberale-tenkere-og-provokatorer-i-var-tid-oppsummert/",
+      "date": "2024-10-01",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Godt år og fred til alle våre skribenter og lesere!",
+      "url": "https://www.liberaleren.no/2024/12/24/godt-ar-og-frida-til-alle-vare-skribenter-og-lesere/",
+      "date": "2024-12-24",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Bok og møte om Friedrick Hayek",
+      "url": "https://www.liberaleren.no/2025/01/22/bok-og-mote-om-friedrick-hayek/",
+      "date": "2025-01-22",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Vellykket Hayek-lansering",
+      "url": "https://www.liberaleren.no/2025/02/09/vellykket-hayek-lansering/",
+      "date": "2025-02-09",
+      "publication": "Lars Peder Nordbakken – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    }
+  ],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "lars-peder-nordbakken",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-lars-peder-nordbakken-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01WoNcqA4vo2wuTdX8zdhwHU\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-lars-peder-nordbakken-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01WoNcqA4vo2wuTdX8zdhwHU\"}"
+  },
+  "imagePath": null
+}

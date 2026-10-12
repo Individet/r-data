@@ -1,0 +1,133 @@
+{
+  "writerId": "bent-johan-mosfjell",
+  "registryHash": "33ea2a04d0cc1278",
+  "templateVersion": 1,
+  "knownTexts": [
+    {
+      "title": "E-stoffer er ikke farlige!",
+      "url": "https://www.liberaleren.no/2026/09/17/e-stoffer-er-ikke-farlige/",
+      "date": "2026-09-17",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Norges rikeste er ikke særlig rike",
+      "url": "https://www.liberaleren.no/2026/09/20/norges-rikeste-er-ikke-saerlig-rike/",
+      "date": "2026-09-20",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Det vi mister",
+      "url": "https://www.liberaleren.no/2026/09/21/det-vi-mister/",
+      "date": "2026-09-21",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Paracet-moralismen",
+      "url": "https://www.liberaleren.no/2026/09/22/paracet-moralismen/",
+      "date": "2026-09-22",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Skatten du ikke tenker på",
+      "url": "https://www.liberaleren.no/2026/09/28/skatten-du-ikke-tenker-pa/",
+      "date": "2026-09-28",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Trosfrihet krever avskaffelse av statsstøtte",
+      "url": "https://www.liberaleren.no/2026/09/29/trosfrihet-krever-avskaffelse-av-statsstotte/",
+      "date": "2026-09-29",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Ukvalifiserte lærere?",
+      "url": "https://www.liberaleren.no/2026/10/01/ukvalifiserte-laerere/",
+      "date": "2026-10-01",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Skjulte kostnader ved utdannelse",
+      "url": "https://www.liberaleren.no/2026/10/05/skjulte-kostnader-ved-utdannelse/",
+      "date": "2026-10-05",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Når kunnskap vinner over dumskap",
+      "url": "https://www.liberaleren.no/2026/10/06/nar-kunnskap-vinner-over-dumskap/",
+      "date": "2026-10-06",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Du må lese bøker",
+      "url": "https://www.liberaleren.no/2026/10/07/du-ma-lese-boker/",
+      "date": "2026-10-07",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Arbeidsplasser som forsvinner",
+      "url": "https://www.liberaleren.no/2026/10/08/arbeidsplasser-som-forsvinner/",
+      "date": "2026-10-08",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Offer for narkotikaFORBUDET",
+      "url": "https://www.liberaleren.no/2026/10/09/offer-for-narkotikaforbudet/",
+      "date": "2026-10-09",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    }
+  ],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "bent-johan-mosfjell",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-bent-johan-mosfjell-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0128PCQzQbRksHMV2iDPVMv6\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-bent-johan-mosfjell-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0128PCQzQbRksHMV2iDPVMv6\"}"
+  },
+  "imagePath": null
+}

@@ -1,0 +1,24 @@
+{
+  "writerId": "onar-am",
+  "registryHash": "330f332029dc3754",
+  "templateVersion": 1,
+  "knownTexts": [],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "onar-am",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-onar-am-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_017ygz7rBjjhBEzGBcWE6sB8\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-onar-am-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_017ygz7rBjjhBEzGBcWE6sB8\"}"
+  },
+  "imagePath": null
+}

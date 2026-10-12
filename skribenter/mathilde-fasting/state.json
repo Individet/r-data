@@ -1,0 +1,24 @@
+{
+  "writerId": "mathilde-fasting",
+  "registryHash": "d679ba864aebed88",
+  "templateVersion": 1,
+  "knownTexts": [],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "mathilde-fasting",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-mathilde-fasting-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01WWFJbpsVfQafijaTpeQfMT\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-mathilde-fasting-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01WWFJbpsVfQafijaTpeQfMT\"}"
+  },
+  "imagePath": null
+}

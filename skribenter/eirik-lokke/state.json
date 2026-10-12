@@ -1,0 +1,24 @@
+{
+  "writerId": "eirik-lokke",
+  "registryHash": "1af282d25b790a68",
+  "templateVersion": 1,
+  "knownTexts": [],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "eirik-lokke",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-eirik-lokke-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_015gbQ21yyEZGb9heRk5qtZC\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-eirik-lokke-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_015gbQ21yyEZGb9heRk5qtZC\"}"
+  },
+  "imagePath": null
+}

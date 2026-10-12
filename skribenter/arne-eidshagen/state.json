@@ -1,0 +1,133 @@
+{
+  "writerId": "arne-eidshagen",
+  "registryHash": "81faafdd8f5bf806",
+  "templateVersion": 1,
+  "knownTexts": [
+    {
+      "title": "Verdens handels-regime har blitt et spill",
+      "url": "https://www.liberaleren.no/2025/08/18/verdens-handels-regime-har-blitt-et-spill/",
+      "date": "2025-08-18",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Nid-stemme avlagt",
+      "url": "https://www.liberaleren.no/2025/08/19/nid-stemme-avlagt/",
+      "date": "2025-08-19",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Godt Joker-Nord-valg",
+      "url": "https://www.liberaleren.no/2025/08/30/godt-joker-nord-valg/",
+      "date": "2025-08-30",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Sexarbeider-konferanse på Island",
+      "url": "https://www.liberaleren.no/2025/11/01/sexarbeider-konferanse-pa-island/",
+      "date": "2025-11-01",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Borgerlønn, færre stønn?",
+      "url": "https://www.liberaleren.no/2025/11/03/borgerlonn-faerre-stonn/",
+      "date": "2025-11-03",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Råd for finanspolitikken",
+      "url": "https://www.liberaleren.no/2026/02/08/rad-for-finanspolitikken/",
+      "date": "2026-02-08",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "20 år siden Muhammed-karikaturene",
+      "url": "https://www.liberaleren.no/2026/03/25/20-ar-siden-muhammed-karikaturene/",
+      "date": "2026-03-25",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Politikken som autoimmunlidelse",
+      "url": "https://www.liberaleren.no/2026/03/29/politikken-som-autoimmunlidelse/",
+      "date": "2026-03-29",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Forsvundne oljepenger",
+      "url": "https://www.liberaleren.no/2026/06/04/forsvundne-oljepenger/",
+      "date": "2026-06-04",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Lommepenger fra Storebror",
+      "url": "https://www.liberaleren.no/2026/06/06/lommepenger-fra-storebror/",
+      "date": "2026-06-06",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Klimapolitikk – presentert av Wara",
+      "url": "https://www.liberaleren.no/2026/09/23/klimapolitikk-presentert-av-wara/",
+      "date": "2026-09-23",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Blylodd rundt kommuneøkonomien",
+      "url": "https://www.liberaleren.no/2026/09/26/blylodd-rundt-kommuneokonomien/",
+      "date": "2026-09-26",
+      "publication": "Arne Eidshagen – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    }
+  ],
+  "knownEvents": [],
+  "lastDecision": {
+    "writerId": "arne-eidshagen",
+    "action": "skip",
+    "reasons": [
+      "ingen eksisterende profil",
+      "skriving feilet: Batch-resultat feilet for skribent-arne-eidshagen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0161NvMn8sqVfBf3s9ZHb2r7\"} — prøves igjen neste kjøring"
+    ]
+  },
+  "pendingFull": {
+    "reasons": [
+      "ingen eksisterende profil"
+    ],
+    "events": [],
+    "failedAttempts": 1,
+    "lastError": "skriving feilet: Batch-resultat feilet for skribent-arne-eidshagen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0161NvMn8sqVfBf3s9ZHb2r7\"}"
+  },
+  "imagePath": null
+}
