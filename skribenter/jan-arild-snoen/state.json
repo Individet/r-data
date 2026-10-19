@@ -2,23 +2,225 @@
   "writerId": "jan-arild-snoen",
   "registryHash": "4027a9b622369f19",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Kong Carl: En uautorisert biografi om Carl I. Hagen",
+      "date": "2001",
+      "publication": "Kagge Forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Åpen verden – et forsvar for globaliseringen",
+      "date": "2004",
+      "publication": "Civita (medforfatter)",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trump-sjokket: Hvordan kunne han vinne? Kan han vinne igjen?",
+      "date": "2020",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den nye kalde krigen: USA mot Kina",
+      "date": "2021",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Legaliser! Nå! Kampen om narkotikapolitikken",
+      "date": "2022",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Europa uten USA? Antiamerikanismen og dens følger",
+      "date": "2023",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trump og fascismen",
+      "date": "2024",
+      "publication": "Dreyer",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "De sender også de beste",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/de-sender-ogsa-de-beste",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den borgerlige illusjonen",
+      "publication": "Dreyer / omtalt på SNOEN",
+      "kind": "bok",
+      "url": "https://snoen.substack.com/p/den-borgerlige-illusjonen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den rotløse globalisten",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/den-rotlse-globalisten",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ekte nordmenn drikker øl!",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/ekte-nordmenn-drikker-l",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "En åpen og inkluderende nasjonalisme",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/en-apen-og-inkluderende-nasjonalisme",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Folket og innvandringen",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/flyktninger-innvandring-norge/folket-og-innvandringen/437533",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frihet gjennom styrke",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/frihet-gjennom-styrke",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Globaliseringen er langt fra død",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/fra-papirutgaven-globalisering-handel/globaliseringen-er-langt-fra-dod/463826",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Heller kommunist enn MAGA!",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/heller-kommunist-enn-maga",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hva skjer når de liberale blir intolerante?",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/autoritarisme-liberalisme-politisk-toleranse/hva-skjer-nar-de-liberale-blir-intolerante/518653",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Innvandrerlandet Canada",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/innvandrerlandet-canada",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kan USA roes ned?",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/kan-usa-roes-ned",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Om Trumps halvhjertede kuppforsøk",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/om-trumps-halvhjertede-kuppforsk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ran på høylys dag",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/ran-pa-hylys-dag",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Sandra Borch bør ut av politikken",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/sandra-borch-br-ut-av-politikken",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trump: Putin er en taper",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/trump-putin-er-en-taper",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Vi trenger ikke gi ekstremister 12 minutter av NRKs beste sendetid",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ynkelige mannemenn som gjemmer seg bak facebookgruppen sin. Skjerp dere, gutter!",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/Xww2xb/ynkelige-mannemenn-som-gjemmer-seg-bak-facebookgruppen-sin-skjerp-dere-gutter-jan-arild-snoen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ytre høyre vinner ikke",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/vmBxvm/ytre-hoeyre-vinner-ikke-jan-arild-snoen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "jan-arild-snoen",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-jan-arild-snoen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01FrvjUD1EP2C7oaZRdBALAC\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-jan-arild-snoen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01FrvjUD1EP2C7oaZRdBALAC\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": "jan-arild-snoen.jpg",
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

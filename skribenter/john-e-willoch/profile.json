@@ -1,0 +1,89 @@
+{
+  "name": "John E. Willoch",
+  "tagline": "Liberalist, investor og pådriver for «nullskatt» i Liberalistene",
+  "born": null,
+  "died": null,
+  "image": null,
+  "platforms": [],
+  "links": [
+    {
+      "type": "intervju",
+      "url": "https://www.podpage.com/liberaleren-podcast/214-john-willoch-nullskatt-er-losningen-for/",
+      "label": "Liberaleren Podcast #214: John Willoch – Nullskatt er løsningen for fremtiden!"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.liberalistene.org/nyheter/null-skatt-pa-lonn",
+      "label": "Liberalistene: Null skatt på lønn (forslag utarbeidet av Willoch)"
+    },
+    {
+      "type": "annet",
+      "url": "https://e24.no/naeringsliv/i/o6ozJ7/liberalistene-faar-en-halv-million-i-pengegave-fra-bahamas",
+      "label": "E24: Liberalistene får en halv million i pengegave fra Bahamas"
+    },
+    {
+      "type": "annet",
+      "url": "https://lokalhistoriewiki.no/index.php?title=Liberalistene",
+      "label": "Lokalhistoriewiki: Liberalistene (parti-historikk, nevner Willoch)"
+    }
+  ],
+  "keyFacts": [
+    "Fullt navn er John Eystein Willoch.",
+    "Er medlem av og sentral bidragsyter til partiet Liberalistene, med særlig tilknytning til Liberalistene Oslo.",
+    "Omtales som investor/tidligere megler og er bosatt i Nassau på Bahamas.",
+    "Sto i hovedsak bak og bearbeidet Liberalistenes forslag om å fjerne skatt på lønn/inntekt, lagt frem i 2021.",
+    "Donerte betydelige pengesummer (rapportert rundt en halv million kroner) til Liberalistene Oslo under valgkampen i 2021.",
+    "Har skrevet flere innlegg for nettavisen Liberaleren (liberaleren.no), blant annet om libertarianisme og partipolitikk.",
+    "Var gjest i Liberaleren Podcast episode 214 (september 2021) for å presentere nullskatt-visjonen.",
+    "Skal ikke forveksles med tidligere statsminister Kåre Willoch."
+  ],
+  "freedomContributions": [
+    "Utarbeidet og la frem Liberalistenes konkrete forslag om å fjerne inntektsskatten («nullskatt») samtidig som velferden søkes opprettholdt gjennom alternativ finansiering – et direkte forsøk på å redusere statens krav på borgernes inntekt og arbeid.",
+    "Finansierte Liberalistene Oslos valgkamp i 2021 med egne midler, og bidro dermed økonomisk til å fremme et parti som argumenterer for en minimal stat og sterkere individuell selvråderett.",
+    "Har som skribent på Liberaleren tatt til orde for libertarianske posisjoner, blant annet ved å diskutere amerikansk libertariansk (rothbardiansk) tenkning opp mot norsk politikk.",
+    "Stilte opp offentlig i Liberaleren Podcast for å argumentere for at avskaffelse av inntektsskatt vil gi enkeltmennesket større økonomisk frihet og kontroll over egen inntekt."
+  ],
+  "themes": [
+    "skattepolitikk",
+    "nullskatt / avskaffelse av inntektsskatt",
+    "libertarianisme",
+    "minimal stat",
+    "økonomisk frihet",
+    "velferdsstatskritikk",
+    "partipolitikk i Liberalistene"
+  ],
+  "texts": [
+    {
+      "title": "Rapport fra et kvantesprang i tid og holdninger",
+      "date": "2024-07-02",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/07/02/rapport-fra-et-kvantesprang-i-tid-og-holdninger/",
+      "foundBy": "research"
+    },
+    {
+      "title": "FpU-dominans hos FrP",
+      "date": "2008-09-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2008/09/16/fpu-dominans-hos-frp/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nei, velferdsstaten går ikke til helvete",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Null skatt på lønn – Liberalistenes forslag om å fjerne inntektsskatten",
+      "date": "2021-08-05",
+      "publication": "Liberalistene",
+      "kind": "rapport",
+      "url": "https://www.liberalistene.org/nyheter/null-skatt-pa-lonn",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.385Z"
+}

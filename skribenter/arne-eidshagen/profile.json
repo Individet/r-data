@@ -1,0 +1,409 @@
+{
+  "name": "Arne Werner Eidshagen",
+  "tagline": "Skribent i Liberaleren, liberalist og tidligere nestleder i partiet Liberalistene",
+  "born": 1967,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "podcast",
+      "url": "https://sidelinja.transistor.fm/people/arne-eidshagen",
+      "label": "Sidelinja (podkast, vert)"
+    }
+  ],
+  "links": [
+    {
+      "type": "forfatterside",
+      "url": "https://www.liberaleren.no/author/eidshagen/",
+      "label": "Forfatterside hos Liberaleren"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.vg.no/spesial/2023/valgomat/kandidater/103208731/",
+      "label": "VGs valgomat 2023 – kandidatprofil"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.altinget.no/person/arne-w-eidshagen",
+      "label": "Altinget – personprofil"
+    },
+    {
+      "type": "annet",
+      "url": "https://sidelinja.transistor.fm/people",
+      "label": "Sidelinja – oversikt over skapere og gjester"
+    }
+  ],
+  "keyFacts": [
+    "Fullt navn Arne Werner Eidshagen, født 1967, bosatt i Oslo.",
+    "Utdannet siviløkonom fra Handelshøyskolen (BI).",
+    "Arbeider som seniorrådgiver i Statistisk sentralbyrå (SSB).",
+    "Har også studert sanskrit ved siden av yrkeskarrieren.",
+    "Har vært aktiv i partiet Liberalistene, blant annet i programkomiteen og som nestleder.",
+    "Stilte som Liberalistenes kandidat ved kommunevalget i Oslo i 2023.",
+    "Fast skribent i nettavisen Liberaleren siden minst 2023, med jevnlige kommentarer om finanspolitikk, oljefondet, ytringsfrihet og liberalisme.",
+    "Medvirker som vert i podcasten Sidelinja sammen med blant andre Vegard Nøtnæs og Trond Sørensen.",
+    "Har fulgt og kommentert Liberalistenes vedtak om mulig nedleggelse og partiets videre skjebne i 2025."
+  ],
+  "freedomContributions": [
+    "Skriver jevnlig for Liberaleren om statens størrelse, oljepengebruk og finanspolitikk, og argumenterer gjennomgående for mindre statlig inngripen i økonomien, blant annet i tekstene «Oljepengebruk er OK», «Skatt, oljepenger – en slags syntese» og «Blylodd rundt kommuneøkonomien».",
+    "Har forsvart ytringsfriheten offentlig, blant annet i en markering av 20-årsdagen for Muhammed-karikaturene og i teksten «Ytringsfrihet i ironiens skygge».",
+    "Har tatt til orde for liberalisering av sexarbeid og kritisert den nordiske sexkjøpsmodellen, med flere artikler om temaet, inkludert dekning av en sexarbeider-konferanse på Island.",
+    "Har kritisert statlig næringsengasjement og særordninger, blant annet gjennom å støtte fagøkonomers krav om å legge ned klimainvesteringsfondet Nysnø og ved å argumentere for å avvikle Oljefondets Etikkråd.",
+    "Protesterte offentlig mot norsk valglovs praksis overfor mindre partier ved å avgi en symbolsk «nidstemme» i 2025, som en konkret aksjon for et mer rettferdig valgsystem for nye partier.",
+    "Har gjennom en årrekke dokumentert og kommentert Liberalistenes arbeid som eksplisitt frihetsorientert parti, som styremedlem/nestleder, programkomité-medlem og kandidat.",
+    "Anmeldte Johan Norbergs bok «Peak Human» og fremhevet hvordan liberale idealer har ligget til grunn for sivilisasjoners oppblomstring historisk."
+  ],
+  "themes": [
+    "Finanspolitikk og oljepengebruk",
+    "Oljefondet og statlig formuesforvaltning",
+    "Ytringsfrihet",
+    "Liberalistisk ideologi og partipolitikk",
+    "Innvandrings- og asylpolitikk",
+    "Sexarbeid og sexkjøpslovgivning",
+    "Amerikansk politikk og internasjonal handel",
+    "Valgordning og demokratiske spilleregler"
+  ],
+  "texts": [
+    {
+      "title": "Liberalistene – ut med et smell!",
+      "date": "2025-04-10",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/04/10/liberalistene-ut-med-et-smell/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Gravøl uten grav",
+      "date": "2025-06-04",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Voldsmonopolet",
+      "date": "2025-04-18",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "foundBy": "research"
+    },
+    {
+      "title": "Liberalistenes siste program",
+      "date": "2025-04-08",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "10 ting jeg lærte på Handelshøyskolen",
+      "date": "2025-03-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Gjenværende privat produkt",
+      "date": "2025-03-27",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kaospilot i USAs Cockpit",
+      "date": "2025-03-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Når vi ikke kan stole på USA",
+      "date": "2025-02-24",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Finanspolitikkutvalget – gode forslag",
+      "date": "2025-02-19",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Trump-toll – en kikk på driftsbalansen (EU og US)",
+      "date": "2025-02-13",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2025/02/13/trump-toll-en-kikk-pa-driftsbalansen-eu-og-us/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fantes den norske gullalderen?",
+      "date": "2025-02-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ny-wokeismen",
+      "date": "2025-01-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Gi din nid-stemme",
+      "date": "2025-08-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvor blir det av penga?",
+      "date": "2025-08-13",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Toppen er nå!",
+      "date": "2025-07-19",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Prøvelsesplikten og ruspolitikken",
+      "date": "2025-07-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva er galt med Norge?",
+      "date": "2025-07-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Etikkrådet bør nedlegges",
+      "date": "2025-07-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Bokanmeldelse: Peak Human",
+      "date": "2025-07-01",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "foundBy": "research"
+    },
+    {
+      "title": "IMF: Norge rustet for handelskrig",
+      "date": "2025-06-27",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Asylparadokset",
+      "date": "2025-06-20",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Barnepikestaten",
+      "date": "2025-06-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ultraliberal – grovkornet NRK-utenriksdekning",
+      "date": "2025-06-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Sexarbeid-liberalisering på Island?",
+      "date": "2025-08-06",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ideologier og semantikk",
+      "date": "2024-11-14",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Amerikansk polarisering gir europeisk intellektuell latskap",
+      "date": "2024-11-12",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Donald Trump vant",
+      "date": "2024-11-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Norge svakest i Norden på økonomisk frihet",
+      "date": "2024-11-11",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/11/11/norge-svakest-i-norden-pa-okonomisk-frihet/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Statsbudsjettet: Vedums overflødighetshorn",
+      "date": "2024-10-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ytringsfrihet i ironiens skygge",
+      "date": "2024-09-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Er Oljefondet en luftspeiling?",
+      "date": "2024-08-17",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/08/17/er-oljefondet-en-luftspeiling/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ny perspektivmelding",
+      "date": "2024-08-05",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/08/05/ny-perspektivmelding/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Innvandringens velsignelse (forbannelse)? Stryk ut det som ikke passer",
+      "date": "2024-12-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/12/11/innvandringens-velsignelse-forbannelse-stryk-ut-det-som-ikke-passer/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Surpomper som hater hverandre",
+      "date": "2024-10-02",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/10/02/surpomper-som-hater-hverandre/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den anarkistiske bankier",
+      "date": "2023-12-23",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/12/23/den-anarkistiske-bankier/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Smaken av frihet",
+      "date": "2023-09-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/09/27/smaken-av-frihet/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvem trenger bortforklaringer?",
+      "date": "2024-06-12",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvorfor er vi ikke rikere?",
+      "date": "2024-06-10",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva nå, Liberalistene?",
+      "date": "2024-06-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Gi Oljefondet til Ukraina?",
+      "date": "2024-06-07",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Oljepengebruk – følsomhetsanalyse",
+      "date": "2024-06-05",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/06/05/oljepengebruk-folsomhetsanalyse/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Oljepengebruk er OK",
+      "date": "2024-05-30",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fagøkonomer følger Lib: «legg ned Nysnø»",
+      "date": "2024-05-29",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "La ikke-jurister være eiere av advokatkontorer",
+      "date": "2024-05-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Skatt, oljepenger – en slags syntese",
+      "date": "2024-05-25",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Engi maðr skal atför at öðrum gera",
+      "date": "2024-05-23",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Filisterne skriver valglov",
+      "date": "2024-05-13",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.384Z"
+}

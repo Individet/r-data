@@ -2,23 +2,98 @@
   "writerId": "trygve-j-b-hoff",
   "registryHash": "6d1aee2d93e467d6",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Økonomisk kalkulasjon i socialistiske samfund",
+      "date": "1938",
+      "publication": "Aschehoug (doktoravhandling, Universitetet i Oslo)",
+      "kind": "akademisk",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2007011600043",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trygve Hoff's Appeal to Ragnar Frisch: Four Letters from 1941 (brevveksling, oversatt av Hannes H. Gissurarson)",
+      "date": "1941 (publisert 2024)",
+      "publication": "Econ Journal Watch",
+      "kind": "annet",
+      "url": "https://econjwatch.org/File+download/1304/HoffFrischMar2024.pdf",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fred og fremtid: liberokratiets vei",
+      "date": "1945",
+      "publication": "Aschehoug",
+      "kind": "bok",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2007062600090",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Västerländsk frihet eller asiatiskt tvång",
+      "date": "1946",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Why We Take the Trouble",
+      "date": "1946",
+      "kind": "annet",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Economic Calculation in the Socialist Society (engelsk oversettelse)",
+      "date": "1949",
+      "publication": "William Hodge & Company / senere Mises Institute",
+      "kind": "bok",
+      "url": "https://mises.org/library/book/economic-calculation-socialist-society",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "La socialisation en Norvège",
+      "date": "1953",
+      "kind": "annet",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Snigende socialisering eller snigende liberalisering",
+      "date": "1955",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Tanker og idéer",
+      "date": "1975",
+      "publication": "Aschehoug",
+      "kind": "bok",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2013032208066",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ny kulturpolitikk: frå ord til handling (med Lars Hauge)",
+      "date": "1978",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "trygve-j-b-hoff",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-trygve-j-b-hoff-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01CvT56XZMyuSPhBLd6MaAgN\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-trygve-j-b-hoff-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01CvT56XZMyuSPhBLd6MaAgN\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": "trygve-j-b-hoff.png",
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

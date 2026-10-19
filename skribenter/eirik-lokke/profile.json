@@ -1,0 +1,352 @@
+{
+  "name": "Eirik Løkke",
+  "tagline": "Rådgiver i Civita og programleder for podkasten «Liberal halvtime»",
+  "born": null,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "x",
+      "url": "https://twitter.com/eiriklokke",
+      "label": "Eirik Løkke på X"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/elokke/",
+      "label": "Eirik Løkke på Facebook"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/eiriklokke/",
+      "label": "Eirik Løkke på Instagram"
+    },
+    {
+      "type": "podcast",
+      "url": "https://podcasts.apple.com/no/podcast/liberal-halvtime/id1341713186",
+      "label": "Liberal halvtime (Civita-podkast)"
+    },
+    {
+      "type": "hjemmeside",
+      "url": "http://eiriklokke.com",
+      "label": "eiriklokke.com"
+    }
+  ],
+  "links": [
+    {
+      "type": "forfatterside",
+      "url": "https://civita.no/person/eirik-lokke/",
+      "label": "Forfatterside hos Civita"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://civita.no/author/eirik/",
+      "label": "Artikkelarkiv hos Civita"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://agendamagasin.no/forfatter/eirik-loekke/",
+      "label": "Forfatterside hos Agenda Magasin"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.altinget.no/person/eirik-loekke",
+      "label": "Profil hos Altinget"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.aftenposten.no/av/eirik-loekke",
+      "label": "Forfatterside hos Aftenposten"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikidata.org/wiki/Q64279416",
+      "label": "Wikidata-oppføring"
+    }
+  ],
+  "keyFacts": [
+    "Utdannet ved Universitetet i Bergen med master i historie (2006), delfag jus i EMK-rett (2005) og bachelor i sammenlignende politikk/statsvitenskap (2003).",
+    "Født i Stavanger, bosatt i Oslo.",
+    "Jobber som rådgiver i den liberale tankesmien Civita, med USA, demokrati og internasjonal politikk som hovedfelt.",
+    "Vert for Civitas ukentlige podkast «Liberal halvtime», som han leder sammen med Mathilde Fasting.",
+    "Har tidligere jobbet som digital rådgiver i UNICEF Norge og som kampanjerådgiver i Høyre.",
+    "Forfatter av boken «Personvern – etter Snowden. Privatliv i det digitale samfunn» (Civita, 2016).",
+    "Tidligere leder for Studentersamfunnet i Bergen og samfunnsredaktør for Studentradioen i Bergen.",
+    "Sitter i redaksjonsrådet i Minerva.",
+    "Varamedlem av Personvernnemnda.",
+    "Sitter i styret i NORAM – Norge-Amerika-foreningen og i Board of Trustees i Oslosenteret.",
+    "Omtalt i mediene som en av Norges fremste kommentatorer på amerikansk politikk, særlig under Donald Trumps presidentperioder."
+  ],
+  "freedomContributions": [
+    "Skrev boken «Personvern – etter Snowden» (2016), som argumenterer for sterkere vern av den enkeltes privatliv mot både statlig overvåking og kommersiell datainnsamling i den digitale tidsalderen.",
+    "Forsvarer ytringsfrihet i flere kronikker og artikler på civita.no, blant annet med kritikk av selvsensur og cancel-kultur, inkludert et forsvar for forfatteren J.K. Rowling mot forsøk på å fortie hennes synspunkter.",
+    "Advarer mot demokratisk tilbakegang og autoritær maktkonsentrasjon, blant annet i et Civita-notat om hvordan Viktor Orbáns Ungarn har svekket rettsstaten og folkestyret.",
+    "Har kritisert Donald Trumps undergraving av demokratiske institusjoner, rettsstaten og ytringsfriheten i en rekke kronikker og kommentarer i Aftenposten og på civita.no.",
+    "Argumenterer i artikkelen «Frihet og forbud – et liberalt perspektiv» for at innskrenkninger av den enkeltes frihet må være unntaket og kreve eksplisitt begrunnelse, ikke normen.",
+    "Tar i «Libertarianismen er død, lenge leve liberalismen» stilling i den liberale idédebatten om forholdet mellom individuell frihet og statens rolle.",
+    "Forsvarer globalisering og frihandel som et gode for fattige arbeidere i utviklingsland, mot påstander om at internasjonal handel fører til slavelignende arbeidsforhold.",
+    "Har tatt til orde for å kutte statlige støtteordninger som sykelønn, med argumentet om at omfanget undergraver både offentlige finanser og den enkeltes egenansvar.",
+    "Som programleder for «Liberal halvtime» formidler han ukentlig liberale idéer om individuell frihet, markedsøkonomi og demokrati til et bredt norsk publikum."
+  ],
+  "themes": [
+    "USA og amerikansk politikk",
+    "Demokrati og rettsstat",
+    "Ytringsfrihet",
+    "Personvern og digital overvåking",
+    "Liberalisme og politisk filosofi",
+    "Populisme og autoritære strømninger",
+    "Internasjonal politikk og geopolitikk",
+    "Norsk politikk og partidemokrati"
+  ],
+  "texts": [
+    {
+      "title": "Ungarn: Kunsten å undergrave demokratiet",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "STORTINGET 2025–2029 – Hvem skal styre landet?",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "STORTINGET 2021–2025: Hvem skal styre landet?",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "Civita-notat: Velgerinnflytelse, nominasjonsprosesser og valg",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "The US at a Crossroads",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva er KrFUs politiske prosjekt?",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "MAGA-bevegelsens «sado-konservatisme»",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Folket har rett, bortsett fra når det tar feil – tanker rundt Donald Trumps andre valgseier",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Norge kommer ikke utenom Trump",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den instinktive fascisten Trump",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Donald Trump og ytringsfrihet",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Krenkelser siviliserer",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet/krenkelser-siviliserer/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ytringsfrihet er løsningen, ikke problemet",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet/ytringsfrihet-er-losningen-ikke-problemet/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ytringsfrihet: Grensen ingen kan definere",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet-grensen-ingen-kan-definere/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Et forsvar for J.K. Rowling",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frihet og forbud – et liberalt perspektiv",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/frihet-og-forbud-et-liberalt-perspektiv/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Libertarianismen er død, lenge leve liberalismen",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/libertarianismen-er-dod-lenge-leve-liberalismen/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fred skapes gjennom styrke",
+      "publication": "Agenda Magasin",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Globaliseringens velsignelser",
+      "publication": "Bergens Tidende",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Uklart om tv-reklame",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nærsynt fra FAFO",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "I Marte Michelets verden",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Feil om kommunesammenslåing",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tulleliste fra Regjeringen",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "300: Dydsetikk i Hollywood-form",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Adjø 2023",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Adjø velferdsstat?",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "All politikk er lokal",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Anne Applebaum on the future of the liberal world order",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Applebaum, Anne: Twilight of Democracy – The Seductive Lure of Authoritarianism (bokomtale)",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Arven etter Angela Merkel",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Mannen mot systemet",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/mannen-mot-systemet/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fire måter internett brukes til å undergrave demokratiet",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Med valget av Donald Trump kan vi ikke lenger ta det liberale demokratiet som en selvfølge",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Det er urovekkende å se at Donald Trump aktivt undergraver selve demokratiet",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "ACTIS' lemfeldige omgang med fakta",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvordan skal Europa håndtere en post-amerikansk verden?",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kutt i sykelønn er overmodent",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Personvern – etter Snowden. Privatliv i det digitale samfunn",
+      "date": "2016",
+      "publication": "Civita forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Klimautfordringen kan mestres (redaktør)",
+      "date": "2008",
+      "publication": "Unge Høyres Landsforbund",
+      "kind": "bok",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.384Z"
+}

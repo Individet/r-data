@@ -4,6 +4,392 @@
   "templateVersion": 1,
   "knownTexts": [
     {
+      "title": "Smaken av frihet",
+      "date": "2023-09-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/09/27/smaken-av-frihet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den anarkistiske bankier",
+      "date": "2023-12-23",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/12/23/den-anarkistiske-bankier/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Filisterne skriver valglov",
+      "date": "2024-05-13",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Engi maðr skal atför at öðrum gera",
+      "date": "2024-05-23",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Skatt, oljepenger – en slags syntese",
+      "date": "2024-05-25",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "La ikke-jurister være eiere av advokatkontorer",
+      "date": "2024-05-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fagøkonomer følger Lib: «legg ned Nysnø»",
+      "date": "2024-05-29",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Oljepengebruk er OK",
+      "date": "2024-05-30",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Oljepengebruk – følsomhetsanalyse",
+      "date": "2024-06-05",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/06/05/oljepengebruk-folsomhetsanalyse/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Gi Oljefondet til Ukraina?",
+      "date": "2024-06-07",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hva nå, Liberalistene?",
+      "date": "2024-06-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hvorfor er vi ikke rikere?",
+      "date": "2024-06-10",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hvem trenger bortforklaringer?",
+      "date": "2024-06-12",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ny perspektivmelding",
+      "date": "2024-08-05",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/08/05/ny-perspektivmelding/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Er Oljefondet en luftspeiling?",
+      "date": "2024-08-17",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/08/17/er-oljefondet-en-luftspeiling/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ytringsfrihet i ironiens skygge",
+      "date": "2024-09-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Surpomper som hater hverandre",
+      "date": "2024-10-02",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/10/02/surpomper-som-hater-hverandre/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Statsbudsjettet: Vedums overflødighetshorn",
+      "date": "2024-10-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Donald Trump vant",
+      "date": "2024-11-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Norge svakest i Norden på økonomisk frihet",
+      "date": "2024-11-11",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2024/11/11/norge-svakest-i-norden-pa-okonomisk-frihet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Amerikansk polarisering gir europeisk intellektuell latskap",
+      "date": "2024-11-12",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ideologier og semantikk",
+      "date": "2024-11-14",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Innvandringens velsignelse (forbannelse)? Stryk ut det som ikke passer",
+      "date": "2024-12-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/12/11/innvandringens-velsignelse-forbannelse-stryk-ut-det-som-ikke-passer/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ny-wokeismen",
+      "date": "2025-01-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fantes den norske gullalderen?",
+      "date": "2025-02-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trump-toll – en kikk på driftsbalansen (EU og US)",
+      "date": "2025-02-13",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2025/02/13/trump-toll-en-kikk-pa-driftsbalansen-eu-og-us/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Finanspolitikkutvalget – gode forslag",
+      "date": "2025-02-19",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Når vi ikke kan stole på USA",
+      "date": "2025-02-24",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kaospilot i USAs Cockpit",
+      "date": "2025-03-09",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Gjenværende privat produkt",
+      "date": "2025-03-27",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "10 ting jeg lærte på Handelshøyskolen",
+      "date": "2025-03-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Liberalistenes siste program",
+      "date": "2025-04-08",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Liberalistene – ut med et smell!",
+      "date": "2025-04-10",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/04/10/liberalistene-ut-med-et-smell/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Voldsmonopolet",
+      "date": "2025-04-18",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Gravøl uten grav",
+      "date": "2025-06-04",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ultraliberal – grovkornet NRK-utenriksdekning",
+      "date": "2025-06-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Barnepikestaten",
+      "date": "2025-06-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Asylparadokset",
+      "date": "2025-06-20",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "IMF: Norge rustet for handelskrig",
+      "date": "2025-06-27",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Bokanmeldelse: Peak Human",
+      "date": "2025-07-01",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Etikkrådet bør nedlegges",
+      "date": "2025-07-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hva er galt med Norge?",
+      "date": "2025-07-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Prøvelsesplikten og ruspolitikken",
+      "date": "2025-07-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Toppen er nå!",
+      "date": "2025-07-19",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Sexarbeid-liberalisering på Island?",
+      "date": "2025-08-06",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hvor blir det av penga?",
+      "date": "2025-08-13",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Gi din nid-stemme",
+      "date": "2025-08-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
       "title": "Verdens handels-regime har blitt et spill",
       "url": "https://www.liberaleren.no/2025/08/18/verdens-handels-regime-har-blitt-et-spill/",
       "date": "2025-08-18",
@@ -115,19 +501,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "arne-eidshagen",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-arne-eidshagen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0161NvMn8sqVfBf3s9ZHb2r7\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-arne-eidshagen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0161NvMn8sqVfBf3s9ZHb2r7\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

@@ -1,0 +1,154 @@
+{
+  "name": "Vegard Martinsen",
+  "tagline": "Objektivist, forfatter og podkastvert i Gullstandard; tidligere partileder i Det Liberale Folkepartiet",
+  "born": 1955,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "blogg",
+      "url": "https://vegmar.wordpress.com/",
+      "label": "Vegmar – personlig blogg"
+    },
+    {
+      "type": "podcast",
+      "url": "https://creators.spotify.com/pod/profile/gullstandard/",
+      "label": "Vegard og Magnus (podkast)"
+    },
+    {
+      "type": "hjemmeside",
+      "url": "https://vegardmartinsen.com",
+      "label": "Personlig hjemmeside"
+    },
+    {
+      "type": "hjemmeside",
+      "url": "http://filosofi.no/",
+      "label": "Filosofi.no – undervisningsmateriell i filosofi"
+    },
+    {
+      "type": "x",
+      "url": "https://x.com/vegardmartinsen",
+      "label": "Vegard Martinsen på X"
+    }
+  ],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://no.wikipedia.org/wiki/Vegard_Martinsen",
+      "label": "Wikipedia-artikkel"
+    },
+    {
+      "type": "snl",
+      "url": "https://snl.no/Vegard_Martinsen",
+      "label": "Store norske leksikon"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.gullstandard.no/author/vegard-martinsen/",
+      "label": "Forfatterside hos Gullstandard"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://aynrand.no/author/vegma",
+      "label": "Forfatterside hos AynRand.no"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=VEMA",
+      "label": "Biografi hos Stortinget"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikidata.org/wiki/Q5978401",
+      "label": "Wikidata-oppføring"
+    },
+    {
+      "type": "intervju",
+      "url": "https://www.listennotes.com/podcasts/ole-landfald-podcast/9-vegard-martinsen-om-ltvU9IZxCaA/",
+      "label": "Intervju: Ole Landfald Podcast om objektivismen, politikk og frihet"
+    }
+  ],
+  "keyFacts": [
+    "Født 6. mars 1955.",
+    "Studerte filosofi, matematikk og fysikk ved Universitetet i Oslo og tok cand.scient.-graden i 1981.",
+    "Arbeidet i mange år som lærer, og var fra 2001 seniorrådgiver i Vox, nasjonalt fagorgan for kompetansepolitikk/voksnes læring.",
+    "Vararepresentant til Stortinget for Fremskrittspartiet 1989–1993 (Oslo), og gruppesekretær for FrPs stortingsgruppe 1989–1991.",
+    "Ledet Det Liberale Folkepartiet (DLF) fra 2003 til partiet ble oppløst i 2017; partiet bygget på klassisk liberalisme, laissez-faire-kapitalisme og objektivisme.",
+    "Tidligere formann i Foreningen for Studium av Objektivismen (FSO), hvor han har holdt en rekke foredrag om Ayn Rands filosofi.",
+    "Sentral skikkelse i Foreningen Gullstandard og driver podkasten «Vegard og Magnus».",
+    "Forfatter av boken «Filosofi: en innføring» (1991) og «Frihet, likhet, brorskap. Kapitalismen i teori og praksis» (2004).",
+    "Har også skrevet læreboken «VIVO, Lærerens bok» i RLE for barnetrinnet (Gyldendal, 2010) og medforfatter av «Forteljingas pedagogikk: Folkedikting før og no».",
+    "Driver nettstedet filosofi.no med undervisningsmateriell i filosofi.",
+    "Har gjennom flere tiår publisert kronikker og innlegg i blant annet Aftenposten, Dagbladet, VG, Morgenbladet, Dagsavisen og Teknisk Ukeblad."
+  ],
+  "freedomContributions": [
+    "Ledet i 14 år (2003–2017) Det Liberale Folkepartiet, som gikk inn for en minimal stat og individets rett til selveierskap i tråd med objektivismen.",
+    "Argumenterer i boken «Frihet, likhet, brorskap» for at laissez-faire-kapitalisme er det eneste økonomiske systemet som er forenlig med individuell frihet.",
+    "Har som formann i Foreningen for Studium av Objektivismen i flere tiår undervist og foredratt om Ayn Rands filosofi som en sammenhengende frihetsfilosofi, blant annet om temaer som «Objektivismen vs. filosofi» og sosialøkonomi/Says lov.",
+    "Introduserte norsk offentlighet for Ayn Rand allerede i 1987 gjennom en kronikk i Aftenposten.",
+    "Har argumentert mot deterministiske/strukturelle forklaringer på kriminalitet til fordel for individuelt ansvar, blant annet i en VG-kronikk fra 2001.",
+    "Kommenterer løpende aktuelle politiske spørsmål fra et individualistisk ståsted gjennom Gullstandard og podkasten «Vegard og Magnus», med temaer som ytringsfrihet, statlige reguleringer og entreprenørskap."
+  ],
+  "themes": [
+    "Objektivisme",
+    "Kapitalisme og laissez-faire",
+    "Individuell frihet",
+    "Filosofi",
+    "Politikk og liberalisme",
+    "Ayn Rand",
+    "Kriminalitet og individuelt ansvar",
+    "Ytringsfrihet"
+  ],
+  "texts": [
+    {
+      "title": "Filosofi: en innføring",
+      "date": "1991",
+      "publication": "Egenutgivelse / Lulu",
+      "kind": "bok",
+      "url": "https://www.lulu.com/shop/vegard-martinsen/filosofi-en-innf%C3%B8ring/paperback/product-13844418.html",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frihet, likhet, brorskap. Kapitalismen i teori og praksis",
+      "date": "2004",
+      "publication": "Egenutgivelse",
+      "kind": "bok",
+      "url": "https://www.ark.no/boker/Vegard-Martinsen-Frihet-likhet-brorskap-9788291106083",
+      "foundBy": "research"
+    },
+    {
+      "title": "VIVO, Lærerens bok",
+      "date": "2010",
+      "publication": "Gyldendal",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Forteljingas pedagogikk: Folkedikting før og no",
+      "publication": "Medforfattet med Johan Einar Bjerkem m.fl.",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Sosialøkonomi og Says lov",
+      "publication": "AynRand.no",
+      "kind": "annet",
+      "url": "https://aynrand.no/sosialokonomi-og-says-lov",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvordan få slutt på kriminaliteten?",
+      "publication": "AynRand.no",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Elon Musks svik",
+      "publication": "Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.386Z"
+}

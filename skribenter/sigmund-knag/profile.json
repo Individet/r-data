@@ -1,0 +1,117 @@
+{
+  "name": "Sigmund Knag",
+  "tagline": "Uavhengig filosof fra Bergen som skriver om statsmakt, autoritet og libertarianisme",
+  "born": null,
+  "died": null,
+  "image": null,
+  "platforms": [],
+  "links": [
+    {
+      "type": "akademisk",
+      "url": "https://www.academia.edu/5902479/The_Almighty_Impotent_State",
+      "label": "Academia.edu-profil med artikkelen «The Almighty, Impotent State»"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://www.independent.org/aboutus/person_detail.asp?id=688",
+      "label": "Forfatterprofil hos The Independent Institute"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.liberaleren.no/ideeromfrihet/",
+      "label": "Om tidsskriftet «Ideer om frihet», der Knag var redaksjonell medarbeider"
+    }
+  ],
+  "keyFacts": [
+    "Sigmund Knag omtales som en uavhengig forsker («independent scholar») og forfatter bosatt i Bergen, Norge.",
+    "Han var redaksjonell medarbeider i det norske libertarianske tidsskriftet «Ideer om frihet», som ble utgitt fra 1980 til 2000.",
+    "Han har publisert artikler og en bokanmeldelse i det akademiske tidsskriftet The Independent Review, utgitt av den amerikanske tenketanken The Independent Institute.",
+    "Han har skrevet et biografisk essay om den amerikanske georgisten og forfatteren John Sherwin Crosby (2012), utgitt via School of Cooperative Individualism.",
+    "Han er en jevnlig skribent hos den norske nettpublikasjonen Liberaleren fra i hvert fall 2022 og framover."
+  ],
+  "freedomContributions": [
+    "I artikkelen «The Almighty, Impotent State; or, the Crisis of Authority» (The Independent Review, 1996/97) argumenterer Knag for at statens autoritet og legitimitet er i en dyp krise, og utfordrer det moralske grunnlaget for statlig tvangsmakt.",
+    "I artikkelen «Let's Toss for It: A Surprising Curb on Political Greed» (The Independent Review, 1998) foreslår han loddtrekning (slik som i antikkens Aten) som mekanisme for å velge politiske ledere, som en måte å begrense maktkonsentrasjon og politisk grådighet på.",
+    "Gjennom sitt arbeid med tidsskriftet «Ideer om frihet» (1980–2000) bidro han til å etablere og spre libertarianske og klassisk-liberale ideer, blant annet om Hayeks tenkning, i det norske offentlige ordskiftet lenge før dette ble en etablert debatt.",
+    "I kronikker hos Liberaleren tar han til orde for lokalt selvstyre som et radikalt alternativ til sentralisert statsmakt, og drøfter kritisk statlig kulturstøtte og statlig skolemonopol som begrensninger på individets valgfrihet.",
+    "I kronikken «Anarki, minarki og demokrati» drøfter han libertarianske styringsalternativer til det demokratiske statsapparatet, og plasserer dermed norsk debatt i en bredere anarko-kapitalistisk/minarkistisk tradisjon."
+  ],
+  "themes": [
+    "statsmakt og autoritet",
+    "libertarianisme",
+    "anarkisme og minarkisme",
+    "skolepolitikk og valgfrihet",
+    "kulturpolitikk og statsstøtte",
+    "lokalt selvstyre",
+    "georgisme og eiendomsrett til naturressurser",
+    "politisk filosofi og historie"
+  ],
+  "texts": [
+    {
+      "title": "The Almighty, Impotent State; or, the Crisis of Authority",
+      "date": "1996/1997 (vinter)",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/wp-content/uploads/tir/1997/01/tir_01_3_03_knag.pdf",
+      "foundBy": "research"
+    },
+    {
+      "title": "Bokanmeldelse: The War Against Authority: From the Crisis of Legitimacy to a New Social Contract (Nicholas N. Kittrie)",
+      "date": "høst 1996",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/tir/1996-fall/the-war-against-authority/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Let's Toss for It: A Surprising Curb on Political Greed",
+      "date": "høst 1998",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/tir/1998-fall/lets-toss-for-it/",
+      "foundBy": "research"
+    },
+    {
+      "title": "John Sherwin Crosby: Life and Work",
+      "date": "september 2012",
+      "publication": "School of Cooperative Individualism",
+      "kind": "annet",
+      "url": "https://cooperative-individualism.org/knag-sigmund_john-sherwin-crosby-life-and-work-2012.htm",
+      "foundBy": "research"
+    },
+    {
+      "title": "Dilemmaer i skolepolitikken",
+      "date": "17. september 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/09/17/dilemmaer-i-skolepolitikken/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Lokalt selvstyre – et radikalt alternativ",
+      "date": "28. november 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/11/28/lokalt-selvstyre-et-radikalt-alternativ/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kulturstøtte uten stat?",
+      "date": "1. desember 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/12/01/kulturstotte-uten-stat/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Anarki, minarki og demokrati",
+      "date": "25. desember 2023",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/12/25/anarki-minarki-og-demokrati/",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.386Z"
+}

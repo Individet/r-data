@@ -1,0 +1,233 @@
+{
+  "name": "Mathilde Fasting",
+  "tagline": "Siviløkonom og idéhistoriker i tankesmien Civita",
+  "born": 1965,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "x",
+      "url": "https://x.com/mfasting",
+      "label": "Mathilde Fasting på X"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/mathilde-fasting-54073348/",
+      "label": "LinkedIn-profil"
+    },
+    {
+      "type": "podcast",
+      "url": "https://open.spotify.com/show/67xMT4pHrDpqCsQLIEzEH5",
+      "label": "Liberal halvtime (vert sammen med Eirik Løkke, Civita)"
+    }
+  ],
+  "links": [
+    {
+      "type": "forfatterside",
+      "url": "https://civita.no/person/mathilde-fasting/",
+      "label": "Forfatterside hos Civita"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://agendamagasin.no/forfatter/mathilde-fasting/",
+      "label": "Forfatterside hos Agenda Magasin"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.aftenposten.no/av/mathilde-fasting-2",
+      "label": "Forfatterside hos Aftenposten"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.altinget.no/person/mathilde-fasting",
+      "label": "Profil hos Altinget"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.goodreads.com/author/show/7071127.Mathilde_C_Fasting",
+      "label": "Forfatterprofil på Goodreads"
+    },
+    {
+      "type": "forlag",
+      "url": "https://www.hurstpublishers.com/profile/mathilde-fasting/",
+      "label": "Forfatterprofil hos Hurst Publishers"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.skatt.no/author/mathildefasting/",
+      "label": "Forfatterside hos Skattebetalerforeningen"
+    }
+  ],
+  "keyFacts": [
+    "Født 13. juli 1965 i Tønsberg.",
+    "Siviløkonom fra Norges Handelshøyskole (NHH), 1989.",
+    "Master i idéhistorie fra Universitetet i Oslo, 2008.",
+    "Dr.rer.pol. i statsvitenskap fra Universität Erfurt i Tyskland, 2011.",
+    "Arbeider i tankesmien Civita som siviløkonom, idéhistoriker og prosjektleder, med ansvar for fundraising.",
+    "Vert for Civitas ukentlige podcast «Liberal halvtime» sammen med Eirik Løkke.",
+    "Mottok C.J. Hambros pris i 2022 for sitt forfatterskap om sentrale borgerlige og liberale temaer.",
+    "Har vært medlem av Barnefamilieutvalget, et offentlig utvalg oppnevnt av Barne- og likestillingsdepartementet (2006).",
+    "Har skrevet og redigert flere bøker, blant annet «Valgfrihet», «Marked og moral» (med Ulla Fjeldstad), «Den norske velferden», «Borgeren og fellesskapet», «Vilje til å lykkes», «Har vi råd til fremtiden?», «The Norwegian Exception? Norway's Liberal Democracy since 1814» (med Øystein Sørensen) og «After the End of History: Conversations with Francis Fukuyama» (Georgetown University Press, 2021).",
+    "Fast kommentator og kronikkforfatter i Aftenposten og bidragsyter i Agenda Magasin."
+  ],
+  "freedomContributions": [
+    "I boken «Valgfrihet» forsvarer hun valgfrihet som et grunnleggende liberalt prinsipp og gjennomgår hvilke partier historisk har stått for borgernes rett til å velge selv.",
+    "I kronikken «Har vi for mye valgfrihet?» argumenterer hun mot politikere som ikke forstår hvorfor valgfrihet i velferdstjenester, som eldreomsorg og strømleverandører, er viktig for den enkelte.",
+    "I boken «Marked og moral» (med Ulla Fjeldstad) drøfter hun forholdet mellom marked, egeninteresse og moral, og forsvarer markedsøkonomiens rolle for individuell frihet og velstandsutvikling.",
+    "Har argumentert mot skjerpet formuesskatt og for bedre rammevilkår for norsk eierskap og næringsliv, blant annet i rapporten «Skatt og samfunnsbidrag» og i offentlig debatt med tankesmien Agenda.",
+    "Har pekt på at norsk likestillingspolitikk risikerer å gripe utilbørlig inn i privatlivet og familiers egne valg.",
+    "Gjennom boksamtalene i «After the End of History» med Francis Fukuyama bidrar hun til å spre og nyansere ideer om det liberale demokratiets forutsetninger internasjonalt.",
+    "I «The Norwegian Exception?» (med Øystein Sørensen) undersøker hun fremveksten av det liberale demokratiet og individuelle rettigheter i Norge siden 1814.",
+    "Som vert for podcasten «Liberal halvtime» bidrar hun ukentlig til å formidle og debattere liberale ideer om individuell frihet for et bredt publikum."
+  ],
+  "themes": [
+    "Valgfrihet",
+    "Marked og moral",
+    "Skatt og eierskap",
+    "Velferdsstat og velferdsreform",
+    "Liberalt demokrati og idéhistorie",
+    "Likestilling og familiepolitikk",
+    "Næringsliv og verdiskaping",
+    "Politisk filosofi"
+  ],
+  "texts": [
+    {
+      "title": "Hva er poenget med valgfrihet?",
+      "date": "2013-03-27",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/2013/03/27/hva-er-poenget-med-valgfrihet",
+      "foundBy": "research"
+    },
+    {
+      "title": "Valgfrihet",
+      "date": "2013-02-25",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://www.civita.no/publikasjon/valgfrihet",
+      "foundBy": "research"
+    },
+    {
+      "title": "Marked og moral",
+      "date": "2010",
+      "publication": "Civita (med Ulla Fjeldstad)",
+      "kind": "bok",
+      "url": "https://civita.no/content/uploads/2010/04/Markedogmoral.pdf",
+      "foundBy": "research"
+    },
+    {
+      "title": "Har vi for mye valgfrihet?",
+      "date": "",
+      "publication": "NRK Ytring",
+      "kind": "kronikk",
+      "url": "https://www.nrk.no/ytring/har-vi-for-mye-valgfrihet_-1.10944369",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kronikk: Finans skaper sivilisasjon",
+      "date": "",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/kronikk/i/5LoMm/kronikk-finans-skaper-sivilisasjon-mathilde-fasting",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kronikk: Svært mange av innvandrernes barn gjør det bra",
+      "date": "",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/kronikk/i/yP6GE/kronikk-svaert-mange-av-innvandrernes-barn-gjoer-det-bra-mathilde-fasting",
+      "foundBy": "research"
+    },
+    {
+      "title": "Borgerlønn på norsk",
+      "date": "",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/wEeqM4/borgerloenn-paa-norsk-mathilde-fasting",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kampen om fremtiden er aldri tapt",
+      "date": "",
+      "publication": "Aftenposten (med Skjalg Stokke Hougen og Torkel Brekke)",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/kronikk/i/oEKPq0/kampen-om-fremtiden-er-aldri-tapt",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kjenner ikke Ap konsekvensene av egen skattepolitikk?",
+      "date": "",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/Kyjn0E/kjenner-ikke-ap-konsekvensene-av-egen-skattepolitikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvorfor nok et utvalg om barnefattigdom?",
+      "date": "2022-08-23",
+      "publication": "Vårt Land, Verdidebatt (med Sara Johannessen Meek)",
+      "kind": "kronikk",
+      "url": "https://www.vl.no/meninger/verdidebatt/2022/08/23/hvorfor-nok-et-utvalg-om-barnefattigdom/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Vi må jobbe mer, ikke mindre",
+      "date": "",
+      "publication": "NRK Ytring",
+      "kind": "kronikk",
+      "url": "https://www.nrk.no/ytring/vi-ma-jobbe-mer_-ikke-mindre-1.11645658",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva trenger næringslivet i nord?",
+      "date": "",
+      "publication": "Nordnorsk Debatt",
+      "kind": "kronikk",
+      "url": "https://www.nordnorskdebatt.no/hva-trenger-naringslivet-i-nord/o/5-124-295339",
+      "foundBy": "research"
+    },
+    {
+      "title": "Eierskap: Plukker suksessene",
+      "date": "",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/okonomi/naeringspolitikk/naeringsliv/eierskap-plukker-suksessene/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Skatt og samfunnsbidrag",
+      "date": "",
+      "publication": "Civita",
+      "kind": "rapport",
+      "url": "https://www.civita.no/publikasjon/skatt-og-samfunnsbidrag",
+      "foundBy": "research"
+    },
+    {
+      "title": "After the End of History: Conversations with Francis Fukuyama",
+      "date": "2021",
+      "publication": "Georgetown University Press",
+      "kind": "bok",
+      "url": "https://www.goodreads.com/book/show/57832146-after-the-end-of-history",
+      "foundBy": "research"
+    },
+    {
+      "title": "The Norwegian Exception? Norway's Liberal Democracy Since 1814",
+      "date": "",
+      "publication": "med Øystein Sørensen",
+      "kind": "bok",
+      "url": "https://www.goodreads.com/author/show/21252907.Mathilde_Fasting",
+      "foundBy": "research"
+    },
+    {
+      "title": "Inn i kunsten: en brevveksling mellom Kjell Torriset og Mathilde Fasting",
+      "date": "2023",
+      "publication": "",
+      "kind": "bok",
+      "url": "https://deichman.no/person/mathilde-fasting_h2047825300",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.384Z"
+}

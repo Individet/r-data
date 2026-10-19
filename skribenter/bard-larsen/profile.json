@@ -1,0 +1,200 @@
+{
+  "name": "Bård Larsen",
+  "tagline": "Historiker i Civita og forfatter om totalitarisme, venstresidens idehistorie og det liberale demokratiets sårbarhet.",
+  "born": 1964,
+  "died": null,
+  "image": null,
+  "platforms": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://no.wikipedia.org/wiki/B%C3%A5rd_Larsen",
+      "label": "Wikipedia"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://civita.no/person/bard-larsen/",
+      "label": "Profil hos Civita"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://civita.no/civita-post-author/bard-larsen/",
+      "label": "Artikkelarkiv hos Civita"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://agendamagasin.no/forfatter/baardl/",
+      "label": "Forfatterside hos Agenda Magasin"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.vg.no/forfatter/baard-larsen",
+      "label": "Forfatterside hos VG"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.aftenposten.no/av/baard-larsen-2",
+      "label": "Forfatterside hos Aftenposten"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.minerva.no/tag/b%C3%A5rd%20larsen",
+      "label": "Artikler om/av Bård Larsen hos Minerva"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.liberaleren.no/2024/08/23/liberale-tenkere-bard-larsen-en-varde-mot-trusselen-fra-det-autoritaere/",
+      "label": "Portrettartikkel hos Liberaleren"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikidata.org/wiki/Q42025098",
+      "label": "Wikidata"
+    },
+    {
+      "type": "annet",
+      "url": "https://civita.no/person-gruppe/medarbeidere/",
+      "label": "Civita – medarbeideroversikt"
+    }
+  ],
+  "keyFacts": [
+    "Født 31. januar 1964.",
+    "Utdannet historiker; skrev masteroppgave om folkemordet på armenerne.",
+    "Har tidligere arbeidet som historielærer i videregående skole.",
+    "Har tidligere vært tilknyttet Holocaustsenteret.",
+    "Historiker (tidligere også omtalt som prosjektleder) i den liberale tankesmien Civita, der han har arbeidet med ideologi, demokrati, menneskerettigheter og autoritære systemer.",
+    "Har gitt ut bøkene «Storebror dreper! Om totalitarisme» (2008, ny utgave 2021), «Idealistene – venstresidens reise i det autoritære» (2011) og «Demokrati i trøbbel – et essay om hvordan og hvorfor demokratier kan gå i stykker» (2018), samt «Pass på! Om liberalt demokrati og dets fiender» og pamfletten «Identitetspolitikk», alle utgitt av Civita.",
+    "Skriver jevnlig kronikker i blant annet VG, Aftenposten, Minerva, Klassekampen, Dagsavisen, Agenda Magasin og Fri tanke.",
+    "Boken «Idealistene» (2011) utløste bred offentlig debatt, med anmeldelser og omtaler i bl.a. Aftenposten, Dag og Tid, Bergens Tidende, Morgenbladet og Le Monde, og kritikk fra venstresiden i Klassekampen og andre steder.",
+    "Omtalt av Liberaleren i 2024 som en av samtidens viktigste liberale tenkere, med vekt på hans arbeid mot autoritære ideologier.",
+    "Har deltatt i paneldebatter om demokratiets kår, blant annet på UiOs Demokratikonferansen 2025."
+  ],
+  "freedomContributions": [
+    "I boken «Storebror dreper! Om totalitarisme» dokumenterer han hvordan nazismens og kommunismens totalitære ideologier krevde fullstendig kontroll over individet, og hvordan dette kostet over hundre millioner menneskeliv i det 20. århundre.",
+    "I «Idealistene – venstresidens reise i det autoritære» kritiserer han venstreorienterte intellektuelles historiske sympati for autoritære og totalitære regimer, og argumenterer for at idealisme og gode intensjoner aldri rettferdiggjør støtte til undertrykkende systemer.",
+    "I «Demokrati i trøbbel» og «Pass på! Om liberalt demokrati og dets fiender» analyserer han hvordan liberale demokratier gradvis svekkes når makthavere umerkelig legger beslag på institusjoner som skal beskytte borgerne mot overgrep fra stat eller majoritet.",
+    "I kronikker som «Totalitarisme på avveier» og «Déjà vu fra historiens skraphaug» advarer han mot at nye autoritære bevegelser kan oppnå kontroll over samfunnet uten et klassisk diktatur, og mot forsøk på å bagatellisere eller relativisere totalitær historie.",
+    "I pamfletten «Identitetspolitikk» drøfter han, sammen med Jan Erik Grindheim og Mathilde Fasting, hvordan identitetspolitikk fra både venstre og høyre kan svekke individets frihet og den åpne, liberale samtalen.",
+    "Har gjennom sitt arbeid med folkemordet på armenerne og kronikker som «Armenia: Begrepstriksing og kildebruk» argumentert mot forsøk på å viske ut eller relativisere statsmakters overgrep mot individer og minoriteter.",
+    "Bidrar løpende med analyser av politisk islam, populisme og nasjonalisme som trusler mot det liberale demokratiet og den enkeltes rettigheter, blant annet i kronikker om utviklingen i Ungarn og andre europeiske land."
+  ],
+  "themes": [
+    "Totalitarisme og autoritære regimer",
+    "Liberalt demokrati og dets sårbarhet",
+    "Menneskerettigheter og folkemord",
+    "Venstresidens idehistorie",
+    "Nazisme og fascisme",
+    "Identitetspolitikk",
+    "Populisme og nasjonalisme",
+    "Politisk islam"
+  ],
+  "texts": [
+    {
+      "title": "Storebror dreper! Om totalitarisme",
+      "date": "2008 (ny utgave 2021)",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/storebror-dreper-om-totalitarisme/",
+      "foundBy": "research"
+    },
+    {
+      "title": "IDEALISTENE – Venstresidens reise i det autoritære",
+      "date": "2011",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/idealistene-venstresidens-reise-i-det-autoritaere-91/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Demokrati i trøbbel – et essay om hvordan og hvorfor demokratier kan gå i stykker",
+      "date": "2018",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://www.ark.no/produkt/boker/fagboker/demokrati-i-trobbel-9788292581902",
+      "foundBy": "research"
+    },
+    {
+      "title": "Pass på! Om liberalt demokrati og dets fiender",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/pass-pa-om-liberalt-demokrati-og-dets-fiender/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Identitetspolitikk (sammen med Jan Erik Grindheim og Mathilde Fasting)",
+      "publication": "Civita",
+      "kind": "rapport",
+      "url": "https://civita.no/produkt/identitetspolitikk/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Totalitarisme på avveier",
+      "date": "7. februar 2013",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/totalitarisme-pa-avveier/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nostalgi for det absolutte",
+      "date": "12. mars 2012",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/totalitaere-og-autoritaere-regimer/nostalgi-for-det-absolutte/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Déjà vu fra historiens skraphaug",
+      "date": "9. januar 2021",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/populisme/deja-vu-fra-historiens-skraphaug/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den primitive intellektualismen",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/totalitaere-og-autoritaere-regimer/den-primitive-intellektualismen/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Historiens kraftlinjer? (Fascismen på fremmarsj i Europa? Hva skjer i Ungarn?)",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/historiens-kraftlinjer/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Armenia: Begrepstriksing og kildebruk",
+      "publication": "Klassekampen / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/armenia-begrepstriksing-og-kildebruk/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Forlaget Pax 50 år: En ideologisk nostalgitripp",
+      "publication": "VG / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/forlaget-pax-50-ar-en-ideologisk-nostalgitripp/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Rapport fra kulturkrigen: Misnøyens tidsalder",
+      "publication": "Fri tanke",
+      "kind": "artikkel",
+      "url": "https://fritanke.no/misnoyens-tidsalder/19.10991",
+      "foundBy": "research"
+    },
+    {
+      "title": "Bård Larsen om truslene mot demokratiet",
+      "date": "2024",
+      "publication": "Civita-podden",
+      "kind": "podkast",
+      "url": "https://civita.no/podcast/bard-larsen-om-truslene-mot-demokratiet/",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.387Z"
+}

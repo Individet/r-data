@@ -2,23 +2,90 @@
   "writerId": "sigmund-knag",
   "registryHash": "339ca1a3e8ba1461",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Kulturstøtte uten stat?",
+      "date": "1. desember 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/12/01/kulturstotte-uten-stat/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Dilemmaer i skolepolitikken",
+      "date": "17. september 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/09/17/dilemmaer-i-skolepolitikken/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "The Almighty, Impotent State; or, the Crisis of Authority",
+      "date": "1996/1997 (vinter)",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/wp-content/uploads/tir/1997/01/tir_01_3_03_knag.pdf",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Anarki, minarki og demokrati",
+      "date": "25. desember 2023",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2023/12/25/anarki-minarki-og-demokrati/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Lokalt selvstyre – et radikalt alternativ",
+      "date": "28. november 2022",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2022/11/28/lokalt-selvstyre-et-radikalt-alternativ/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Bokanmeldelse: The War Against Authority: From the Crisis of Legitimacy to a New Social Contract (Nicholas N. Kittrie)",
+      "date": "høst 1996",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/tir/1996-fall/the-war-against-authority/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Let's Toss for It: A Surprising Curb on Political Greed",
+      "date": "høst 1998",
+      "publication": "The Independent Review",
+      "kind": "artikkel",
+      "url": "https://www.independent.org/tir/1998-fall/lets-toss-for-it/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "John Sherwin Crosby: Life and Work",
+      "date": "september 2012",
+      "publication": "School of Cooperative Individualism",
+      "kind": "annet",
+      "url": "https://cooperative-individualism.org/knag-sigmund_john-sherwin-crosby-life-and-work-2012.htm",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "sigmund-knag",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-sigmund-knag-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01NKTjMToDctJgH2jyZ9ByfV\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-sigmund-knag-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01NKTjMToDctJgH2jyZ9ByfV\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

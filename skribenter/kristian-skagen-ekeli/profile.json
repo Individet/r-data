@@ -1,0 +1,169 @@
+{
+  "name": "Kristian Skagen Ekeli",
+  "tagline": "Professor i filosofi ved Universitetet i Stavanger – forsker på ytringsfrihet, demokrati og politisk uvitenhet",
+  "born": null,
+  "died": null,
+  "image": null,
+  "platforms": [],
+  "links": [
+    {
+      "type": "akademisk",
+      "url": "https://philpeople.org/profiles/kristian-skagen-ekeli",
+      "label": "PhilPeople-profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://scholar.google.no/citations?user=b65nMqMAAAAJ",
+      "label": "Google Scholar"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://stavanger.academia.edu/KristianSkagenEkeli",
+      "label": "Academia.edu-profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://www.researchgate.net/profile/Kristian-Ekeli",
+      "label": "ResearchGate-profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://www.uis.no/nb/profile/kristian-skagen-ekeli",
+      "label": "Ansattprofil ved Universitetet i Stavanger"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://philpapers.org/s/Kristian%20Skagen%20Ekeli",
+      "label": "Oversikt over arbeider på PhilPapers"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://uis.brage.unit.no/uis-xmlui/browse?value=Ekeli,+Kristian+Skagen&type=author",
+      "label": "Publikasjonsarkiv (UiS Brage)"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.liberaleren.no/author/ekeli/",
+      "label": "Forfatterarkiv hos Liberaleren"
+    }
+  ],
+  "keyFacts": [
+    "Professor i filosofi ved Institutt for medie- og samfunnsfag, Det samfunnsvitenskapelige fakultet, Universitetet i Stavanger.",
+    "Forskningsinteressene hans ligger innenfor politisk filosofi, rettsfilosofi og moralfilosofi.",
+    "Arbeider med en bok som utvikler og forsvarer en libertariansk teori om retten til ytringsfrihet.",
+    "Har publisert fagartikler i internasjonale tidsskrifter som Inquiry, Journal of Political Philosophy, Law & Philosophy, Philosophy & Social Criticism, Ratio Juris, Res Publica og Journal of Agricultural and Environmental Ethics.",
+    "Har vært emneansvarlig for kurset «Democratic theory» (BST200) ved Universitetet i Stavanger.",
+    "Hans arbeid om politisk uvitenhet og stemmerett har blitt kommentert og diskutert av andre filosofer i norske fagtidsskrifter.",
+    "Har publisert i Norsk Filosofisk Tidsskrift over flere tiår, fra tidlig 2000-tall til i dag."
+  ],
+  "freedomContributions": [
+    "Utvikler en libertariansk teori om retten til ytringsfrihet som forsvarer sterk beskyttelse av ytringsfriheten mot statlig inngripen.",
+    "I artikkelen «Rettslig moralisme og retten til ytringsfrihet» kritiserer han bruk av strafferett til å håndheve moral på bekostning av individets ytringsfrihet.",
+    "I «Ytringsfrihet og terrorisme» drøfter han hvordan ytringsfriheten bør stå seg også når den utfordres av trusselen fra terrorisme.",
+    "Har argumentert for at uvitende, uansvarlige og irrasjonelle velgere kan ha en moralsk plikt til å avstå fra å stemme, noe som utfordrer en ukritisk idealisering av stemmeretten og fremhever individuelt ansvar i demokratiet.",
+    "Har skrevet om politisk uvitenhet og velgeres moralske ansvar i Norsk Filosofisk Tidsskrift, og om «epistemiske plikter» knyttet til politisk deltakelse.",
+    "Har publisert om demokratisk legitimitet og politisk ytring med vekt på prinsippet om synspunktnøytralitet (viewpoint neutrality) – et sentralt liberalt prinsipp for statens nøytralitet overfor borgernes meninger.",
+    "Bidrar jevnlig med tekster hos Liberaleren, en norsk nettside for klassisk liberal og libertariansk tankegods."
+  ],
+  "themes": [
+    "Ytringsfrihet",
+    "Rettslig moralisme",
+    "Demokratiteori og politisk legitimitet",
+    "Politisk uvitenhet og velgeres ansvar",
+    "Libertarianisme",
+    "Rettferdighet mellom generasjoner og klimaetikk",
+    "Moralfilosofi og respekt for personer"
+  ],
+  "texts": [
+    {
+      "title": "Rettslig moralisme og retten til ytringsfrihet",
+      "publication": "Ratio Juris / norsk fagtidsskrift",
+      "kind": "akademisk",
+      "url": "https://philarchive.org/archive/EKERMO",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ytringsfrihet og terrorisme",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/34071962/Ytringsfrihet_og_terrorisme",
+      "foundBy": "research"
+    },
+    {
+      "title": "Politisk uvitenhet, stemmeretten og velgeres moralske ansvar",
+      "date": "2019",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/EKEPUS",
+      "foundBy": "research"
+    },
+    {
+      "title": "Respekt for personer, epistemiske plikter og klanderverdig politisk uvitenhet",
+      "date": "2020",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/SKARFP",
+      "foundBy": "research"
+    },
+    {
+      "title": "Risiko, usikkerhet og intergenerasjonell etikk",
+      "date": "2002",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/EKERUO",
+      "foundBy": "research"
+    },
+    {
+      "title": "Democratic legitimacy, political speech and viewpoint neutrality",
+      "date": "2020",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Et grønt demokratisk skifte? Borgerråd for klima og utlendingers rett til demokratisk deltakelse",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/354490455_Et_gront_demokratisk_skifte_Borgerrad_for_klima_og_utlendingers_rett_til_demokratisk_deltakelse",
+      "foundBy": "research"
+    },
+    {
+      "title": "Med Kant mot ulikhet: Et demokratisk reformargument",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/350167174_Med_Kant_mot_ulikhet_Et_demokratisk_reformargument",
+      "foundBy": "research"
+    },
+    {
+      "title": "Introduksjon: Moralisering",
+      "date": "2017",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://www.scup.com/doi/10.18261/issn.1504-2901-2017-03-01",
+      "foundBy": "research"
+    },
+    {
+      "title": "Politisk uvitenhet og retten til politisk makt",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/demokrati-stemmerett-valg/politisk-uvitenhet-og-retten-til-politisk-makt/170143",
+      "foundBy": "research"
+    },
+    {
+      "title": "Giving a voice to posterity – deliberative democracy and representation of future people",
+      "publication": "Journal of Agricultural and Environmental Ethics",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Uvitende, uansvarlige og irrasjonelle velgere har en moralsk plikt til å avstå fra å stemme",
+      "date": "2017",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Valg er for viktig til å bli avgjort ved terningkast",
+      "date": "2017",
+      "kind": "kronikk",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.384Z"
+}

@@ -1,0 +1,323 @@
+{
+  "name": "Lars Peder Nordbakken",
+  "tagline": "Siviløkonom og økonom i Civita – forfatter om liberalisme, ordoliberalisme og Mont Pelerin-tradisjonen",
+  "born": 1957,
+  "died": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lars_Peder_Nordbakken.jpg",
+    "sourcePage": "https://www.wikidata.org/wiki/Q11983329",
+    "credit": "Gisle Bjørneby / Venstre"
+  },
+  "platforms": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://no.wikipedia.org/wiki/Lars_Peder_Nordbakken",
+      "label": "Wikipedia"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://www.scup.com/doi/10.18261/ISSN1500-1571-2021-01-02-16",
+      "label": "Forfatterprofil i tidsskriftet Agora (Idunn/Scup)"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.goodreads.com/author/show/6967986.Lars_Peder_Nordbakken",
+      "label": "Goodreads forfatterside"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikiberal.org/wiki/Lars_Peder_Nordbakken",
+      "label": "Wikiberal (fransk libertariansk leksikon)"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.rethinkingeconomics.no/fagraadet",
+      "label": "Fagrådet, Rethinking Economics Norge"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikidata.org/wiki/Q11983329",
+      "label": "Wikidata"
+    }
+  ],
+  "keyFacts": [
+    "Født 9. november 1957 i Oslo.",
+    "Utdannet siviløkonom fra Norges Handelshøyskole (NHH).",
+    "Arbeider som økonom i tankesmien Civita og er leder av Civitas fagråd.",
+    "Driver egen konsulentvirksomhet med spesialområde strategi, markedsføring og innovasjon.",
+    "Medlem av The Mont Pelerin Society, et internasjonalt nettverk av liberale tenkere.",
+    "Tilknyttet det ordoliberale nettverket NOUS (Netzwerk für Ordnungsökonomik und Sozialphilosophie).",
+    "Medlem av fagrådet i Rethinking Economics Norge.",
+    "Tidligere sentralstyremedlem i Venstre og leder av Akershus Venstre.",
+    "Vararepresentant til Stortinget for Venstre fra Akershus i perioden 2009–2013.",
+    "Tok i 1980 initiativ til å starte tidsskriftet «Ideer om frihet» ved Handelshøyskolen i Bergen.",
+    "Forfatter av Civita-boken «Muligheter for alle – dynamisk vekst i en liberal markedsøkonomi» (2006).",
+    "Forfatter av Civita-boken «Liberale tenkere for vår tid» (2017), utgitt sammen med Cathrine Ulrikson.",
+    "Bidragsyter til boken «Tre essays om Liberalisme» (2008) sammen med Øystein Sørensen og Lars Fredrik Händler Svendsen.",
+    "Bidragsyter til antologien «Liberalisme på Norsk».",
+    "Var ansvarlig for organiseringen av Mont Pelerin Societys møte i Oslo i 2022."
+  ],
+  "freedomContributions": [
+    "Har i mange år forsvart den liberale, markedsøkonomiske og regelbaserte internasjonale orden mot populistiske og nasjonalistiske angrep, blant annet i kronikken «Ti grunner til at den liberale verdensorden vil bestå» i Aftenposten.",
+    "Har bidratt til å introdusere og formidle ordoliberal tenkning (Eucken, Röpke og Freiburgerskolen) i norsk offentlighet som et rammeverk for en fri, men velordnet markedsøkonomi.",
+    "Har skrevet en introduksjonsbok om ni sentrale liberale tenkere (blant andre Mises, Hayek, Röpke, Friedman og Popper) i «Liberale tenkere for vår tid», og dermed bidratt til å gjøre den liberale idétradisjonen tilgjengelig for et norsk publikum.",
+    "Har argumentert mot at staten skal opptre som «overdommer» i samfunnskontrakten, og for at tillit og frivillighet - ikke tvang - må ligge til grunn for samfunnsordningen.",
+    "Har advart mot økonomisk og politisk maktkonsentrasjon som en trussel mot individuell frihet, blant annet i teksten «Økonomisk maktkonsentrasjon – fra markedsavvik til frihetstrussel».",
+    "Har som fagrådsleder i Civita og medlem av Mont Pelerin Society bygget bro mellom norsk og internasjonal klassisk liberal og ordoliberal tenkning.",
+    "Har forsvart markedsøkonomien mot kritikk av «markedsfundamentalisme» i offentlig debatt, og argumentert for at svakheter bør møtes med bedre rammebetingelser for markedet, ikke avvikling av det.",
+    "Grunnla i 1980 tidsskriftet «Ideer om frihet» for å fremme fri tanke og frie markeder blant studenter i Bergen."
+  ],
+  "themes": [
+    "Liberalisme og liberal idéhistorie",
+    "Ordoliberalisme og Freiburgerskolen",
+    "Markedsøkonomi og økonomisk frihet",
+    "Globalisering og liberal internasjonal orden",
+    "Entreprenørskap, innovasjon og næringspolitikk",
+    "Skatt og offentlige finanser",
+    "Mont Pelerin Society og klassisk liberal tenkning",
+    "Nyliberalisme-debatten"
+  ],
+  "texts": [
+    {
+      "title": "Ti grunner til at den liberale verdensorden vil bestå",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/kronikk/i/jPWdnw/ti-grunner-til-at-den-liberale-verdensorden-vil-bestaa-lars-peder-nordbakken",
+      "foundBy": "research"
+    },
+    {
+      "title": "Forskjellen betyr faktisk noe",
+      "date": "2020-08-14",
+      "publication": "Morgenbladet",
+      "kind": "kronikk",
+      "url": "https://www.morgenbladet.no/ideer/debatt/2020/08/14/forskjellen-betyr-faktisk-noe/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Veien til Mont Pelerin",
+      "date": "2007-04",
+      "publication": "Civita/Minerva",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/veien-til-mont-pelerin/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Rune Slagstads villedende gjenfortelling om ordoliberalisme",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/rune-slagstads-villedende-gjenfortelling-om-ordoliberalisme/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Internasjonal stagnasjon og økende ulikhet",
+      "date": "2014-10",
+      "publication": "Civita-notat 19/2014",
+      "kind": "rapport",
+      "url": "https://civita.no/content/uploads/2014/10/Civita-notat_19_2014.pdf",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den østerrikske skole",
+      "date": "2020-05",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/den-osterrikske-okonomiske-skolen-og-den-ordoliberale-freiburgerskolen/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Historien har fortsatt ingen ende",
+      "date": "2024-04-05",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/samfunn/historien-har-fortsatt-ingen-ende/444933",
+      "foundBy": "research"
+    },
+    {
+      "title": "Til forsvar for Vesten og Vestens idé",
+      "date": "2024-03-15",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/vesten/til-forsvar-for-vesten-og-vestens-ide/443547",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tyskland står foran et valg i misnøyens tegn",
+      "date": "2024-12-02",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/tyskland/tyskland-star-foran-et-valg-i-misnoyens-tegn/461582",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den nordiske modellen",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/den-nordiske-modellen/112712",
+      "foundBy": "research"
+    },
+    {
+      "title": "Det finnes ikke bare én svensk modell",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/det-finnes-ikke-bare-n-svensk-modell/137869",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva kan egentlig økonomer (og alle andre) vite om økonomien?",
+      "date": "2024-12-15",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/friedrich-hayek-okonomi-okonomisk-teori/hva-kan-egentlig-okonomer-og-alle-andre-vite-om-okonomien/462509",
+      "foundBy": "research"
+    },
+    {
+      "title": "Finn Lied og det norske militær-industrielle kompleks",
+      "date": "2024-05-27",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/biografi-boker-forsvar/finn-lied-og-det-norske-militaer-industrielle-kompleks/448967",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nye perspektiver på idéarven etter Friedrich Hayek",
+      "date": "2025-02-02",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/boker-friedrich-hayek-okonomi/nye-perspektiver-pa-idearven-etter-friedrich-hayek/465488",
+      "foundBy": "research"
+    },
+    {
+      "title": "Økonomen som forbandt menneskeverd med markedskonkurranse",
+      "date": "2023-10-14",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/biografi-boker-okonomi/okonomen-som-forbandt-menneskeverd-med-markedskonkurranse/433963",
+      "foundBy": "research"
+    },
+    {
+      "title": "Civita: En vellykket klima- og energiomstilling må lønne seg for alle",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "url": "https://www.altinget.no/lovebakken/artikkel/civita-en-vellykket-klima-og-energiomstilling-maa-loenne-seg-for-alle",
+      "foundBy": "research"
+    },
+    {
+      "title": "Samfunnskontrakten trenger ingen overdommer",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "url": "https://www.altinget.no/artikkel/lars-peder-nordbakken-samfunnskontrakten-trenger-ingen-overdommer",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva er Mont Pelerin Society (MPS)?",
+      "date": "2022-09-27",
+      "publication": "Civita, podkasten Liberal halvtime",
+      "kind": "podkast",
+      "url": "https://civita.no/podcast/hva-er-mont-pelerin-society-mps/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvordan Michel Foucault ble uunnværlig i kritikken av nyliberalismen",
+      "date": "2021-08-18",
+      "publication": "Agora",
+      "kind": "akademisk",
+      "url": "https://www.scup.com/doi/10.18261/ISSN1500-1571-2021-01-02-16",
+      "foundBy": "research"
+    },
+    {
+      "title": "Muligheter for alle – dynamisk vekst i en liberal markedsøkonomi",
+      "date": "2006",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://www.adlibris.com/no/bok/muligheter-for-alle-9788292581148",
+      "foundBy": "research"
+    },
+    {
+      "title": "Liberale tenkere for vår tid – en introduksjon til Mises, Hayek, Röpke, Eucken, Hoff, Friedman, Popper, Dahrendorf og Sen",
+      "date": "2017-01-11",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/liberale-tenkere-for-var-tid/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tre essays om Liberalisme",
+      "date": "2008",
+      "publication": "sammen med Øystein Sørensen og Lars Fredrik Händler Svendsen",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Liberalisme på Norsk",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/liberalisme-pa-norsk/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den liberale renessansen",
+      "date": "2022-09-21",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva er det aller verste som kan skje i skyggen av Trumps ødeleggelser?",
+      "date": "2025-03-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Økonomisk maktkonsentrasjon – fra markedsavvik til frihetstrussel",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kampen mot prismekanismen er et symptom på prinsippløs økonomisk politikk",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nullskatteytere flest er ikke rike",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Stavangers eksperiment: Er gratis kollektivtransport veien å gå?",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Aktiv næringspolitikk for jobbenes del, ikke klimaets?",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Eierbeskatningen i 2025",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva er markedsøkonomi?",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "Skatt og liberalisme: It's not only the economy, stupid!",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.385Z"
+}

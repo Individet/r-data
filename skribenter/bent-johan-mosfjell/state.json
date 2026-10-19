@@ -4,6 +4,114 @@
   "templateVersion": 1,
   "knownTexts": [
     {
+      "title": "Robert Nozick",
+      "date": "2006-09-20",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/robert-nozick/121773",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frykten for de beste løsningene",
+      "date": "2009-06-15",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/frykten-for-de-beste-losningene/117808",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Velkommen til nye Liberaleren",
+      "date": "2019-11-01",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2019/11/01/velkommen-til-nye-liberaleren/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Folk flest er positive til innvandring",
+      "date": "2020-01-11",
+      "publication": "Utrop",
+      "kind": "kronikk",
+      "url": "https://www.utrop.no/plenum/ytringer/203081/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ærlighet og hederlighet",
+      "date": "2025-03-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/03/11/aerlighet-og-hederlighet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Internasjonalt engasjement, egne kjepphester og litt frihet",
+      "date": "2025-10-31",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/10/31/internasjonalt-engasjement-egne-kjepphester-og-litt-frihet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Forventet snuoperasjon om innvandring",
+      "date": "2025-11-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/11/11/forventet-snuoperasjon-om-innvandring/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Det lukkede samfunnet",
+      "date": "2025-12-15",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2025/12/15/det-lukkede-samfunnet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Konspigjengen",
+      "date": "2026-02-26",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/02/26/konspigjengen/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Tyven, tyven skal du hete",
+      "date": "2026-07-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/11/tyven-tyven-skal-du-hete/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Mennesker er ikke farlige",
+      "date": "2026-07-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/16/mennesker-er-ikke-farlige/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Remigrasjon er skammelig",
+      "date": "2026-09-14",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/09/14/remigrasjon-er-skammelig/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
       "title": "E-stoffer er ikke farlige!",
       "url": "https://www.liberaleren.no/2026/09/17/e-stoffer-er-ikke-farlige/",
       "date": "2026-09-17",
@@ -110,24 +218,79 @@
       "kind": "artikkel",
       "foundBy": "feed",
       "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Må bekjempes, ikke forstås",
+      "url": "https://www.liberaleren.no/2026/10/13/ma-bekjempes-ikke-forstas/",
+      "date": "2026-10-13",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Skammelig saksbehandling bør få konsekvenser",
+      "url": "https://www.liberaleren.no/2026/10/14/skammelig-saksbehandling-bor-fa-konsekvenser/",
+      "date": "2026-10-14",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Legaliser hallikvirksomhet",
+      "url": "https://www.liberaleren.no/2026/10/15/legaliser-hallikvirksomhet-2/",
+      "date": "2026-10-15",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Jeg vil ha oljepengene mine!",
+      "url": "https://www.liberaleren.no/2026/10/16/jeg-vil-ha-oljepengene-mine/",
+      "date": "2026-10-16",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Jeg sier nei!",
+      "url": "https://www.liberaleren.no/2026/10/18/jeg-sier-nei/",
+      "date": "2026-10-18",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Høyresidens kanon er ingen gavepakke til venstresiden",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Liberalismen er viktigere enn noensinne",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/essay-fra-papirutgaven-frihet/liberalismen-er-viktigere-enn-noensinne/464460",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "bent-johan-mosfjell",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-bent-johan-mosfjell-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0128PCQzQbRksHMV2iDPVMv6\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-bent-johan-mosfjell-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0128PCQzQbRksHMV2iDPVMv6\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": "bent-johan-mosfjell.jpg",
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

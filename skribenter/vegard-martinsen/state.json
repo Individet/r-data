@@ -4,6 +4,32 @@
   "templateVersion": 1,
   "knownTexts": [
     {
+      "title": "Filosofi: en innføring",
+      "date": "1991",
+      "publication": "Egenutgivelse / Lulu",
+      "kind": "bok",
+      "url": "https://www.lulu.com/shop/vegard-martinsen/filosofi-en-innf%C3%B8ring/paperback/product-13844418.html",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frihet, likhet, brorskap. Kapitalismen i teori og praksis",
+      "date": "2004",
+      "publication": "Egenutgivelse",
+      "kind": "bok",
+      "url": "https://www.ark.no/boker/Vegard-Martinsen-Frihet-likhet-brorskap-9788291106083",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "VIVO, Lærerens bok",
+      "date": "2010",
+      "publication": "Gyldendal",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
       "title": "Debattinnlegg i Dagsavisen",
       "url": "https://vegmar.wordpress.com/2016/03/15/debattinnlegg-i-dagsavisen/",
       "date": "2016-03-15",
@@ -182,24 +208,56 @@
       "kind": "artikkel",
       "foundBy": "feed",
       "firstSeenAt": "2026-10-12T12:28:06.477Z"
+    },
+    {
+      "title": "Podcast: Frankrike brenner",
+      "url": "https://www.gullstandard.no/2026/10/17/podcast-frankrike-brenner/",
+      "date": "2026-10-17",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Elon Musks svik",
+      "publication": "Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Forteljingas pedagogikk: Folkedikting før og no",
+      "publication": "Medforfattet med Johan Einar Bjerkem m.fl.",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hvordan få slutt på kriminaliteten?",
+      "publication": "AynRand.no",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Sosialøkonomi og Says lov",
+      "publication": "AynRand.no",
+      "kind": "annet",
+      "url": "https://aynrand.no/sosialokonomi-og-says-lov",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "vegard-martinsen",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-vegard-martinsen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01SksW1giw6kqBTpbBWVfgH8\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-vegard-martinsen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01SksW1giw6kqBTpbBWVfgH8\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

@@ -1,0 +1,275 @@
+{
+  "name": "Jan Arild Snoen",
+  "tagline": "Journalist, forfatter og samfunnsdebattant – fast spaltist i Minerva og Aftenposten, styremedlem i Civita",
+  "born": 1964,
+  "died": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Arild%20Snoen%20(140933).jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jan_Arild_Snoen_(140933).jpg",
+    "credit": "Foto: Tore Sætre",
+    "license": "CC BY-SA 4.0"
+  },
+  "platforms": [
+    {
+      "type": "substack",
+      "url": "https://snoen.substack.com/",
+      "label": "SNOEN (Substack)"
+    },
+    {
+      "type": "x",
+      "url": "https://twitter.com/jasnoen",
+      "label": "@jasnoen på X"
+    }
+  ],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://no.wikipedia.org/wiki/Jan_Arild_Snoen",
+      "label": "Wikipedia"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.amerikanskpolitikk.no/author/snoen/",
+      "label": "Forfatterside hos AmerikanskPolitikk.no"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.ark.no/forfattere/jan-arild-snoen",
+      "label": "Forfatterside hos ARK"
+    },
+    {
+      "type": "forlag",
+      "url": "https://dreyersforlag.no/forfatter/jan-arild-snoen/",
+      "label": "Forfatterside hos Dreyers Forlag"
+    },
+    {
+      "type": "annet",
+      "url": "https://civita.no/person/jan-arild-snoen/",
+      "label": "Profil hos Civita (styremedlem)"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://www.prio.org/people/4652",
+      "label": "PRIO – bidragsyter"
+    }
+  ],
+  "keyFacts": [
+    "Født 4. januar 1964 på Toten, flyttet til Oslo (Bjølsen) i 1985.",
+    "Var tidlig aktiv i Fremskrittspartiet: gruppesekretær for Oslo Frps bystyregruppe, leder av Oslo FpU og leder av Fremskrittspartiets Utredningsinstitutt 1988–1992, før han meldte seg ut av partiet i 1994.",
+    "Medlem av Høyre fra slutten av 1990-tallet til 2016, uten tunge verv.",
+    "Redaktør av det liberalistiske tidsskriftet «Ideer om frihet» 1993–2000.",
+    "Var med å starte den liberale tankesmien Civita i 2004 og sitter fortsatt i styret.",
+    "Hadde en deltidsstilling som journalist i den konservative nettavisen Minerva fra 2006 til 2021.",
+    "Fast spaltist i Aftenposten, blant annet i mediekritikkspalten Medierevisjonen.",
+    "President/visepresident i den proamerikanske foreningen Monticello Society.",
+    "Har gitt ut bøkene «Kong Carl» (2001, om Carl I. Hagen), «Åpen verden» (2004, om globalisering), «Trump-sjokket» (2020), «Den nye kalde krigen» (2021, om USA og Kina), «Legaliser! Nå!» (2022, om narkotikapolitikk), «Europa uten USA?» (2023) og «Trump og fascismen» (2024).",
+    "Utga i 2025/2026 boken «Den borgerlige illusjonen» om den ideologiske spriken på borgerlig side i norsk politikk.",
+    "Mottok journalistikkstøtte fra Fritt Ord til prosjektet «Ny journalistikk: Mediekritikk»."
+  ],
+  "freedomContributions": [
+    "Redigerte i åtte år det liberalistiske tidsskriftet «Ideer om frihet» (1993–2000), en sentral arena for klassisk-liberale og libertarianske ideer i Norge.",
+    "Medforfatter av «Åpen verden – et forsvar for globaliseringen» (2004), som argumenterer for at frihandel og globalisering øker velstand, reduserer fattigdom og gir individer økt frihet, mot globaliseringskritikernes påstander.",
+    "Skrev den prinsipielle debattboken «Legaliser! Nå!» (2022), der han argumenterer for full legalisering av narkotika ut fra at forbudspolitikk undergraver individets rett til å bestemme over egen kropp og skaper mer skade (kriminalitet, dødsfall) enn selve rusbruken.",
+    "Har i Substack-essays (bl.a. om narkokrigens historie) pekt på hvordan kriminalisering av rusmidler historisk har rammet minoriteter hardest, og brukt dette som argument mot statlig formynderi på området.",
+    "Forsvarer ytringsfrihet som et prinsipp som også må beskytte kontroversielle og krenkende meninger, og har kritisert tendenser til at deler av det progressive miljøet blir mindre tolerante overfor meninger de ikke liker.",
+    "Advarer mot autoritær maktkonsentrasjon, dokumentert i boken «Trump og fascismen» (2024), der han analyserer Donald Trumps forsøk på å sette demokratiske institusjoner og rettsstaten til side.",
+    "Omtaler Kinas ettpartistyre som et diktatur og Kinas behandling av uigurer som folkemord, og peker på mangel på ytringsfrihet og menneskerettigheter som sentrale svakheter ved autoritære modeller.",
+    "Tar i Substack-skriveriene til orde for en inkluderende, idébasert patriotisme fremfor etnisk nasjonalisme, og fremhever hvordan innvandring og åpne samfunn skaper økonomisk dynamikk og innovasjon.",
+    "Kritiserer proteksjonisme og handelskrig (bl.a. Trumps tollpolitikk) som skadelig for både økonomisk frihet og internasjonalt samarbeid."
+  ],
+  "themes": [
+    "Amerikansk politikk",
+    "Ytringsfrihet",
+    "Narkotikapolitikk og legalisering",
+    "Globalisering og frihandel",
+    "Mediekritikk",
+    "Innvandring og nasjonalisme",
+    "Kina og autoritære regimer",
+    "Norsk borgerlig politikk"
+  ],
+  "texts": [
+    {
+      "title": "Kong Carl: En uautorisert biografi om Carl I. Hagen",
+      "date": "2001",
+      "publication": "Kagge Forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Åpen verden – et forsvar for globaliseringen",
+      "date": "2004",
+      "publication": "Civita (medforfatter)",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Trump-sjokket: Hvordan kunne han vinne? Kan han vinne igjen?",
+      "date": "2020",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den nye kalde krigen: USA mot Kina",
+      "date": "2021",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Legaliser! Nå! Kampen om narkotikapolitikken",
+      "date": "2022",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Europa uten USA? Antiamerikanismen og dens følger",
+      "date": "2023",
+      "publication": "Dreyers forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Trump og fascismen",
+      "date": "2024",
+      "publication": "Dreyer",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den borgerlige illusjonen",
+      "publication": "Dreyer / omtalt på SNOEN",
+      "kind": "bok",
+      "url": "https://snoen.substack.com/p/den-borgerlige-illusjonen",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva skjer når de liberale blir intolerante?",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/autoritarisme-liberalisme-politisk-toleranse/hva-skjer-nar-de-liberale-blir-intolerante/518653",
+      "foundBy": "research"
+    },
+    {
+      "title": "Folket og innvandringen",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/flyktninger-innvandring-norge/folket-og-innvandringen/437533",
+      "foundBy": "research"
+    },
+    {
+      "title": "Globaliseringen er langt fra død",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/fra-papirutgaven-globalisering-handel/globaliseringen-er-langt-fra-dod/463826",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ytre høyre vinner ikke",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/vmBxvm/ytre-hoeyre-vinner-ikke-jan-arild-snoen",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ynkelige mannemenn som gjemmer seg bak facebookgruppen sin. Skjerp dere, gutter!",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/Xww2xb/ynkelige-mannemenn-som-gjemmer-seg-bak-facebookgruppen-sin-skjerp-dere-gutter-jan-arild-snoen",
+      "foundBy": "research"
+    },
+    {
+      "title": "Vi trenger ikke gi ekstremister 12 minutter av NRKs beste sendetid",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Om Trumps halvhjertede kuppforsøk",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/om-trumps-halvhjertede-kuppforsk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frihet gjennom styrke",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/frihet-gjennom-styrke",
+      "foundBy": "research"
+    },
+    {
+      "title": "En åpen og inkluderende nasjonalisme",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/en-apen-og-inkluderende-nasjonalisme",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kan USA roes ned?",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/kan-usa-roes-ned",
+      "foundBy": "research"
+    },
+    {
+      "title": "Trump: Putin er en taper",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/trump-putin-er-en-taper",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ran på høylys dag",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/ran-pa-hylys-dag",
+      "foundBy": "research"
+    },
+    {
+      "title": "Innvandrerlandet Canada",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/innvandrerlandet-canada",
+      "foundBy": "research"
+    },
+    {
+      "title": "De sender også de beste",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/de-sender-ogsa-de-beste",
+      "foundBy": "research"
+    },
+    {
+      "title": "Heller kommunist enn MAGA!",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/heller-kommunist-enn-maga",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den rotløse globalisten",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/den-rotlse-globalisten",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ekte nordmenn drikker øl!",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/ekte-nordmenn-drikker-l",
+      "foundBy": "research"
+    },
+    {
+      "title": "Sandra Borch bør ut av politikken",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/sandra-borch-br-ut-av-politikken",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.386Z"
+}

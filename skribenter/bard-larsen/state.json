@@ -2,23 +2,137 @@
   "writerId": "bard-larsen",
   "registryHash": "18e674e68cfc63e3",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Nostalgi for det absolutte",
+      "date": "12. mars 2012",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/totalitaere-og-autoritaere-regimer/nostalgi-for-det-absolutte/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Storebror dreper! Om totalitarisme",
+      "date": "2008 (ny utgave 2021)",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/storebror-dreper-om-totalitarisme/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "IDEALISTENE – Venstresidens reise i det autoritære",
+      "date": "2011",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/idealistene-venstresidens-reise-i-det-autoritaere-91/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Demokrati i trøbbel – et essay om hvordan og hvorfor demokratier kan gå i stykker",
+      "date": "2018",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://www.ark.no/produkt/boker/fagboker/demokrati-i-trobbel-9788292581902",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Bård Larsen om truslene mot demokratiet",
+      "date": "2024",
+      "publication": "Civita-podden",
+      "kind": "podkast",
+      "url": "https://civita.no/podcast/bard-larsen-om-truslene-mot-demokratiet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Totalitarisme på avveier",
+      "date": "7. februar 2013",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/totalitarisme-pa-avveier/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Déjà vu fra historiens skraphaug",
+      "date": "9. januar 2021",
+      "publication": "Minerva / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/populisme/deja-vu-fra-historiens-skraphaug/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Armenia: Begrepstriksing og kildebruk",
+      "publication": "Klassekampen / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/armenia-begrepstriksing-og-kildebruk/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den primitive intellektualismen",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/demokrati/totalitaere-og-autoritaere-regimer/den-primitive-intellektualismen/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Forlaget Pax 50 år: En ideologisk nostalgitripp",
+      "publication": "VG / Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/forlaget-pax-50-ar-en-ideologisk-nostalgitripp/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Historiens kraftlinjer? (Fascismen på fremmarsj i Europa? Hva skjer i Ungarn?)",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/historiens-kraftlinjer/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Identitetspolitikk (sammen med Jan Erik Grindheim og Mathilde Fasting)",
+      "publication": "Civita",
+      "kind": "rapport",
+      "url": "https://civita.no/produkt/identitetspolitikk/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Pass på! Om liberalt demokrati og dets fiender",
+      "publication": "Civita",
+      "kind": "bok",
+      "url": "https://civita.no/produkt/pass-pa-om-liberalt-demokrati-og-dets-fiender/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Rapport fra kulturkrigen: Misnøyens tidsalder",
+      "publication": "Fri tanke",
+      "kind": "artikkel",
+      "url": "https://fritanke.no/misnoyens-tidsalder/19.10991",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "bard-larsen",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-bard-larsen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01E5yo6UApqdNwrXmoGhg77w\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-bard-larsen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01E5yo6UApqdNwrXmoGhg77w\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

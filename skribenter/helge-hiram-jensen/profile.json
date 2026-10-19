@@ -1,0 +1,210 @@
+{
+  "name": "Helge Hiram Jensen",
+  "tagline": "Kultursosiolog, statsviter (ph.d.) og førsteamanuensis ved Høyskolen Kristiania",
+  "born": 1976,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/helgehiram/"
+    },
+    {
+      "type": "hjemmeside",
+      "url": "https://www.hiram.no",
+      "label": "hiram.no"
+    }
+  ],
+  "links": [
+    {
+      "type": "akademisk",
+      "url": "https://hil-no.academia.edu/HelgeHiramJensen",
+      "label": "Academia.edu-profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://app.cristin.no/persons/show.jsf?id=17729",
+      "label": "Cristin-profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://cosmos.sns.it/person/helge-hiram-jensen/",
+      "label": "COSMOS (Scuola Normale Superiore) – profil"
+    },
+    {
+      "type": "akademisk",
+      "url": "http://cadmus.eui.eu/handle/1814/35918",
+      "label": "Doktoravhandling, European University Institute"
+    },
+    {
+      "type": "forlag",
+      "url": "https://www.cappelendamm.no/forfatter/helge-hiram-jensen-45422",
+      "label": "Forfatterside hos Cappelen Damm"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://www.utrop.no/author/helgeabdelnoor/",
+      "label": "Forfatterside hos Utrop"
+    }
+  ],
+  "keyFacts": [
+    "Født 1976 som nordmann med libanesiske røtter; omtales også som Helge Hiram Abdelnoor Jensen.",
+    "Cand.polit. i kultursosiologi fra Universitetet i Oslo (2002).",
+    "Arbeidet 1999–2008 bl.a. som museumsguide, utstillingskurator, lærer, redaktør og forskningsassistent i sosiologi.",
+    "Tok M.Res. i statsvitenskap ved European University Institute (EUI) i Firenze og disputerte for ph.d. i Political and Social Sciences ved EUI 15. mai 2015.",
+    "Doktoravhandlingen er fritt tilgjengelig i EUIs forskningsarkiv Cadmus.",
+    "Arbeidet som arkivar ved Alta Museum/Verdensarvsenter for bergkunst i 2015–16.",
+    "Fra 2015/16 ansatt ved Høyskolen Kristiania, der han er førsteamanuensis i metodefag og har ledet bachelorprogrammene Statsvitenskap og kommunikasjon (sammen med Ketil Raknes) og Politikk og påvirkning.",
+    "Har også vært førsteamanuensis i samfunnsvitenskap og offentlig styring ved Høgskolen/Handelshøgskolen i Innlandet.",
+    "Tilknyttet forsker ved Centre on Social Movement Studies (COSMOS), Scuola Normale Superiore, Pisa.",
+    "Redigerte tidsskriftet Kontur Arkitektur (del 1 og 2) i Oslo i 2003.",
+    "Bidragsyter til antologien «Strategic Communication – Contemporary Perspectives» (Cappelen Damm Akademisk, 2024).",
+    "Var listekandidat ved kommune- og fylkestingsvalget i Buskerud i 2015.",
+    "Skriver fast for det liberalistiske nettstedet Liberaleren."
+  ],
+  "freedomContributions": [
+    "Skriver jevnlig for Liberaleren, Norges eldste libertarianske nettsted, og bidro bl.a. til markeringen av Liberalerens 25-årsjubileum i 2024.",
+    "I kronikken «Venstreradikale gratulasjoner til Liberaleren» (2024) beskriver han sin egen politiske reise og skriver at han «hever absintglasset for å synge liberalismens pris».",
+    "Har gjennom sin forskning på sosiale bevegelser for land- og vannrettigheter (bl.a. Alta-konflikten og urfolkskamper i Arktis og Middelhavsområdet) satt søkelys på hvordan lokalsamfunn og enkeltpersoner organiserer motstand mot sentralisert statsmakt.",
+    "Beskriver i egen fagprofil en målsetting om å fremme «frigjørende læring» i Paulo Freires tradisjon, med vekt på enkeltmenneskers og lokalsamfunns selvbestemmelse fremfor statlig styring.",
+    "Har i kronikker i Utrop og Nordnorsk debatt (2023) kritisert en statssanksjonert, ensrettet historieformidling om «fornorskning» og argumentert for en mer pluralistisk forståelse av forholdet mellom majoritet og minoritet.",
+    "Forsker på og underviser i strategisk og politisk kommunikasjon, med fokus på hvordan sivilsamfunn og sosiale bevegelser bruker kommunikasjon til å utfordre statlig og økonomisk makt."
+  ],
+  "themes": [
+    "Libertarianisme og liberalisme",
+    "Sosiale bevegelser og sivil ulydighet",
+    "Urfolksrettigheter og 'fornorskning'",
+    "Strategisk og politisk kommunikasjon",
+    "Forskningsmetode",
+    "Sannhet og forsoning (Sápmi og Libanon)",
+    "Byutvikling og gentrifisering"
+  ],
+  "texts": [
+    {
+      "title": "Venstreradikale gratulasjoner til Liberaleren",
+      "date": "2024-06-18",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/06/18/venstreradikale-gratulasjoner-til-liberaleren/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fornorskning av historievitenskapen begrenser sannhet og forsoning",
+      "date": "2023-05-13",
+      "publication": "Utrop",
+      "kind": "kronikk",
+      "url": "https://www.utrop.no/plenum/ytringer/340028/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Forbisnakking om fornorsking",
+      "date": "2023-05-30",
+      "publication": "Utrop",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fremtiden ligger i fortiden for Drammens Museum",
+      "publication": "Drammens Tidende",
+      "kind": "kronikk",
+      "url": "https://www.dt.no/fremtiden-ligger-i-fortiden-for-drammens-museum/o/5-57-2745921",
+      "foundBy": "research"
+    },
+    {
+      "title": "Monokulturalismens etiologi: norske nasjonale strateger mot arbeidsfolk og urfolk",
+      "date": "2013",
+      "publication": "Sosiologisk årbok",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/7425090/Monokulturalismens_etiologi_norske_nasjonale_strateger_mot_arbeidsfolk_og_urfolk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Gentrifiseringskrefter i omløp",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/21497335/Gentrifiseringskrefter_i_oml%C3%B8p",
+      "foundBy": "research"
+    },
+    {
+      "title": "Truth and Reconciliation in Sápmi and Lebanon – Messianism of Decolonization",
+      "date": "2024",
+      "publication": "Cultivating Transformative Reconciliation, Pickwick Publications",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Social Movement Communication as Democratic Innovation: The Alta Conflict 1970–1982",
+      "date": "2024-02",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/378469506_Social_Movement_Communication_as_Democratic_Innovation_The_Alta_conflict_1970-1982",
+      "foundBy": "research"
+    },
+    {
+      "title": "Establishment of the Norwegian Public Relations Club in the Context of the Cold War",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/381505085_Establishment_of_the_Norwegian_Public_Relations_Club_in_the_Context_of_the_Cold_War",
+      "foundBy": "research"
+    },
+    {
+      "title": "An Overview of Highly-Skilled Labour Migration to Norway – With a Focus on India as Country of Origin",
+      "kind": "rapport",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tana-befolkningens ja til miljø og menneskerettigheter",
+      "date": "2017",
+      "publication": "Nordnorsk debatt / Nordlys",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Athens: The Crisis Within the Crisis (reportasjeserie)",
+      "publication": "European Affairs",
+      "kind": "annet",
+      "foundBy": "research"
+    },
+    {
+      "title": "Resisting right-wing populism in power: a comparative analysis of the Facebook activities of social movements in Italy and the UK",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Politisk teori",
+      "date": "2020",
+      "publication": "Cappelen Damm Akademisk",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Strategic Communication – Contemporary Perspectives (bidragsyter)",
+      "date": "2024",
+      "publication": "Cappelen Damm Akademisk",
+      "kind": "bok",
+      "url": "https://cdforskning.no/cdf/catalog/book/208",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kontur Arkitektur (Del 1: Samfunnsbyggverket)",
+      "date": "2003",
+      "publication": "Kontur tidsskrift",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kontur Arkitektur (Del 2: Økologi – dialog og plan)",
+      "date": "2003",
+      "publication": "Kontur tidsskrift",
+      "kind": "bok",
+      "url": "https://www.academia.edu/1060327/Jensen_Helge_Hiram_L%C3%B6ffler_David_Bodin_Halvor_eds_Kontur_Arkitektur_Del_2_%C3%98kologi_dialog_og_plan_Oslo_Kontur_tidsskrift_2003_ISBN_82_996807_0_0_180_p_Kontur",
+      "foundBy": "research"
+    },
+    {
+      "title": "Samtale om boken «Antonio Gramsci. Utvalgte tekster 1916–1926»",
+      "publication": "Cappelens upopulære podkast",
+      "kind": "podkast",
+      "url": "https://cappelensupop.libsyn.com/antonio-gramsci-utvalgte-tekster-1916-1926-geir-lima-og-helge-hiram-jensen",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.385Z"
+}

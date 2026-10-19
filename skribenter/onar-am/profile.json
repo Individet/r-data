@@ -1,0 +1,79 @@
+{
+  "name": "Onar Åm",
+  "tagline": "Forfatter, redaktør og liberalist – grunnlegger av Ekte Nyheter",
+  "born": 1973,
+  "died": null,
+  "image": null,
+  "platforms": [
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/Onar.Aam/",
+      "label": "Onar Åm på Facebook"
+    }
+  ],
+  "links": [
+    {
+      "type": "annet",
+      "url": "https://www.goodreads.com/author/show/8382032.Onar_m",
+      "label": "Forfatterprofil på Goodreads"
+    }
+  ],
+  "keyFacts": [
+    "Født 3. januar 1973.",
+    "Norsk forfatter, skribent, entreprenør og filosof.",
+    "Grunnlegger av og redaktør for nettstedet Ekte Nyheter.",
+    "Medlem av Det Liberale Folkepartiet (tidligere Liberalistene) og stilte til stortingsvalg for partiet i 2009 og 2013.",
+    "Har bidratt med tekster til Det Liberale Folkepartiets tidsskrift Liberal.",
+    "Har skrevet for det amerikanske nettstedet Liberty Nation fra 2018.",
+    "Initiativtaker til Free State Initiative, et prosjekt for å opprette en fristat innenfor grensene til en eksisterende stat.",
+    "Medstifter av den politiske podcasten Tankekrim høsten 2017, sammen med personer fra Ekte Nyheter-miljøet.",
+    "Bosatt i Stavanger; har hatt en lang karriere som entreprenør innen teknologiutvikling.",
+    "Forfatter av bøkene «Kampen om klimaet – til forsvar for menneskeheten» (2007) og «Kunsten å krige» (2008), samt den engelskspråklige boken «Sic Semper Tyrannis»."
+  ],
+  "freedomContributions": [
+    "Skrev boken «Kampen om klimaet – til forsvar for menneskeheten» (2007) som et forsvar for industrisamfunnet og menneskeheten mot det han mener er overdrevne klimapåstander fra FNs klimapanel og Al Gore, og argumenterte for et mer liberalt alternativ til Kyoto-avtalen.",
+    "Grunnla og redigerte Ekte Nyheter som en alternativ medieplattform utenfor det etablerte mediebildet.",
+    "Stilte som kandidat for Det Liberale Folkepartiet ved stortingsvalgene i 2009 og 2013, og bidro med skribentarbeid til partiets tidsskrift Liberal, med fokus på individuell frihet og et redusert statsapparat.",
+    "Tok initiativ til Free State Initiative, et prosjekt rettet mot å etablere en fristat med høy grad av individuell selvråderett innenfor en eksisterende stats grenser.",
+    "Var med å starte podcasten Tankekrim, som diskuterer politisk filosofi og liberalistiske idéer.",
+    "Har skrevet for det amerikanske libertarianske nettstedet Liberty Nation, og spredt frihetsorienterte argumenter til et internasjonalt publikum."
+  ],
+  "themes": [
+    "Klimadebatt og klimaskepsis",
+    "Liberalisme og frihetsfilosofi",
+    "Krigskunst og strategi",
+    "Fristater og selvstyre",
+    "Alternative medier og medienes rolle",
+    "Politikk og partiarbeid"
+  ],
+  "texts": [
+    {
+      "title": "Kampen om klimaet – til forsvar for menneskeheten",
+      "date": "2007",
+      "publication": "Koloritt forlag",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kunsten å krige",
+      "date": "2008",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Sic Semper Tyrannis",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hvordan hindre piratkopiering?",
+      "date": "2007-11-16",
+      "publication": "Dagbladet",
+      "kind": "kronikk",
+      "url": "https://www.dagbladet.no/nyheter/hvordan-hindre-piratkopiering/66406053",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.386Z"
+}

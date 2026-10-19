@@ -1,0 +1,181 @@
+{
+  "name": "Jan Brøgger",
+  "tagline": "Sosialantropolog, professor og samfunnsdebattant (1936–2006)",
+  "born": 1936,
+  "died": 2006,
+  "image": null,
+  "platforms": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jan_Br%C3%B8gger",
+      "label": "Wikipedia (engelsk)"
+    },
+    {
+      "type": "snl",
+      "url": "https://nbl.snl.no/Jan_Christian_Br%C3%B8gger",
+      "label": "Norsk biografisk leksikon"
+    },
+    {
+      "type": "forlag",
+      "url": "https://www.cappelendamm.no/forfatter/jan-brogger-24087",
+      "label": "Cappelen Damm – forfatterside"
+    },
+    {
+      "type": "annet",
+      "url": "https://deichman.no/person/jan-br%C3%B8gger_h13707600",
+      "label": "Deichman – forfatterbiografi"
+    },
+    {
+      "type": "annet",
+      "url": "https://janbrogger.no/",
+      "label": "janbrogger.no – minne-/biografiside"
+    },
+    {
+      "type": "annet",
+      "url": "https://mannsforum.no/nyheter/jan-brogger-om-det-feministiske-mannehatet-og-en-forsvarstale-for-menn/",
+      "label": "Mannsforum – om «Forsvarstale for mannen»"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.liberaleren.no/ideeromfrihet/",
+      "label": "Liberaleren – Ideer om frihet (arkiv)"
+    }
+  ],
+  "keyFacts": [
+    "Født 13. januar 1936 i Paris, død 28. februar 2006 i Oslo.",
+    "Cand.psychol. 1961 og dr.philos. 1970, begge fra Universitetet i Oslo.",
+    "Arbeidet tidlig sammen med Fredrik Barth ved Universitetet i Bergen, og studerte senere under Victor Turner ved Cornell University.",
+    "Konservator ved Etnografisk museum, Universitetet i Oslo, 1969–1974.",
+    "Gjesteopphold ved universitetet i Addis Abeba 1970–1971.",
+    "Professor i sosialantropologi ved Universitetet i Trondheim/NTNU fra 1975 til sin død i 2006, og var også dekan ved Det humanistiske fakultet.",
+    "Gjennomførte feltarbeid i Italia, Etiopia, Sudan, Portugal og Malaysia.",
+    "Var i mange tiår en aktiv og markant samfunnsdebattant og fast spaltist i norske aviser.",
+    "Skrev en rekke debattbøker om venstresidens ideologi, bl.a. «Maktmennesket» (1975) og «Frihetens banemenn» (1977).",
+    "Medforfatter av boken «Hekseprosess» (2003) om Bjugn-saken, sammen med C. Wiig.",
+    "En artikkel av Brøgger fra tidsskriftet «Ideer om frihet» (1989) er republisert på Liberaleren.no under stikkordet libertarianisme."
+  ],
+  "freedomContributions": [
+    "Advarte under studentopprøret i 1968 mot totalitære tendenser på venstresiden, og fulgte opp dette gjennom flere tiår som en vedvarende kritiker av autoritær venstreideologi.",
+    "I boken «Maktmennesket. Om venstresosialismen og friheten» (1975) argumenterte han mot venstresosialistiske bevegelsers undergraving av individuell frihet.",
+    "I «Frihetens banemenn. Om eurokommunismen og antihumanismens gjennombrudd» (1977) kritiserte han eurokommunismen for å true individets frihet under dekke av humanisme.",
+    "Bidro til det liberalistiske tidsskriftet «Ideer om frihet» (utgitt av libertarianske/klassisk-liberale miljøer 1980–2000) med artikkelen «Trenger vi det utvidede velferdsbegrep?» (1989), der han tok et kritisk oppgjør med velferdsstatens konsekvenser og argumenterte for at byråkratisk omsorg undergraver ekte medmenneskelighet og personlig ansvar.",
+    "Forsvarte i «Forsvarstale for mannen» (1995) menns rettigheter og stilling i en tid han mente var preget av ensidig feministisk samfunnsdebatt, og tok dermed til orde for et mer balansert syn på kjønn og individuell rett.",
+    "Engasjerte seg som fagperson i Bjugn-saken og skrev (sammen med C. Wiig) boken «Hekseprosess» (2003), som satte søkelys på rettssikkerhet og faren for justismord når staten og det offentlige apparatet drives av moralsk panikk.",
+    "Omtalt i ettertid som en forsker og debattant som konsekvent støttet «upopulære og lite politisk korrekte standpunkter» og forsvarte familien som samfunnets bærende institusjon mot autoritære bevegelser."
+  ],
+  "themes": [
+    "Individuell frihet vs. kollektivisme",
+    "Kritikk av venstreautoritære bevegelser",
+    "Velferdsstatens konsekvenser",
+    "Menns rettigheter og kjønnsdebatt",
+    "Rettssikkerhet og justismord",
+    "Sosialantropologi og kulturforståelse",
+    "Familien som samfunnsinstitusjon"
+  ],
+  "texts": [
+    {
+      "title": "Trenger vi det utvidede velferdsbegrep?",
+      "date": "1989 (republisert 2. desember 2022)",
+      "publication": "Ideer om frihet / Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2022/12/02/trenger-vi-det-utvidede-velferdsbegrep/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frihet og livskvalitet",
+      "date": "ca. 1980–2000",
+      "publication": "Ideer om frihet (gjengitt i antologien «Liberalisme på norsk», 2001)",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "Maktmennesket. Om venstresosialismen og friheten",
+      "date": "1975",
+      "publication": "Cappelen",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Roller og rollespill. Innføring i atferdsanalyse",
+      "date": "1976",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Lederskapskrise og grasrotrevolt. Debatt om den manipulerte grasrot og kampen mellom den demokratiske og den autoritære elite",
+      "date": "1976",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frihetens banemenn. Om eurokommunismen og antihumanismens gjennombrudd",
+      "date": "1977",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Belief and Experience among the Sidamo. A Case Study towards an Anthropology of Knowledge",
+      "date": "1986",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Pre-Bureaucratic Europeans. A Study of a Portuguese Fishing Community",
+      "date": "1989",
+      "kind": "akademisk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Kulturforståelse. En nøkkel til vår internasjonale samtid",
+      "date": "1993",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Synd, makt og frihet i Norge",
+      "date": "1993",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Forsvarstale for mannen",
+      "date": "1995",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Innføring i sosialantropologi",
+      "date": "1998",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Psykologisk antropologi",
+      "date": "1999",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Epidemier. En natur- og kulturhistorie",
+      "date": "2002",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hekseprosess. Bjugn-saken i et juridisk og kulturhistorisk perspektiv",
+      "date": "2003",
+      "publication": "med C. Wiig",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Folk uten land. Europeiske skjebner",
+      "date": "2004",
+      "kind": "bok",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.385Z"
+}

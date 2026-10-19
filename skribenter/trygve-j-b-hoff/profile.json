@@ -1,0 +1,153 @@
+{
+  "name": "Trygve J. B. Hoff",
+  "tagline": "Økonom, redaktør av Farmand og grunnleggende medlem av Mont Pelerin Society",
+  "born": 1895,
+  "died": 1982,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hoff2.png",
+    "sourcePage": "https://en.wikipedia.org/wiki/Trygve_Hoff",
+    "credit": "Ukjent fotograf, via Wikipedia/Wikimedia Commons"
+  },
+  "platforms": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "https://no.wikipedia.org/wiki/Trygve_J._B._Hoff",
+      "label": "Wikipedia (bokmål)"
+    },
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trygve_Hoff",
+      "label": "Wikipedia (engelsk)"
+    },
+    {
+      "type": "snl",
+      "url": "https://snl.no/Trygve_J._B._Hoff",
+      "label": "Store norske leksikon"
+    },
+    {
+      "type": "forfatterside",
+      "url": "https://mises.org/profile/trygve-jb-hoff",
+      "label": "Mises Institute – forfatterprofil"
+    },
+    {
+      "type": "akademisk",
+      "url": "https://econjwatch.org/authors/Trygve%20Hoff",
+      "label": "Econ Journal Watch – forfatterbiografi"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.wikidata.org/wiki/Q7848482",
+      "label": "Wikidata"
+    },
+    {
+      "type": "annet",
+      "url": "https://civita.no/bokanmeldelse/hoff-trygve-j-b-forfatterskapet/",
+      "label": "Civita: Hoff, Trygve J.B. – forfatterskapet"
+    }
+  ],
+  "keyFacts": [
+    "Født Trygve Jacob Broch Hoff 12. november 1895 i Kristiania, død 4. januar 1982 i Oslo.",
+    "Utdannet i økonomi ved Universitetet i Oslo (uteksaminert 1916).",
+    "Tok den filosofiske doktorgraden ved Universitetet i Oslo i 1938/1939 med avhandlingen «Økonomisk kalkulasjon i socialistiske samfund».",
+    "Kjøpte ukebladet Farmand – Nordens eldste økonomiske tidsskrift – i 1935 og drev det som eier og redaktør i flere tiår, og gjorde det til et ledende organ for norsk samfunnsdebatt.",
+    "Ble fengslet av de tyske okkupasjonsmyndighetene for sine politiske synspunkter under andre verdenskrig, og Farmand ble stanset av Reichskommissariat umiddelbart etter invasjonen i 1940.",
+    "Var med å stifte Mont Pelerin Society i Sveits i 1947, som den eneste norske deltakeren ved grunnleggelsesmøtet, sammen med blant andre F.A. Hayek.",
+    "Skrev flere bøker om liberalisme, planøkonomi og kulturpolitikk, blant annet «Fred og fremtid: liberokratiets vei» (1945) og «Tanker og idéer» (1975).",
+    "Omtales i ettertid som en av 1900-tallets mest markante liberale stemmer i norsk offentlighet, men ble lenge oversett i norsk økonomisk idéhistorie."
+  ],
+  "freedomContributions": [
+    "I doktoravhandlingen fra 1938 argumenterte Hoff – i forlengelsen av Mises' og Hayeks kalkulasjonsargument – for at sosialistisk planøkonomi ikke kan erstatte markedsprisenes informasjonsfunksjon, og at sentralstyrt ressursbruk derfor nødvendigvis blir ineffektiv.",
+    "Koblet i Farmands programartikkel fra 1935 kampen for næringslivets frihet eksplisitt sammen med kampen for personlig frihet og ytringsfrihet, og advarte mot at innskrenket næringsfrihet går hånd i hånd med innskrenket åndsfrihet.",
+    "Advarte gjennom hele mellomkrigstiden og etterkrigstiden konsekvent mot både nazisme og kommunisme som trusler mot individets frihet.",
+    "Ble personlig forfulgt og fengslet av okkupasjonsmakten for sine liberale og frihetsorienterte synspunkter.",
+    "Var grunnleggende medlem av Mont Pelerin Society (1947), nettverket av klassisk liberale økonomer og tenkere (bl.a. Hayek, Mises, Friedman) som arbeidet for å gjenreise den klassiske liberalismen etter krigen.",
+    "Brukte Farmand som plattform gjennom flere tiår til å kritisere reguleringspolitikken og den gradvise «sniking» av sosialisering ført av Arbeiderpartiet, jf. boktittelen «Snigende socialisering eller snigende liberalisering» (1955).",
+    "Utviklet begrepet «liberokrati» som sin visjon for et robust liberalt demokrati bygget på individuell frihet, kombinert med et pragmatisk syn på sosiale sikkerhetsnett, i tradisjonen fra Hayek, Röpke og Eucken.",
+    "Utfordret direkte sosialøkonomen og planøkonomi-forkjemperen Ragnar Frisch i en brevveksling fra 1941 om forholdet mellom planstyring og åndsfrihet."
+  ],
+  "themes": [
+    "Klassisk liberalisme",
+    "Sosialistisk kalkulasjonsdebatt / planøkonomi vs. markedsøkonomi",
+    "Næringsfrihet og reguleringspolitikk",
+    "Ytrings- og åndsfrihet",
+    "Antikommunisme og antifascisme",
+    "Internasjonal liberal bevegelse (Mont Pelerin Society)",
+    "Liberalt demokrati («liberokrati»)",
+    "Kulturpolitikk"
+  ],
+  "texts": [
+    {
+      "title": "Økonomisk kalkulasjon i socialistiske samfund",
+      "date": "1938",
+      "publication": "Aschehoug (doktoravhandling, Universitetet i Oslo)",
+      "kind": "akademisk",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2007011600043",
+      "foundBy": "research"
+    },
+    {
+      "title": "Economic Calculation in the Socialist Society (engelsk oversettelse)",
+      "date": "1949",
+      "publication": "William Hodge & Company / senere Mises Institute",
+      "kind": "bok",
+      "url": "https://mises.org/library/book/economic-calculation-socialist-society",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fred og fremtid: liberokratiets vei",
+      "date": "1945",
+      "publication": "Aschehoug",
+      "kind": "bok",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2007062600090",
+      "foundBy": "research"
+    },
+    {
+      "title": "Västerländsk frihet eller asiatiskt tvång",
+      "date": "1946",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Why We Take the Trouble",
+      "date": "1946",
+      "kind": "annet",
+      "foundBy": "research"
+    },
+    {
+      "title": "La socialisation en Norvège",
+      "date": "1953",
+      "kind": "annet",
+      "foundBy": "research"
+    },
+    {
+      "title": "Snigende socialisering eller snigende liberalisering",
+      "date": "1955",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tanker og idéer",
+      "date": "1975",
+      "publication": "Aschehoug",
+      "kind": "bok",
+      "url": "https://urn.nb.no/URN:NBN:no-nb_digibok_2013032208066",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ny kulturpolitikk: frå ord til handling (med Lars Hauge)",
+      "date": "1978",
+      "kind": "bok",
+      "foundBy": "research"
+    },
+    {
+      "title": "Trygve Hoff's Appeal to Ragnar Frisch: Four Letters from 1941 (brevveksling, oversatt av Hannes H. Gissurarson)",
+      "date": "1941 (publisert 2024)",
+      "publication": "Econ Journal Watch",
+      "kind": "annet",
+      "url": "https://econjwatch.org/File+download/1304/HoffFrischMar2024.pdf",
+      "foundBy": "research"
+    }
+  ],
+  "sources": [],
+  "researchedAt": "2026-10-19T10:50:04.387Z"
+}

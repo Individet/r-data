@@ -2,23 +2,119 @@
   "writerId": "kristian-skagen-ekeli",
   "registryHash": "0d0cda4d3906d448",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Risiko, usikkerhet og intergenerasjonell etikk",
+      "date": "2002",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/EKERUO",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Introduksjon: Moralisering",
+      "date": "2017",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://www.scup.com/doi/10.18261/issn.1504-2901-2017-03-01",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Uvitende, uansvarlige og irrasjonelle velgere har en moralsk plikt til å avstå fra å stemme",
+      "date": "2017",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Valg er for viktig til å bli avgjort ved terningkast",
+      "date": "2017",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Politisk uvitenhet, stemmeretten og velgeres moralske ansvar",
+      "date": "2019",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/EKEPUS",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Democratic legitimacy, political speech and viewpoint neutrality",
+      "date": "2020",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Respekt for personer, epistemiske plikter og klanderverdig politisk uvitenhet",
+      "date": "2020",
+      "publication": "Norsk Filosofisk Tidsskrift",
+      "kind": "akademisk",
+      "url": "https://philpapers.org/rec/SKARFP",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Et grønt demokratisk skifte? Borgerråd for klima og utlendingers rett til demokratisk deltakelse",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/354490455_Et_gront_demokratisk_skifte_Borgerrad_for_klima_og_utlendingers_rett_til_demokratisk_deltakelse",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Giving a voice to posterity – deliberative democracy and representation of future people",
+      "publication": "Journal of Agricultural and Environmental Ethics",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Med Kant mot ulikhet: Et demokratisk reformargument",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/350167174_Med_Kant_mot_ulikhet_Et_demokratisk_reformargument",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Politisk uvitenhet og retten til politisk makt",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/demokrati-stemmerett-valg/politisk-uvitenhet-og-retten-til-politisk-makt/170143",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Rettslig moralisme og retten til ytringsfrihet",
+      "publication": "Ratio Juris / norsk fagtidsskrift",
+      "kind": "akademisk",
+      "url": "https://philarchive.org/archive/EKERMO",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ytringsfrihet og terrorisme",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/34071962/Ytringsfrihet_og_terrorisme",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "kristian-skagen-ekeli",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-kristian-skagen-ekeli-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01HoYLJ4veyComjncbCkQEU3\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-kristian-skagen-ekeli-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01HoYLJ4veyComjncbCkQEU3\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

@@ -2,23 +2,306 @@
   "writerId": "eirik-lokke",
   "registryHash": "1af282d25b790a68",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Klimautfordringen kan mestres (redaktør)",
+      "date": "2008",
+      "publication": "Unge Høyres Landsforbund",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Personvern – etter Snowden. Privatliv i det digitale samfunn",
+      "date": "2016",
+      "publication": "Civita forlag",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "300: Dydsetikk i Hollywood-form",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "ACTIS' lemfeldige omgang med fakta",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Adjø 2023",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Adjø velferdsstat?",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "All politikk er lokal",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Anne Applebaum on the future of the liberal world order",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Applebaum, Anne: Twilight of Democracy – The Seductive Lure of Authoritarianism (bokomtale)",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Arven etter Angela Merkel",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Civita-notat: Velgerinnflytelse, nominasjonsprosesser og valg",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Den instinktive fascisten Trump",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Det er urovekkende å se at Donald Trump aktivt undergraver selve demokratiet",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Donald Trump og ytringsfrihet",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Et forsvar for J.K. Rowling",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Feil om kommunesammenslåing",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fire måter internett brukes til å undergrave demokratiet",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Folket har rett, bortsett fra når det tar feil – tanker rundt Donald Trumps andre valgseier",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fred skapes gjennom styrke",
+      "publication": "Agenda Magasin",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frihet og forbud – et liberalt perspektiv",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/frihet-og-forbud-et-liberalt-perspektiv/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Globaliseringens velsignelser",
+      "publication": "Bergens Tidende",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hva er KrFUs politiske prosjekt?",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hvordan skal Europa håndtere en post-amerikansk verden?",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "I Marte Michelets verden",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Krenkelser siviliserer",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet/krenkelser-siviliserer/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kutt i sykelønn er overmodent",
+      "publication": "Altinget",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Libertarianismen er død, lenge leve liberalismen",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/politisk-filosofi-og-idedebatt/liberalisme/libertarianismen-er-dod-lenge-leve-liberalismen/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "MAGA-bevegelsens «sado-konservatisme»",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Mannen mot systemet",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/mannen-mot-systemet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Med valget av Donald Trump kan vi ikke lenger ta det liberale demokratiet som en selvfølge",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Norge kommer ikke utenom Trump",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Nærsynt fra FAFO",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "STORTINGET 2021–2025: Hvem skal styre landet?",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "STORTINGET 2025–2029 – Hvem skal styre landet?",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "The US at a Crossroads",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Tulleliste fra Regjeringen",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Uklart om tv-reklame",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ungarn: Kunsten å undergrave demokratiet",
+      "publication": "Civita",
+      "kind": "rapport",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ytringsfrihet er løsningen, ikke problemet",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet/ytringsfrihet-er-losningen-ikke-problemet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ytringsfrihet: Grensen ingen kan definere",
+      "publication": "Civita",
+      "kind": "kronikk",
+      "url": "https://civita.no/menneskerettigheter-og-demokrati/ytringsfrihet-grensen-ingen-kan-definere/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "eirik-lokke",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-eirik-lokke-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_015gbQ21yyEZGb9heRk5qtZC\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-eirik-lokke-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_015gbQ21yyEZGb9heRk5qtZC\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

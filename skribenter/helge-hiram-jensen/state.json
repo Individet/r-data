@@ -2,23 +2,160 @@
   "writerId": "helge-hiram-jensen",
   "registryHash": "1411d0a12f60a67a",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Kontur Arkitektur (Del 1: Samfunnsbyggverket)",
+      "date": "2003",
+      "publication": "Kontur tidsskrift",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kontur Arkitektur (Del 2: Økologi – dialog og plan)",
+      "date": "2003",
+      "publication": "Kontur tidsskrift",
+      "kind": "bok",
+      "url": "https://www.academia.edu/1060327/Jensen_Helge_Hiram_L%C3%B6ffler_David_Bodin_Halvor_eds_Kontur_Arkitektur_Del_2_%C3%98kologi_dialog_og_plan_Oslo_Kontur_tidsskrift_2003_ISBN_82_996807_0_0_180_p_Kontur",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Monokulturalismens etiologi: norske nasjonale strateger mot arbeidsfolk og urfolk",
+      "date": "2013",
+      "publication": "Sosiologisk årbok",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/7425090/Monokulturalismens_etiologi_norske_nasjonale_strateger_mot_arbeidsfolk_og_urfolk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Tana-befolkningens ja til miljø og menneskerettigheter",
+      "date": "2017",
+      "publication": "Nordnorsk debatt / Nordlys",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Politisk teori",
+      "date": "2020",
+      "publication": "Cappelen Damm Akademisk",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fornorskning av historievitenskapen begrenser sannhet og forsoning",
+      "date": "2023-05-13",
+      "publication": "Utrop",
+      "kind": "kronikk",
+      "url": "https://www.utrop.no/plenum/ytringer/340028/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Forbisnakking om fornorsking",
+      "date": "2023-05-30",
+      "publication": "Utrop",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Strategic Communication – Contemporary Perspectives (bidragsyter)",
+      "date": "2024",
+      "publication": "Cappelen Damm Akademisk",
+      "kind": "bok",
+      "url": "https://cdforskning.no/cdf/catalog/book/208",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Truth and Reconciliation in Sápmi and Lebanon – Messianism of Decolonization",
+      "date": "2024",
+      "publication": "Cultivating Transformative Reconciliation, Pickwick Publications",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Social Movement Communication as Democratic Innovation: The Alta Conflict 1970–1982",
+      "date": "2024-02",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/378469506_Social_Movement_Communication_as_Democratic_Innovation_The_Alta_conflict_1970-1982",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Venstreradikale gratulasjoner til Liberaleren",
+      "date": "2024-06-18",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/06/18/venstreradikale-gratulasjoner-til-liberaleren/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "An Overview of Highly-Skilled Labour Migration to Norway – With a Focus on India as Country of Origin",
+      "kind": "rapport",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Athens: The Crisis Within the Crisis (reportasjeserie)",
+      "publication": "European Affairs",
+      "kind": "annet",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Establishment of the Norwegian Public Relations Club in the Context of the Cold War",
+      "kind": "akademisk",
+      "url": "https://www.researchgate.net/publication/381505085_Establishment_of_the_Norwegian_Public_Relations_Club_in_the_Context_of_the_Cold_War",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Fremtiden ligger i fortiden for Drammens Museum",
+      "publication": "Drammens Tidende",
+      "kind": "kronikk",
+      "url": "https://www.dt.no/fremtiden-ligger-i-fortiden-for-drammens-museum/o/5-57-2745921",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Gentrifiseringskrefter i omløp",
+      "kind": "akademisk",
+      "url": "https://www.academia.edu/21497335/Gentrifiseringskrefter_i_oml%C3%B8p",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Resisting right-wing populism in power: a comparative analysis of the Facebook activities of social movements in Italy and the UK",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Samtale om boken «Antonio Gramsci. Utvalgte tekster 1916–1926»",
+      "publication": "Cappelens upopulære podkast",
+      "kind": "podkast",
+      "url": "https://cappelensupop.libsyn.com/antonio-gramsci-utvalgte-tekster-1916-1926-geir-lima-og-helge-hiram-jensen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "helge-hiram-jensen",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-helge-hiram-jensen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0149vNzabKMTLMpoz8cndon5\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-helge-hiram-jensen-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_0149vNzabKMTLMpoz8cndon5\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

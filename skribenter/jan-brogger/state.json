@@ -2,23 +2,135 @@
   "writerId": "jan-brogger",
   "registryHash": "0daeb9ec2dce463e",
   "templateVersion": 1,
-  "knownTexts": [],
+  "knownTexts": [
+    {
+      "title": "Maktmennesket. Om venstresosialismen og friheten",
+      "date": "1975",
+      "publication": "Cappelen",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Lederskapskrise og grasrotrevolt. Debatt om den manipulerte grasrot og kampen mellom den demokratiske og den autoritære elite",
+      "date": "1976",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Roller og rollespill. Innføring i atferdsanalyse",
+      "date": "1976",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frihetens banemenn. Om eurokommunismen og antihumanismens gjennombrudd",
+      "date": "1977",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Belief and Experience among the Sidamo. A Case Study towards an Anthropology of Knowledge",
+      "date": "1986",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Pre-Bureaucratic Europeans. A Study of a Portuguese Fishing Community",
+      "date": "1989",
+      "kind": "akademisk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Trenger vi det utvidede velferdsbegrep?",
+      "date": "1989 (republisert 2. desember 2022)",
+      "publication": "Ideer om frihet / Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2022/12/02/trenger-vi-det-utvidede-velferdsbegrep/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kulturforståelse. En nøkkel til vår internasjonale samtid",
+      "date": "1993",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Synd, makt og frihet i Norge",
+      "date": "1993",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Forsvarstale for mannen",
+      "date": "1995",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Innføring i sosialantropologi",
+      "date": "1998",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Psykologisk antropologi",
+      "date": "1999",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Epidemier. En natur- og kulturhistorie",
+      "date": "2002",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Hekseprosess. Bjugn-saken i et juridisk og kulturhistorisk perspektiv",
+      "date": "2003",
+      "publication": "med C. Wiig",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Folk uten land. Europeiske skjebner",
+      "date": "2004",
+      "kind": "bok",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Frihet og livskvalitet",
+      "date": "ca. 1980–2000",
+      "publication": "Ideer om frihet (gjengitt i antologien «Liberalisme på norsk», 2001)",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    }
+  ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "jan-brogger",
-    "action": "skip",
-    "reasons": [
-      "ingen eksisterende profil",
-      "skriving feilet: Batch-resultat feilet for skribent-jan-brogger-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01SASEBw1ZYnD2p177ZcPSSz\"} — prøves igjen neste kjøring"
-    ]
-  },
-  "pendingFull": {
+    "action": "full",
     "reasons": [
       "ingen eksisterende profil"
-    ],
-    "events": [],
-    "failedAttempts": 1,
-    "lastError": "skriving feilet: Batch-resultat feilet for skribent-jan-brogger-write (type=errored): {\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"workerreq_01SASEBw1ZYnD2p177ZcPSSz\"}"
+    ]
   },
-  "imagePath": null
+  "imagePath": null,
+  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
+  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }
