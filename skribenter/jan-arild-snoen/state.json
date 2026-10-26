@@ -60,18 +60,199 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
-      "title": "De sender også de beste",
+      "title": "En åpen og inkluderende nasjonalisme",
       "publication": "SNOEN",
       "kind": "bloggpost",
-      "url": "https://snoen.substack.com/p/de-sender-ogsa-de-beste",
+      "url": "https://snoen.substack.com/p/en-apen-og-inkluderende-nasjonalisme",
       "foundBy": "research",
-      "firstSeenAt": "2026-10-19T10:18:53.551Z"
+      "firstSeenAt": "2026-10-19T10:18:53.551Z",
+      "date": "2025-12"
+    },
+    {
+      "title": "Motvillige allierte",
+      "date": "2025-12",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/motvillige-allierte",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Frihet gjennom styrke",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/frihet-gjennom-styrke",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z",
+      "date": "2026-01"
+    },
+    {
+      "title": "Har det bare gått ett år?",
+      "date": "2026-01",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/har-det-bare-gatt-ett-ar",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Høyesteretts uavhengighetserklæring",
+      "date": "2026-02",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/hyesteretts-uavhengighetserklring",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Selvsagt skal vi ta EU-debatten!",
+      "date": "2026-02",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/selvsagt-skal-vi-ta-eu-debatten",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Ett år og veien videre",
+      "date": "2026-03",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/ett-ar-og-veien-videre",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Er frihandelens tid forbi?",
+      "date": "2026-06",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/er-frihandelens-tid-forbi",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Innvandrerlandet Canada",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/innvandrerlandet-canada",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z",
+      "date": "2026-07"
+    },
+    {
+      "title": "Markedet tviler på Trump",
+      "date": "2026-08",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/markedet-tviler-pa-trump",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Mine bøker",
+      "date": "2026-08",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/mine-bker",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
       "title": "Den borgerlige illusjonen",
       "publication": "Dreyer / omtalt på SNOEN",
       "kind": "bok",
       "url": "https://snoen.substack.com/p/den-borgerlige-illusjonen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z",
+      "date": "2026-09"
+    },
+    {
+      "title": "Uten et sterkt Høyre kollapser den borgerlige drømmen",
+      "date": "2026-09",
+      "publication": "Aftenposten",
+      "kind": "kronikk",
+      "url": "https://www.aftenposten.no/meninger/kronikk/i/9paMB5/uten-et-sterkt-hoeyre-kollapser-den-borgerlige-droemmen",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Venstre kan skifte side",
+      "date": "2026-09",
+      "publication": "Dagbladet",
+      "kind": "kronikk",
+      "url": "https://www.dagbladet.no/meninger/venstre-kan-skifte-side/85185498",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Blå bølge i horisonten",
+      "date": "2026-09-23",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/bla-blge-i-horisonten",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Guvernørvalgene: Demokratisk comeback?",
+      "date": "2026-09-24",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/guvernrvalgene-demokratisk-comeback",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Hadde de borgerlige bare turt å være skikkelig borgerlige",
+      "date": "2026-10",
+      "publication": "Morgenbladet",
+      "kind": "kronikk",
+      "url": "https://www.morgenbladet.no/ideer/hadde-de-borgerlige-bare-turt-a-vaere-skikkelig-borgerlige/10565495",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Den store staten",
+      "date": "2026-10-11",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/den-store-staten",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Vil republikanerne jukse?",
+      "date": "2026-10-18",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/vil-republikanerne-jukse",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Drittsekk-republikanere",
+      "date": "2026-10-24",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/drittsekk-republikanere",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "I skyggen av Akropolis",
+      "date": "2026-10-25",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/i-skyggen-av-akropolis",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "De sender også de beste",
+      "publication": "SNOEN",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/de-sender-ogsa-de-beste",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
@@ -92,26 +273,10 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
-      "title": "En åpen og inkluderende nasjonalisme",
-      "publication": "SNOEN",
-      "kind": "bloggpost",
-      "url": "https://snoen.substack.com/p/en-apen-og-inkluderende-nasjonalisme",
-      "foundBy": "research",
-      "firstSeenAt": "2026-10-19T10:18:53.551Z"
-    },
-    {
       "title": "Folket og innvandringen",
       "publication": "Minerva",
       "kind": "kronikk",
       "url": "https://www.minerva.no/flyktninger-innvandring-norge/folket-og-innvandringen/437533",
-      "foundBy": "research",
-      "firstSeenAt": "2026-10-19T10:18:53.551Z"
-    },
-    {
-      "title": "Frihet gjennom styrke",
-      "publication": "SNOEN",
-      "kind": "bloggpost",
-      "url": "https://snoen.substack.com/p/frihet-gjennom-styrke",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
@@ -136,14 +301,6 @@
       "publication": "Minerva",
       "kind": "kronikk",
       "url": "https://www.minerva.no/autoritarisme-liberalisme-politisk-toleranse/hva-skjer-nar-de-liberale-blir-intolerante/518653",
-      "foundBy": "research",
-      "firstSeenAt": "2026-10-19T10:18:53.551Z"
-    },
-    {
-      "title": "Innvandrerlandet Canada",
-      "publication": "SNOEN",
-      "kind": "bloggpost",
-      "url": "https://snoen.substack.com/p/innvandrerlandet-canada",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
@@ -211,16 +368,22 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
-  "knownEvents": [],
+  "knownEvents": [
+    {
+      "description": "Ny bok \"Den borgerlige illusjonen\" utgitt, med artikler og kronikker i Aftenposten, Dagbladet og Nationen i forbindelse med lanseringen",
+      "date": "2026-09-26",
+      "significance": "high"
+    }
+  ],
   "lastDecision": {
     "writerId": "jan-arild-snoen",
     "action": "full",
     "reasons": [
-      "ingen eksisterende profil"
+      "vesentlig hendelse: Ny bok \"Den borgerlige illusjonen\" utgitt, med artikler og kronikker i Aftenposten, Dagbladet og Nationen i forbindelse med lanseringen"
     ]
   },
   "imagePath": "jan-arild-snoen.jpg",
-  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
-  "lastResearchedAt": "2026-10-19T10:18:53.551Z",
-  "lastWrittenAt": "2026-10-19T10:18:53.551Z"
+  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastResearchedAt": "2026-10-26T10:32:42.441Z",
+  "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }

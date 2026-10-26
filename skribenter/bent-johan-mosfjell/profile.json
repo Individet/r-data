@@ -10,7 +10,7 @@
   "platforms": [
     {
       "type": "blogg",
-      "url": "http://bentmosfjell.no/",
+      "url": "https://bentmosfjell.no/",
       "label": "Bent Mosfjell sin personlige blogg"
     },
     {
@@ -75,6 +75,11 @@
       "label": "Ansattside, Humanistskolen"
     },
     {
+      "type": "annet",
+      "url": "https://www.proff.no/rolle/bent-johan-mosfjell/oslo/533847",
+      "label": "Styreverv og roller i næringslivet (Fridemokratene, Liberaleren, Libertariansk Forum)"
+    },
+    {
       "type": "intervju",
       "url": "https://sidelinja.transistor.fm/145",
       "label": "Intervju i podkasten Sidelinja om ytringsfrihet og medieklima"
@@ -100,6 +105,26 @@
       "label": "Intervju om Svartarbeid.no og skatt som økonomisk selvforsvar"
     },
     {
+      "type": "intervju",
+      "url": "https://soundcloud.com/oleland/57-bent-johan-mosfjell-om-liberaleren",
+      "label": "Ole Landfald Podcast #57 – om Liberaleren"
+    },
+    {
+      "type": "intervju",
+      "url": "https://www.youtube.com/watch?v=S51AccdoUM4",
+      "label": "Ole Landfald Podcast #32 – om private skoler, frihet og læring"
+    },
+    {
+      "type": "intervju",
+      "url": "https://www.facebook.com/liberalistene/videos/bent-mosfjell-skole-og-utdanning/1799689916710134/",
+      "label": "Videointervju for Liberalistene om skole og utdanning"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
+      "label": "Debatt i Minerva om Mosfjells kritikk av høyresidens litterære kanon"
+    },
+    {
       "type": "annet",
       "url": "http://www.svartarbeid.no/omsvartarbeid.php",
       "label": "Om Svartarbeid.no"
@@ -120,7 +145,9 @@
     "Driver undervisningsressursen tilpasset.no med undervisningsvideoer i skolefag.",
     "Stilte til kommunevalget i Oslo i 2019 som kandidat for det libertarianske partiet Liberalistene.",
     "Innvilget livsvarig medlemskap i Det Norske Studentersamfund, der han blant annet var ildsjel i Kulturutvalget og tok initiativ til Onsdagsdebatten.",
-    "Har skrevet i de liberalistiske tidsskriftene Fri politisk journal, Ideer om frihet, Nyliberaleren og Ama-Gi."
+    "Har skrevet i de liberalistiske tidsskriftene Fri politisk journal, Ideer om frihet, Nyliberaleren og Ama-Gi.",
+    "Ifølge Wikidata registrert tilknyttet partiet Det Liberale Folkepartiet (DLF).",
+    "Registrert innehaver av enkeltpersonforetaket «Mosfjells Institutt for Politisk Teori», og har ifølge Brønnøysundregistrene vært styreleder i Fridemokratene, Liberaleren og Libertariansk Forum, samt styremedlem i Humanistskolens Venner."
   ],
   "freedomContributions": [
     "Grunnla i 1999 og har i over to tiår redigert og skrevet for Liberaleren, en av Norges mest sentrale liberalistiske/libertarianske nettpublikasjoner, som blant annet forsvarer eiendomsrett, ytringsfrihet og fri bevegelse.",
@@ -133,130 +160,333 @@
     "Har gjennom artikler på Liberaleren tatt til orde for avvikling av statlig støtte til tros- og livssynssamfunn som en forutsetning for reell trosfrihet.",
     "Har skrevet kritisk om narkotikaforbudet og løftet frem enkeltpersoner som rammes av strenge straffer for narkotikalovbrudd.",
     "Har argumentert for avkriminalisering/legalisering av frivillige transaksjoner mellom voksne mennesker, blant annet hallikvirksomhet, med henvisning til selvråderett over egen kropp og eget liv.",
-    "Har gjennom en årrekke publisert kommentarer som forsvarer ytringsfrihet mot forbudslinjer, og advart mot at \"forståelse\" brukes til å unnskylde hat og tvang mot minoriteter."
+    "Har gjennom en årrekke publisert kommentarer som forsvarer ytringsfrihet mot forbudslinjer, og advart mot at \"forståelse\" brukes til å unnskylde hat og tvang mot minoriteter.",
+    "Har tatt til orde for å avskaffe monarkiet og privatisere kongehuset, med argumentet om at ingen privilegier bør arves og at alle mennesker bør være like for loven.",
+    "Har kritisert at han selv ble utestengt fra Facebook, og brukt egen sak til å advare mot hvordan store private plattformer og myndigheters samarbeid med dem kan true ytringsfriheten til enkeltpersoner.",
+    "Har argumentert for fri skjenking døgnet rundt («Ja til skjenking 24/7/365!») som en kritikk av formynderstatens regulering av voksne menneskers valg.",
+    "Har kritisert britiske aldersgrense- og sensurtiltak på nett som paternalistiske inngrep i individets frihet.",
+    "Har argumentert mot brukthandlerbevillinger og annen næringsregulering som unødvendige hindre for fri handel og eiendomsrett.",
+    "Har forsvart enkeltpersoners rett til opphold og arbeid i Norge i flere konkrete saker, og kritisert utvisning og treg saksbehandling i utlendingsforvaltningen som urettferdig mot individet.",
+    "Har kritisert tollkrig og proteksjonisme som skadelig økonomisk politikk som svekker enkeltmenneskers velstand og handlefrihet."
   ],
   "themes": [
     "Libertarianisme og liberalisme",
     "Skatt og eiendomsrett",
     "Innvandring og åpne grenser",
-    "Ytringsfrihet",
+    "Ytringsfrihet og sensur",
     "Ruspolitikk og narkotikaforbud",
     "Skole- og utdanningspolitikk",
     "Monarki og likhet for loven",
-    "Verneplikt og individets selvråderett"
+    "Formynderstat og individets selvråderett"
   ],
   "texts": [
     {
-      "title": "Forventet snuoperasjon om innvandring",
-      "date": "2025-11-11",
+      "title": "Avskaff monarkiet! Privatiser kongehuset!",
+      "date": "2026-09-02",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2025/11/11/forventet-snuoperasjon-om-innvandring/",
       "foundBy": "research"
     },
     {
-      "title": "Tyven, tyven skal du hete",
-      "date": "2026-07-11",
+      "title": "Hun burde blitt dronning",
+      "date": "2026-09-01",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2026/07/11/tyven-tyven-skal-du-hete/",
       "foundBy": "research"
     },
     {
-      "title": "Konspigjengen",
-      "date": "2026-02-26",
+      "title": "Raus og romslig",
+      "date": "2026-08-29",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2026/02/26/konspigjengen/",
       "foundBy": "research"
     },
     {
-      "title": "Det lukkede samfunnet",
-      "date": "2025-12-15",
+      "title": "Barn trenger ubehag og utfordringer",
+      "date": "2026-08-28",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2025/12/15/det-lukkede-samfunnet/",
       "foundBy": "research"
     },
     {
-      "title": "Internasjonalt engasjement, egne kjepphester og litt frihet",
-      "date": "2025-10-31",
+      "title": "Alle taper på en tollkrig",
+      "date": "2026-08-27",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2025/10/31/internasjonalt-engasjement-egne-kjepphester-og-litt-frihet/",
       "foundBy": "research"
     },
     {
-      "title": "Mennesker er ikke farlige",
-      "date": "2026-07-16",
+      "title": "Læring utenfor klasserommet",
+      "date": "2026-08-24",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2026/07/16/mennesker-er-ikke-farlige/",
+      "url": "https://www.liberaleren.no/2026/08/24/laering-utenfor-klasserommet/",
       "foundBy": "research"
     },
     {
-      "title": "Ærlighet og hederlighet",
-      "date": "2025-03-11",
+      "title": "Ideer om frihet nr 3",
+      "date": "2026-08-23",
       "publication": "Liberaleren",
-      "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2025/03/11/aerlighet-og-hederlighet/",
+      "kind": "annet",
       "foundBy": "research"
     },
     {
-      "title": "Velkommen til nye Liberaleren",
-      "date": "2019-11-01",
+      "title": "Hatefulle ytringer må bekjempes, men ikke med forbud",
+      "date": "2026-08-22",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2019/11/01/velkommen-til-nye-liberaleren/",
       "foundBy": "research"
     },
     {
-      "title": "Remigrasjon er skammelig",
-      "date": "2026-09-14",
+      "title": "Alkohol, sex og makt",
+      "date": "2026-08-21",
       "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.liberaleren.no/2026/09/14/remigrasjon-er-skammelig/",
       "foundBy": "research"
     },
     {
-      "title": "Robert Nozick",
-      "date": "2006-09-20",
-      "publication": "Minerva",
+      "title": "Man trenger frihet uten koko",
+      "date": "2026-08-20",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Dyr oppbevaring",
+      "date": "2026-08-18",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Uønsket i Norge",
+      "date": "2026-05-26",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "På tide!",
+      "date": "2026-05-31",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/05/31/pa-tide-3/",
+      "foundBy": "research"
+    },
+    {
+      "title": "La Suel bli i Norge",
+      "date": "2026-05-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/05/29/la-suel-bli-i-norge/",
+      "foundBy": "research"
+    },
+    {
+      "title": "En påminnelse om viktigheten av innvandrere",
+      "date": "2026-05-19",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Oppholdstillatelse er skammelig",
+      "date": "2026-04-22",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "En smak av andre menneskers liv",
+      "date": "2026-03-07",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Skolegudstjeneste hører ikke hjemme i skolen",
+      "date": "2026-02-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/02/27/skolegudstjeneste-horer-ikke-hjemme-i-skolen/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Det er bra at etnisk norsk blir i mindretall",
+      "date": "2026-02-04",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Økonomisk støtte til flyktninger",
+      "date": "2026-01-24",
+      "publication": "Liberaleren",
       "kind": "artikkel",
-      "url": "https://www.minerva.no/robert-nozick/121773",
       "foundBy": "research"
     },
     {
-      "title": "Frykten for de beste løsningene",
-      "date": "2009-06-15",
-      "publication": "Minerva",
-      "kind": "artikkel",
-      "url": "https://www.minerva.no/frykten-for-de-beste-losningene/117808",
-      "foundBy": "research"
-    },
-    {
-      "title": "Høyresidens kanon er ingen gavepakke til venstresiden",
-      "publication": "Minerva",
-      "kind": "artikkel",
-      "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
-      "foundBy": "research"
-    },
-    {
-      "title": "Liberalismen er viktigere enn noensinne",
-      "publication": "Minerva",
+      "title": "Storbritannina, sensur og aldersgrenser",
+      "date": "2026-01-23",
+      "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.minerva.no/essay-fra-papirutgaven-frihet/liberalismen-er-viktigere-enn-noensinne/464460",
       "foundBy": "research"
     },
     {
-      "title": "Folk flest er positive til innvandring",
-      "date": "2020-01-11",
-      "publication": "Utrop",
+      "title": "Avskaff brukthandlerbevillingene",
+      "date": "2026-01-22",
+      "publication": "Liberaleren",
       "kind": "kronikk",
-      "url": "https://www.utrop.no/plenum/ytringer/203081/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Innvandring bidrar svært positivt til samfunnet",
+      "date": "2026-01-21",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research"
+    },
+    {
+      "title": "«Privatskole i Lom får grønt lys fra regjeringen»",
+      "date": "2026-01-20",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ingen er trygge på Facebook!",
+      "date": "2026-01-19",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "To uker uten Facebook og Messenger",
+      "date": "januar 2026",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ja til skjenking 24/7/365!",
+      "date": "2026-01-17",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Noen tanker om fagforeninger",
+      "date": "2026-01-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tusenlappene bør ikke fjernes",
+      "date": "2026-01-15",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva faen er galt med Trump?",
+      "date": "2026-01-15",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Energidrikkmoralismen",
+      "date": "2025-09-26",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Arbeid, trygd og menneskesyn",
+      "date": "2025-09-21",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Arbeid, trygd og velstand",
+      "date": "2025-09-19",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Arven etter Erna Solberg",
+      "date": "2025-09-14",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Innvandringspaternalismen",
+      "date": "2025-09-10",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Useriøse «dagsaviser»",
+      "date": "2025-09-10",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Partipolitisk ydmykhet er på sin plass",
+      "date": "2025-09-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Noe av det fineste jeg vet!",
+      "date": "2025-09-04",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ja, du er rasist",
+      "date": "2025-08-31",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Motbydelig fra Fremskrittspartiet og Høyre",
+      "date": "2025-08-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nesten ingen ungdomsvold i Oslo",
+      "date": "2025-08-27",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Politikere bestikker folk med deres egne penger",
+      "date": "2025-08-26",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Den radikale liberalismen",
+      "date": "2009-06-06",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2009/06/06/den-radikale-liberalismen/",
       "foundBy": "research"
     }
   ],
   "sources": [],
-  "researchedAt": "2026-10-19T10:50:04.386Z"
+  "researchedAt": "2026-10-26T10:45:49.543Z"
 }

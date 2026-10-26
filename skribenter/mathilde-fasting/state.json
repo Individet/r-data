@@ -76,6 +76,13 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Er norsk jordbrukspolitikk helt spesiell?",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
       "title": "Har vi for mye valgfrihet?",
       "date": "",
       "publication": "NRK Ytring",
@@ -130,6 +137,20 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Reflections on the State of the World",
+      "publication": "Current History",
+      "kind": "artikkel",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Skatt handler ikke bare om omfordeling",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
       "title": "Skatt og samfunnsbidrag",
       "date": "",
       "publication": "Civita",
@@ -157,16 +178,27 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
-  "knownEvents": [],
+  "knownEvents": [
+    {
+      "description": "Podcast episode: Terje Tvedts nye norgeshistorie",
+      "date": "2026-10-21",
+      "significance": "low"
+    },
+    {
+      "description": "Podcast episode with Aksel Braanen Sterri about AI",
+      "date": "2026-10",
+      "significance": "low"
+    }
+  ],
   "lastDecision": {
     "writerId": "mathilde-fasting",
-    "action": "full",
+    "action": "update-list",
     "reasons": [
-      "ingen eksisterende profil"
+      "3 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

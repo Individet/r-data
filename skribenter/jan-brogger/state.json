@@ -124,13 +124,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "jan-brogger",
-    "action": "full",
+    "action": "skip",
     "reasons": [
-      "ingen eksisterende profil"
+      "ingenting nytt siden forrige kjøring"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

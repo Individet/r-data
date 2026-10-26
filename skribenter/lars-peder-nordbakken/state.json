@@ -253,6 +253,24 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Kampen mot prismekanismen er et symptom på prinsippløs økonomisk politikk",
+      "date": "2026-10-11",
+      "publication": "Liberalen",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Innovasjonsdebatten som ble lagt død før den hadde begynt",
+      "date": "2026-10-21",
+      "publication": "Minerva",
+      "kind": "artikkel",
+      "url": "https://www.minerva.no/innovasjonsdebatten-som-ble-lagt-dod-for-den-hadde-begynt/520180",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
       "title": "Aktiv næringspolitikk for jobbenes del, ikke klimaets?",
       "publication": "Civita",
       "kind": "artikkel",
@@ -368,13 +386,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "lars-peder-nordbakken",
-    "action": "full",
+    "action": "update-list",
     "reasons": [
-      "ingen eksisterende profil"
+      "2 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "lars-peder-nordbakken.jpg",
-  "lastCheckedAt": "2026-10-19T10:18:53.551Z",
+  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }
