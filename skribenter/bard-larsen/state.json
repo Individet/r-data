@@ -121,18 +121,24 @@
       "url": "https://fritanke.no/misnoyens-tidsalder/19.10991",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Tyranni og en ny verdensorden",
+      "kind": "rapport",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
     }
   ],
   "knownEvents": [],
   "lastDecision": {
     "writerId": "bard-larsen",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

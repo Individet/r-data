@@ -271,6 +271,15 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Det er ikke statsstøtte gründerne trenger",
+      "date": "2026-11-01",
+      "publication": "Dagens Næringsliv",
+      "kind": "artikkel",
+      "url": "https://www.dn.no/innlegg/oppstartsbedrifter/grunder/skatt/det-er-ikke-statsstotte-grunderne-trenger/2-1-2066957",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
       "title": "Aktiv næringspolitikk for jobbenes del, ikke klimaets?",
       "publication": "Civita",
       "kind": "artikkel",
@@ -388,11 +397,11 @@
     "writerId": "lars-peder-nordbakken",
     "action": "update-list",
     "reasons": [
-      "2 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "lars-peder-nordbakken.jpg",
-  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

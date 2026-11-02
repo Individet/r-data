@@ -192,13 +192,13 @@
   ],
   "lastDecision": {
     "writerId": "mathilde-fasting",
-    "action": "update-list",
+    "action": "skip",
     "reasons": [
-      "3 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "ingenting nytt siden forrige kjøring"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

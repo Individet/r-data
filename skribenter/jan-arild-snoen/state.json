@@ -249,6 +249,24 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "De to Dan Sullivan'ene",
+      "date": "2026-10-29",
+      "publication": "Substack (SNOEN)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/de-to-dan-sullivanene",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
+      "title": "Mens vi venter på 2028",
+      "date": "2026-11-01",
+      "publication": "Substack (SNOEN)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/mens-vi-venter-pa-2028",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
       "title": "De sender også de beste",
       "publication": "SNOEN",
       "kind": "bloggpost",
@@ -377,13 +395,13 @@
   ],
   "lastDecision": {
     "writerId": "jan-arild-snoen",
-    "action": "full",
+    "action": "update-list",
     "reasons": [
-      "vesentlig hendelse: Ny bok \"Den borgerlige illusjonen\" utgitt, med artikler og kronikker i Aftenposten, Dagbladet og Nationen i forbindelse med lanseringen"
+      "2 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "jan-arild-snoen.jpg",
-  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
   "lastResearchedAt": "2026-10-26T10:32:42.441Z",
   "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }

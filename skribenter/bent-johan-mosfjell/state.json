@@ -660,6 +660,42 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Logringen for det totalitære",
+      "date": "2026-10-29",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/10/29/logringen-for-det-totalitaere/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
+      "title": "NRK bør boikotte Meta",
+      "date": "2026-10-30",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/10/30/nrk-bor-boikotte-meta/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
+      "title": "Bør foreldre betale barnehagen selv?",
+      "date": "2026-10-31",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/10/31/bor-foreldre-betale-barnehagen-selv/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
+      "title": "En klassiker til nye lesere",
+      "date": "2026-11-01",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/11/01/en-klassiker-til-nye-lesere/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-02T12:53:01.845Z"
+    },
+    {
       "title": "To uker uten Facebook og Messenger",
       "date": "januar 2026",
       "publication": "Liberaleren",
@@ -687,13 +723,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "bent-johan-mosfjell",
-    "action": "full",
+    "action": "update-list",
     "reasons": [
-      "6 nye tekster (grense 5)"
+      "4 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "bent-johan-mosfjell.jpg",
-  "lastCheckedAt": "2026-10-26T10:32:42.441Z",
+  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
   "lastResearchedAt": "2026-10-26T10:32:42.441Z",
   "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }
