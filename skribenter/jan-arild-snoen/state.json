@@ -267,6 +267,24 @@
       "firstSeenAt": "2026-11-02T12:53:01.845Z"
     },
     {
+      "title": "Følg valgnatten som en proff!",
+      "date": "2026-11-03",
+      "publication": "Substack",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/flg-valgnatten-som-en-proff",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Drakampen er ikke over",
+      "date": "2026-11-08",
+      "publication": "Dagbladet",
+      "kind": "kronikk",
+      "url": "https://www.dagbladet.no/meninger/drakampen-er-ikke-over/85384584",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "De sender også de beste",
       "publication": "SNOEN",
       "kind": "bloggpost",
@@ -401,7 +419,7 @@
     ]
   },
   "imagePath": "jan-arild-snoen.jpg",
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
   "lastResearchedAt": "2026-10-26T10:32:42.441Z",
   "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }

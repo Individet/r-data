@@ -188,6 +188,11 @@
       "description": "Podcast episode with Aksel Braanen Sterri about AI",
       "date": "2026-10",
       "significance": "low"
+    },
+    {
+      "description": "Notat og høringssvar på NOU 2026:9 \"Veien mot et bedre og mer forutsigbart skattesystem\" som foreslår endringer for bedre rammevilkår for norsk næringsliv.",
+      "date": "2026-11",
+      "significance": "low"
     }
   ],
   "lastDecision": {
@@ -198,7 +203,7 @@
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

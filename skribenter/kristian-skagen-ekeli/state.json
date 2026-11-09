@@ -75,6 +75,12 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Libertarianism and Hate Speech",
+      "kind": "akademisk",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "Med Kant mot ulikhet: Et demokratisk reformargument",
       "kind": "akademisk",
       "url": "https://www.researchgate.net/publication/350167174_Med_Kant_mot_ulikhet_Et_demokratisk_reformargument",
@@ -108,13 +114,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "kristian-skagen-ekeli",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

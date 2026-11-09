@@ -20,6 +20,15 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Donald Trump ødelegger mellomvalget for republikanerne",
+      "date": "2026-11",
+      "publication": "Civita",
+      "kind": "artikkel",
+      "url": "https://civita.no/person/eirik-lokke/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "300: Dydsetikk i Hollywood-form",
       "publication": "Civita",
       "kind": "artikkel",
@@ -292,16 +301,22 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
-  "knownEvents": [],
+  "knownEvents": [
+    {
+      "description": "Eirik Løkke var gjest i Torsdagsporten talk show sammen med Kristin Halvorsen, Else Kåss Furuseth og musikk fra Reidun Askeland og Aage Kvalbein.",
+      "date": "2026-11-05",
+      "significance": "low"
+    }
+  ],
   "lastDecision": {
     "writerId": "eirik-lokke",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

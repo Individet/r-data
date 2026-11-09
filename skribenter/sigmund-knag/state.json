@@ -31,6 +31,15 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Demokratiet er ikke en cupfinale",
+      "date": "2026-11-09",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/11/09/demokratiet-er-ikke-en-cupfinale/",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "Anarki, minarki og demokrati",
       "date": "25. desember 2023",
       "publication": "Liberaleren",
@@ -79,13 +88,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "sigmund-knag",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

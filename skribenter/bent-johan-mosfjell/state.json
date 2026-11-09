@@ -49,6 +49,15 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Er det bedre at demokratier tar feil?",
+      "date": "2021-12-10",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2021/12/10/er-det-bedre-at-demokratier-tar-feil/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "Ærlighet og hederlighet",
       "date": "2025-03-11",
       "publication": "Liberaleren",
@@ -353,6 +362,15 @@
       "url": "https://www.liberaleren.no/2026/07/16/mennesker-er-ikke-farlige/",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Resepter og apoteker er sårbart",
+      "date": "2026-08-08",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2026/08/08/resepter-og-apoteker-sarbart/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
     },
     {
       "title": "Dyr oppbevaring",
@@ -696,6 +714,60 @@
       "firstSeenAt": "2026-11-02T12:53:01.845Z"
     },
     {
+      "title": "Koko-tv",
+      "url": "https://www.liberaleren.no/2026/11/03/koko-tv/",
+      "date": "2026-11-03",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Staten sponser kampen mot de liberale idéene",
+      "url": "https://www.liberaleren.no/2026/11/04/staten-sponser-kampen-mot-de-liberale-ideene/",
+      "date": "2026-11-04",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Gavepakken til kommunister og nazister",
+      "url": "https://www.liberaleren.no/2026/11/05/gavepakken-til-kommunister-og-nazister/",
+      "date": "2026-11-05",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Et viktig nei til dødsstraff",
+      "url": "https://www.liberaleren.no/2026/11/06/et-viktig-nei-til-dodsstraff/",
+      "date": "2026-11-06",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Tollere bør finne seg et ærlig arbeid",
+      "url": "https://www.liberaleren.no/2026/11/07/tollere-bor-finne-seg-et-aerlig-arbeid/",
+      "date": "2026-11-07",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Hvordan bør liberalere behandle andre mennesker?",
+      "url": "https://www.liberaleren.no/2026/11/08/hvordan-bor-liberalere-behandle-andre-mennesker/",
+      "date": "2026-11-08",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
       "title": "To uker uten Facebook og Messenger",
       "date": "januar 2026",
       "publication": "Liberaleren",
@@ -723,13 +795,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "bent-johan-mosfjell",
-    "action": "update-list",
+    "action": "full",
     "reasons": [
-      "4 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "6 nye tekster (grense 5)"
     ]
   },
   "imagePath": "bent-johan-mosfjell.jpg",
-  "lastCheckedAt": "2026-11-02T12:53:01.845Z",
-  "lastResearchedAt": "2026-10-26T10:32:42.441Z",
-  "lastWrittenAt": "2026-10-26T10:32:42.441Z"
+  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
+  "lastResearchedAt": "2026-11-09T13:24:16.332Z",
+  "lastWrittenAt": "2026-11-09T13:24:16.332Z"
 }
