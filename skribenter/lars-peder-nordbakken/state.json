@@ -262,6 +262,13 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Å diskutere innovasjonsdreven vekst uten entreprenørskap er som å forklare dagslys uten påvirkning fra sola",
+      "date": "2026-10-19",
+      "kind": "artikkel",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
       "title": "Innovasjonsdebatten som ble lagt død før den hadde begynt",
       "date": "2026-10-21",
       "publication": "Minerva",
@@ -395,13 +402,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "lars-peder-nordbakken",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "lars-peder-nordbakken.jpg",
-  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
+  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

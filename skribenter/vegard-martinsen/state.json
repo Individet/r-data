@@ -219,6 +219,42 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Podcast: all politikk er mislykket",
+      "url": "https://www.gullstandard.no/2026/11/16/podcast-all-politikk-er-mislykket/",
+      "date": "2026-11-16",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Podcast: derfor vil ikke politikerne snu",
+      "url": "https://www.gullstandard.no/2026/11/16/podcast-derfor-vil-ikke-politikerne-snu/",
+      "date": "2026-11-16",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Podcast: innvandringens skyggesider",
+      "url": "https://www.gullstandard.no/2026/11/16/podcast-innvandringens-skyggesider/",
+      "date": "2026-11-16",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Podcast: innvandringsdebatten",
+      "url": "https://www.gullstandard.no/2026/11/16/podcast-innvandringsdebatten/",
+      "date": "2026-11-16",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
       "title": "Elon Musks svik",
       "publication": "Gullstandard",
       "kind": "artikkel",
@@ -251,13 +287,13 @@
   "knownEvents": [],
   "lastDecision": {
     "writerId": "vegard-martinsen",
-    "action": "skip",
+    "action": "update-list",
     "reasons": [
-      "ingenting nytt siden forrige kjøring"
+      "4 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
+  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

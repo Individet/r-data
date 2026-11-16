@@ -67,6 +67,15 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Bokanmeldelse: Asylparadokset",
+      "date": "2025-07-03",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2025/07/03/bokanmeldelse-asylparadokset/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
       "title": "Politikere bestikker folk med deres egne penger",
       "date": "2025-08-26",
       "publication": "Liberaleren",
@@ -768,6 +777,69 @@
       "firstSeenAt": "2026-11-09T13:24:16.332Z"
     },
     {
+      "title": "Terrorisme er ufarlig!",
+      "url": "https://www.liberaleren.no/2026/11/10/terrorisme-er-ufarlig/",
+      "date": "2026-11-10",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Dette er svindel!",
+      "url": "https://www.liberaleren.no/2026/11/11/dette-er-svindel/",
+      "date": "2026-11-11",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Storebror ser deg på veiene!",
+      "url": "https://www.liberaleren.no/2026/11/12/storebror-ser-deg-pa-veiene/",
+      "date": "2026-11-12",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Historieprofessor bør sparkes",
+      "url": "https://www.liberaleren.no/2026/11/14/historieprofessor-bor-sparkes/",
+      "date": "2026-11-14",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "4 samtaler på Sidelinja",
+      "url": "https://www.liberaleren.no/2026/11/15/4-samtaler-pa-sidelinja/",
+      "date": "2026-11-15",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Støtte Ukraina",
+      "url": "https://www.liberaleren.no/2026/11/16/stotte-ukraina/",
+      "date": "2026-11-16",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Liberalismen er viktigere enn noensinne",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/essay-fra-papirutgaven-frihet/liberalismen-er-viktigere-enn-noensinne/464460",
+      "foundBy": "research",
+      "firstSeenAt": "2026-10-19T10:18:53.551Z",
+      "date": "januar 2025"
+    },
+    {
       "title": "To uker uten Facebook og Messenger",
       "date": "januar 2026",
       "publication": "Liberaleren",
@@ -782,14 +854,6 @@
       "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
-    },
-    {
-      "title": "Liberalismen er viktigere enn noensinne",
-      "publication": "Minerva",
-      "kind": "kronikk",
-      "url": "https://www.minerva.no/essay-fra-papirutgaven-frihet/liberalismen-er-viktigere-enn-noensinne/464460",
-      "foundBy": "research",
-      "firstSeenAt": "2026-10-19T10:18:53.551Z"
     }
   ],
   "knownEvents": [],
@@ -801,7 +865,7 @@
     ]
   },
   "imagePath": "bent-johan-mosfjell.jpg",
-  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
-  "lastResearchedAt": "2026-11-09T13:24:16.332Z",
-  "lastWrittenAt": "2026-11-09T13:24:16.332Z"
+  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
+  "lastResearchedAt": "2026-11-16T13:10:12.224Z",
+  "lastWrittenAt": "2026-11-16T13:10:12.224Z"
 }

@@ -310,13 +310,13 @@
   ],
   "lastDecision": {
     "writerId": "eirik-lokke",
-    "action": "update-list",
+    "action": "skip",
     "reasons": [
-      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "ingenting nytt siden forrige kjøring"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
+  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

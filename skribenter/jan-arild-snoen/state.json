@@ -276,6 +276,15 @@
       "firstSeenAt": "2026-11-09T13:24:16.332Z"
     },
     {
+      "title": "Lyseblå bluenami",
+      "date": "2026-11-06",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/lysebla-bluenami",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
       "title": "Drakampen er ikke over",
       "date": "2026-11-08",
       "publication": "Dagbladet",
@@ -283,6 +292,24 @@
       "url": "https://www.dagbladet.no/meninger/drakampen-er-ikke-over/85384584",
       "foundBy": "change-check",
       "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Mr. Perfect",
+      "date": "2026-11-09",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/mr-perfect",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Revansj i 2028?",
+      "date": "2026-11-12",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/revansj-i-2028",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-16T13:10:12.224Z"
     },
     {
       "title": "De sender også de beste",
@@ -415,11 +442,11 @@
     "writerId": "jan-arild-snoen",
     "action": "update-list",
     "reasons": [
-      "2 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "3 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "jan-arild-snoen.jpg",
-  "lastCheckedAt": "2026-11-09T13:24:16.332Z",
+  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
   "lastResearchedAt": "2026-10-26T10:32:42.441Z",
   "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }
