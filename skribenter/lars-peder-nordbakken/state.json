@@ -287,6 +287,15 @@
       "firstSeenAt": "2026-11-02T12:53:01.845Z"
     },
     {
+      "title": "Oppstartsbedrifter må til",
+      "date": "2026-11-17",
+      "publication": "Dagens Næringsliv",
+      "kind": "artikkel",
+      "url": "https://www.dn.no/innlegg/innovasjon/vekstbedrifter/oppstartsbedrifter/oppstartsbedrifter-ma-til/2-1-2074558",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Aktiv næringspolitikk for jobbenes del, ikke klimaets?",
       "publication": "Civita",
       "kind": "artikkel",
@@ -408,7 +417,7 @@
     ]
   },
   "imagePath": "lars-peder-nordbakken.jpg",
-  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
+  "lastCheckedAt": "2026-11-23T15:24:34.966Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

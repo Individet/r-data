@@ -193,6 +193,11 @@
       "description": "Notat og høringssvar på NOU 2026:9 \"Veien mot et bedre og mer forutsigbart skattesystem\" som foreslår endringer for bedre rammevilkår for norsk næringsliv.",
       "date": "2026-11",
       "significance": "low"
+    },
+    {
+      "description": "Podcast episode with Skjalg Stokke Hougen about center-right parties' decline in Europe",
+      "date": "2026-11",
+      "significance": "low"
     }
   ],
   "lastDecision": {
@@ -203,7 +208,7 @@
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
+  "lastCheckedAt": "2026-11-23T15:24:34.966Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }

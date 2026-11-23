@@ -130,6 +130,11 @@
       "type": "annet",
       "url": "http://www.svartarbeid.no/omsvartarbeid.php",
       "label": "Om Svartarbeid.no"
+    },
+    {
+      "type": "annet",
+      "url": "https://www.minerva.no/boker-hoyresidens-kanon-liberalisme/liberalismens-meningsloshet/446997",
+      "label": "Debattsvar i Minerva på Mosfjells kritikk av høyresidens kanon"
     }
   ],
   "keyFacts": [
@@ -146,11 +151,11 @@
     "Har arbeidet som lærer siden 2008, ved Stasjonsfjellet skole frem til 2015 og deretter ved privatskolen Humanistskolen i Oslo, hvor han underviser i samfunnsfag, naturfag og matematikk.",
     "Driver undervisningsressursen tilpasset.no med undervisningsvideoer i skolefag.",
     "Stilte til kommunevalget i Oslo i 2019 som kandidat for det libertarianske partiet Liberalistene.",
-    "Innvilget livsvarig medlemskap i Det Norske Studentersamfund, der han blant annet var ildsjel i Kulturutvalget og tok initiativ til Onsdagsdebatten.",
+    "Innvilget livsvarig medlemskap i Det Norske Studentersamfund, der han blant annet var ildsjel i Kulturutvalget og tok initiativ til Onsdagsdebatten, og er ifølge Liberalerens egen redaktørbiografi utnevnt til \"ridder av Griseordenen\".",
     "Har skrevet i de liberalistiske tidsskriftene Fri politisk journal, Ideer om frihet, Nyliberaleren og Ama-Gi.",
     "Ifølge Wikidata registrert tilknyttet partiet Det Liberale Folkepartiet (DLF).",
     "Registrert innehaver av enkeltpersonforetaket «Mosfjells Institutt for Politisk Teori», og har ifølge Brønnøysundregistrene vært styreleder i Fridemokratene, Liberaleren og Libertariansk Forum, samt styremedlem i Humanistskolens Venner.",
-    "Skriver jevnlig essays og kronikker for Minerva i tillegg til sitt daglige virke som sjefredaktør i Liberaleren."
+    "Skriver jevnlig essays og kronikker for Minerva i tillegg til sitt daglige virke som sjefredaktør i Liberaleren, der han fortsatt publiserer nye kommentarartikler nær daglig."
   ],
   "freedomContributions": [
     "Grunnla i 1999 og har i over to tiår redigert og skrevet for Liberaleren, en av Norges mest sentrale liberalistiske/libertarianske nettpublikasjoner, som blant annet forsvarer eiendomsrett, ytringsfrihet og fri bevegelse.",
@@ -164,15 +169,17 @@
     "Har skrevet kritisk om narkotikaforbudet og løftet frem enkeltpersoner som rammes av strenge straffer for narkotikalovbrudd, blant annet i artikkelen «Offer for narkotikaFORBUDET».",
     "Har argumentert for avkriminalisering/legalisering av frivillige transaksjoner mellom voksne mennesker, blant annet hallikvirksomhet, med henvisning til selvråderett over egen kropp og eget liv.",
     "Har gjennom en årrekke publisert kommentarer som forsvarer ytringsfrihet mot forbudslinjer, og advart mot at \"forståelse\" brukes til å unnskylde hat og tvang mot minoriteter, blant annet i artikkelen «Må bekjempes, ikke forstås».",
-    "Har tatt til orde for å avskaffe monarkiet og privatisere kongehuset, med argumentet om at ingen privilegier bør arves og at alle mennesker bør være like for loven.",
+    "Har tatt til orde for å avskaffe monarkiet og privatisere kongehuset, senest utdypet i artikkelen «Avskaff monarkiet! Privatiser kongehuset!», med argumentet om at ingen privilegier bør arves og at alle mennesker bør være like for loven.",
     "Har kritisert at han selv ble utestengt fra Facebook, og brukt egen sak til å advare mot hvordan store private plattformer og myndigheters samarbeid med dem kan true ytringsfriheten til enkeltpersoner.",
     "Har argumentert for fri skjenking døgnet rundt («Ja til skjenking 24/7/365!») som en kritikk av formynderstatens regulering av voksne menneskers valg.",
     "Har kritisert britiske aldersgrense- og sensurtiltak på nett som paternalistiske inngrep i individets frihet.",
     "Har argumentert mot brukthandlerbevillinger og annen næringsregulering som unødvendige hindre for fri handel og eiendomsrett.",
-    "Har forsvart enkeltpersoners rett til opphold og arbeid i Norge i flere konkrete saker, og kritisert utvisning og treg saksbehandling i utlendingsforvaltningen som urettferdig mot individet.",
+    "Har forsvart enkeltpersoners rett til opphold og arbeid i Norge i flere konkrete saker, blant annet i artikkelen «La Suel bli i Norge», og kritisert utvisning og treg saksbehandling i utlendingsforvaltningen som urettferdig mot individet.",
     "Har kritisert tollkrig og proteksjonisme som skadelig økonomisk politikk som svekker enkeltmenneskers velstand og handlefrihet, blant annet i «Alle taper på en tollkrig» og «Tollere bør finne seg et ærlig arbeid».",
     "Har i artikkelen «Er det bedre at demokratier tar feil?» brukt Hayeks The Road to Serfdom og The Constitution of Liberty til å argumentere for at ubegrenset demokratisk flertallsstyre er en trussel mot individets frihet, fordi feilgrep i et demokrati rammer hele samfunnet på en gang.",
-    "Har argumentert mot statlig kontroll og overvåking av borgerne i trafikken i artikkelen «Storebror ser deg på veiene!»."
+    "Har argumentert mot statlig kontroll og overvåking av borgerne i trafikken i artikkelen «Storebror ser deg på veiene!».",
+    "Har kritisert statlige strømstøtteordninger som Norgepris som økonomisk uforstandige inngrep som vrir folks insentiver, i artikkelen «Når populisme trumfer klima og økonomi».",
+    "Har forsvart Pride som uttrykk for individers rett til å leve og elske som de selv ønsker, i artikkelen «Pride er viktigere enn noensinne!»."
   ],
   "themes": [
     "Libertarianisme og liberalisme",
@@ -186,22 +193,213 @@
   ],
   "texts": [
     {
-      "title": "Liberalismen er viktigere enn noensinne",
-      "date": "januar 2025",
-      "publication": "Minerva",
-      "kind": "kronikk",
-      "url": "https://www.minerva.no/essay-fra-papirutgaven-frihet/liberalismen-er-viktigere-enn-noensinne/464460",
+      "title": "Det libertarianske paradigmet",
+      "date": "2006-01-01",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2006/01/01/det-libertarianske-paradigmet/",
       "foundBy": "research"
     },
     {
-      "title": "Bokanmeldelse: Asylparadokset",
-      "date": "2025-07-03",
+      "title": "Kampen om ideene",
+      "date": "2008-12-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2008/12/16/kampen-om-ideene/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Frykten for de beste løsningene",
+      "date": "2009-06-15",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/frykten-for-de-beste-losningene/117808",
+      "foundBy": "research"
+    },
+    {
+      "title": "Velkommen til nye Liberaleren",
+      "date": "2019-11-01",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "url": "https://www.liberaleren.no/2019/11/01/velkommen-til-nye-liberaleren/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fremdeles liberal?",
+      "date": "2024-05-15",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/05/15/fremdeles-liberal/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Høyresidens kanon er ingen gavepakke til venstresiden",
+      "publication": "Minerva",
+      "kind": "kronikk",
+      "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hva sier AI om mine politiske meninger?",
+      "date": "2025-08-10",
+      "publication": "Liberaleren",
+      "kind": "bloggpost",
+      "url": "https://www.liberaleren.no/2025/08/10/hva-sier-ai-om-mine-politiske-meninger/",
+      "foundBy": "research"
+    },
+    {
+      "title": "17. mai, Toje og ytringsfriheten",
+      "date": "2026-04-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/04/05/17-mai-toje-og-ytringsfriheten/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Når populisme trumfer klima og økonomi",
+      "date": "2026-05-20",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/05/20/nar-populisme-trumfer-klima-og-okonomi/",
+      "foundBy": "research"
+    },
+    {
+      "title": "La Suel bli i Norge",
+      "date": "2026-05-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/05/29/la-suel-bli-i-norge/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Pride er viktigere enn noensinne!",
+      "date": "2026-06-01",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/06/01/pride-er-viktigere-enn-noensinne/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Tyven, tyven skal du hete",
+      "date": "2026-07-11",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/11/tyven-tyven-skal-du-hete/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Mennesker er ikke farlige",
+      "date": "2026-07-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/16/mennesker-er-ikke-farlige/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Journalistiske gribber",
+      "date": "2026-07-21",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/21/journalistiske-gribber/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Det vanskelige skillet",
+      "date": "2026-08-06",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/06/det-vanskelige-skillet/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Vi trenger mer seksualisering",
+      "date": "2026-08-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/16/vi-trenger-mer-seksualisering/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ideer om frihet nr 3",
+      "date": "2026-08-23",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "url": "https://www.liberaleren.no/2026/08/23/ideer-om-frihet-nr-3/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Barn trenger ubehag og utfordringer",
+      "date": "2026-08-28",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/28/barn-trenger-ubehag-og-utfordringer/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Raus og romslig",
+      "date": "2026-08-29",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Alle taper på en tollkrig",
+      "date": "2026-08",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hun burde blitt dronning",
+      "date": "2026-09-01",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Avskaff monarkiet! Privatiser kongehuset!",
+      "date": "2026-09-02",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Alkohol, sex og makt",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Nicolai Østeby vant lederkampen i Unge Høyre",
       "publication": "Liberaleren",
       "kind": "artikkel",
-      "url": "https://www.liberaleren.no/2025/07/03/bokanmeldelse-asylparadokset/",
+      "foundBy": "research"
+    },
+    {
+      "title": "Hjelp Dorota!",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Ja til høy pris på diesel",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Fint og viktig fra AUF, men",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research"
+    },
+    {
+      "title": "Dumme, dumme, dumme, dum?",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
       "foundBy": "research"
     }
   ],
   "sources": [],
-  "researchedAt": "2026-11-16T13:16:18.755Z"
+  "researchedAt": "2026-11-23T15:38:40.983Z"
 }

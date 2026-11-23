@@ -4,6 +4,15 @@
   "templateVersion": 1,
   "knownTexts": [
     {
+      "title": "Det libertarianske paradigmet",
+      "date": "2006-01-01",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "url": "https://www.liberaleren.no/2006/01/01/det-libertarianske-paradigmet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Robert Nozick",
       "date": "2006-09-20",
       "publication": "Minerva",
@@ -11,6 +20,15 @@
       "url": "https://www.minerva.no/robert-nozick/121773",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Kampen om ideene",
+      "date": "2008-12-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2008/12/16/kampen-om-ideene/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     },
     {
       "title": "Den radikale liberalismen",
@@ -58,6 +76,15 @@
       "firstSeenAt": "2026-11-09T13:24:16.332Z"
     },
     {
+      "title": "Fremdeles liberal?",
+      "date": "2024-05-15",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2024/05/15/fremdeles-liberal/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Ærlighet og hederlighet",
       "date": "2025-03-11",
       "publication": "Liberaleren",
@@ -74,6 +101,15 @@
       "url": "https://www.liberaleren.no/2025/07/03/bokanmeldelse-asylparadokset/",
       "foundBy": "research",
       "firstSeenAt": "2026-11-16T13:10:12.224Z"
+    },
+    {
+      "title": "Hva sier AI om mine politiske meninger?",
+      "date": "2025-08-10",
+      "publication": "Liberaleren",
+      "kind": "bloggpost",
+      "url": "https://www.liberaleren.no/2025/08/10/hva-sier-ai-om-mine-politiske-meninger/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     },
     {
       "title": "Politikere bestikker folk med deres egne penger",
@@ -313,6 +349,15 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "17. mai, Toje og ytringsfriheten",
+      "date": "2026-04-05",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/04/05/17-mai-toje-og-ytringsfriheten/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Oppholdstillatelse er skammelig",
       "date": "2026-04-22",
       "publication": "Liberaleren",
@@ -327,6 +372,15 @@
       "kind": "kronikk",
       "foundBy": "research",
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Når populisme trumfer klima og økonomi",
+      "date": "2026-05-20",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/05/20/nar-populisme-trumfer-klima-og-okonomi/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     },
     {
       "title": "Uønsket i Norge",
@@ -355,6 +409,15 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Pride er viktigere enn noensinne!",
+      "date": "2026-06-01",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/06/01/pride-er-viktigere-enn-noensinne/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Tyven, tyven skal du hete",
       "date": "2026-07-11",
       "publication": "Liberaleren",
@@ -373,6 +436,24 @@
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
     },
     {
+      "title": "Journalistiske gribber",
+      "date": "2026-07-21",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/07/21/journalistiske-gribber/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Det vanskelige skillet",
+      "date": "2026-08-06",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/06/det-vanskelige-skillet/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Resepter og apoteker er sårbart",
       "date": "2026-08-08",
       "publication": "Liberaleren",
@@ -380,6 +461,15 @@
       "url": "https://www.liberaleren.no/2026/08/08/resepter-og-apoteker-sarbart/",
       "foundBy": "research",
       "firstSeenAt": "2026-11-09T13:24:16.332Z"
+    },
+    {
+      "title": "Vi trenger mer seksualisering",
+      "date": "2026-08-16",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/16/vi-trenger-mer-seksualisering/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     },
     {
       "title": "Dyr oppbevaring",
@@ -422,6 +512,15 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Ideer om frihet nr 3",
+      "date": "2026-08-23",
+      "publication": "Liberaleren",
+      "kind": "annet",
+      "url": "https://www.liberaleren.no/2026/08/23/ideer-om-frihet-nr-3/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Læring utenfor klasserommet",
       "date": "2026-08-24",
       "publication": "Liberaleren",
@@ -445,6 +544,15 @@
       "kind": "kronikk",
       "foundBy": "research",
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
+    },
+    {
+      "title": "Barn trenger ubehag og utfordringer",
+      "date": "2026-08-28",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "url": "https://www.liberaleren.no/2026/08/28/barn-trenger-ubehag-og-utfordringer/",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     },
     {
       "title": "Raus og romslig",
@@ -831,6 +939,60 @@
       "firstSeenAt": "2026-11-16T13:10:12.224Z"
     },
     {
+      "title": "Utilsiktede konsekvenser",
+      "url": "https://www.liberaleren.no/2026/11/18/utilsiktede-konsekvenser/",
+      "date": "2026-11-18",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Lønnsom innvandring til tross for velferdsstaten",
+      "url": "https://www.liberaleren.no/2026/11/19/lonnsom-innvandring-til-tross-for-velferdsstaten/",
+      "date": "2026-11-19",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Skatt på glede!",
+      "url": "https://www.liberaleren.no/2026/11/20/skatt-pa-glede/",
+      "date": "2026-11-20",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Alle bør betale full pris for strøm",
+      "url": "https://www.liberaleren.no/2026/11/21/alle-bor-betale-full-pris-for-strom/",
+      "date": "2026-11-21",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Den frie verdens fiender",
+      "url": "https://www.liberaleren.no/2026/11/22/den-frie-verdens-fiender/",
+      "date": "2026-11-22",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "En usedvanlig god bok om MAGA",
+      "url": "https://www.liberaleren.no/2026/11/23/en-usedvanlig-god-bok-om-maga/",
+      "date": "2026-11-23",
+      "publication": "Bent Johan Mosfjell – Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Liberalismen er viktigere enn noensinne",
       "publication": "Minerva",
       "kind": "kronikk",
@@ -848,12 +1010,47 @@
       "firstSeenAt": "2026-10-26T10:32:42.441Z"
     },
     {
+      "title": "Dumme, dumme, dumme, dum?",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Fint og viktig fra AUF, men",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Hjelp Dorota!",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Høyresidens kanon er ingen gavepakke til venstresiden",
       "publication": "Minerva",
       "kind": "artikkel",
       "url": "https://www.minerva.no/bent-johan-mosfjell-borgerlig-boker/hoyresidens-kanon-er-ingen-gavepakke-til-venstresiden/438324",
       "foundBy": "research",
       "firstSeenAt": "2026-10-19T10:18:53.551Z"
+    },
+    {
+      "title": "Ja til høy pris på diesel",
+      "publication": "Liberaleren",
+      "kind": "kronikk",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
+      "title": "Nicolai Østeby vant lederkampen i Unge Høyre",
+      "publication": "Liberaleren",
+      "kind": "artikkel",
+      "foundBy": "research",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
     }
   ],
   "knownEvents": [],
@@ -865,7 +1062,7 @@
     ]
   },
   "imagePath": "bent-johan-mosfjell.jpg",
-  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
-  "lastResearchedAt": "2026-11-16T13:10:12.224Z",
-  "lastWrittenAt": "2026-11-16T13:10:12.224Z"
+  "lastCheckedAt": "2026-11-23T15:24:34.966Z",
+  "lastResearchedAt": "2026-11-23T15:24:34.966Z",
+  "lastWrittenAt": "2026-11-23T15:24:34.966Z"
 }

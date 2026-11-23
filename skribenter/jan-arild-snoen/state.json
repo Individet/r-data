@@ -312,6 +312,15 @@
       "firstSeenAt": "2026-11-16T13:10:12.224Z"
     },
     {
+      "title": "Den strålende fortiden",
+      "date": "2026-11-21",
+      "publication": "SNOEN (Substack)",
+      "kind": "bloggpost",
+      "url": "https://snoen.substack.com/p/den-stralende-fortiden",
+      "foundBy": "change-check",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "De sender også de beste",
       "publication": "SNOEN",
       "kind": "bloggpost",
@@ -442,11 +451,11 @@
     "writerId": "jan-arild-snoen",
     "action": "update-list",
     "reasons": [
-      "3 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": "jan-arild-snoen.jpg",
-  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
+  "lastCheckedAt": "2026-11-23T15:24:34.966Z",
   "lastResearchedAt": "2026-10-26T10:32:42.441Z",
   "lastWrittenAt": "2026-10-26T10:32:42.441Z"
 }

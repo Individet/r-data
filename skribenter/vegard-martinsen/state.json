@@ -255,6 +255,15 @@
       "firstSeenAt": "2026-11-16T13:10:12.224Z"
     },
     {
+      "title": "Podcast: dataspill",
+      "url": "https://www.gullstandard.no/2026/11/20/podcast-dataspill/",
+      "date": "2026-11-20",
+      "publication": "Vegard Martinsen – Gullstandard",
+      "kind": "artikkel",
+      "foundBy": "feed",
+      "firstSeenAt": "2026-11-23T15:24:34.966Z"
+    },
+    {
       "title": "Elon Musks svik",
       "publication": "Gullstandard",
       "kind": "artikkel",
@@ -289,11 +298,11 @@
     "writerId": "vegard-martinsen",
     "action": "update-list",
     "reasons": [
-      "4 nye tekster — oppdaterer tekstlista uten ny profiltekst"
+      "1 nye tekster — oppdaterer tekstlista uten ny profiltekst"
     ]
   },
   "imagePath": null,
-  "lastCheckedAt": "2026-11-16T13:10:12.224Z",
+  "lastCheckedAt": "2026-11-23T15:24:34.966Z",
   "lastResearchedAt": "2026-10-19T10:18:53.551Z",
   "lastWrittenAt": "2026-10-19T10:18:53.551Z"
 }
